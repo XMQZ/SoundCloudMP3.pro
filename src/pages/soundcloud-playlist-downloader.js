@@ -20,7 +20,7 @@ export default function SoundCloudPlaylistDownloaderPage() {
       <NextSeo
       title={t('web-title')}
       description={t('web-description')}
-      canonical={`https://soundcloudmp3.pro/${router.locale !== 'en' ? router.locale : ''}/soundcloud-playlist-downloader`}
+      canonical={`https://soundcloudmp3.pro/${router.locale !== 'en' ? `${router.locale}/` : ''}soundcloud-playlist-downloader`}
       languageAlternates={[
         {
             "hrefLang": "x-default",

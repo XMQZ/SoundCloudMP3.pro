@@ -20,7 +20,7 @@ export default function SoundCloudAlbumCoverDownloaderPage() {
       <NextSeo
       title={t('web-title')}
       description={t('web-description')}
-      canonical={`https://soundcloudmp3.pro/${router.locale !== 'en' ? router.locale : ''}/soundcloud-albumcover-downloader`}
+      canonical={`https://soundcloudmp3.pro/${router.locale !== 'en' ? `${router.locale}/` : ''}soundcloud-albumcover-downloader`}
       languageAlternates={[
         {
             "hrefLang": "x-default",
