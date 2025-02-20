@@ -459,11 +459,15 @@ export default function Downloader(props) {
                 <>
                     <h1 className='text-4xl font-bold text-center text-white'>{props.title}</h1> 
                     <h2 className='mt-2 mb-5 text-gray-100 text-center whitespace-pre-line'>{props.description}</h2>
-                    <AdsenseAd className="adsbygoogle block mb-2 w-full"
+                    {
+                        /*
+                        <AdsenseAd className="adsbygoogle block mb-2 w-full"
                     data-ad-client="ca-pub-2234703663073578"
                     data-ad-slot="3832852730"
                     data-ad-format="auto"
                     data-full-width-responsive="true"/>
+                        */
+                    }
                     <form onSubmit={onSubmit} className='flex w-full my-2 flex-col md:flex-row' action={`/${router.locale}`} method='GET'>
                         <div style={{ 'background': isDownloading ? '#ededed' : '#ffffff'  }} className='flex backdrop-blur-lg pl-3 py-2 pr-2 w-full border border-black mr-0 md:mr-3'>
                             <input disabled={isDownloading} inputMode="verbatim" autoCapitalize="off" autoCorrect="off" spellCheck="false" autoComplete="off" name="q" id='urlinput' placeholder={t('placeholder')} className='data-hj-allow w-full outline-none font-semibold text-gray-800 bg-transparent' onChange={handleInputChange} onKeyUp={onKeyUp}/>
