@@ -122,7 +122,7 @@ export default function AboutUSPage() {
         </p>
     </div>
 
-    <img src="/abt.webp" className="max-w-3xl mx-auto rounded-xl my-10" alt="About SoundCloudMP3" />
+    <img src="/abt.webp" className="max-w-3xl w-full mx-auto rounded-xl my-10" alt="About SoundCloudMP3" />
 
     <div className="mt-8">
         <h2 className="text-2xl font-bold text-gray-900">{t('whyChooseTitle', { ns: 'about' })}</h2>
