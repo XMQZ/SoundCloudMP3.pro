@@ -1,0 +1,13 @@
+{
+    "placeholder": "Paste SoundCloud URL Here",
+    "paste": "Paste", 
+    "download": "Download",
+    "selectfromplaylist": "Select from Playlist",
+    "downloads": {
+        "singlemp3": "Download Single MP3 Audio",
+        "entireplaylist": "Download entire Playlist as ZIP",
+        "albumcover": "Download Album Cover",
+        "dp": "Download Profile Picture",
+        "more": "Download More"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "web-title": "SoundCloudMP3 - Pakua Nyimbo na Orodha za Uchezaji za SoundCloud kama MP3",
+    "web-description": "Pakua nyimbo, albamu, na orodha za uchezaji za SoundCloud kama MP3 za ubora wa juu na SoundCloudMP3. Kigeuzi cha SoundCloud hadi MP3 cha haraka, cha bure, na rahisi kutumia. Hakuna usajili unaohitajika.",
+    "aboutTitle": "Kuhusu Sisi",
+    "aboutSubtitle": "Kipakuzi cha Mwisho cha SoundCloud kwa MP3 za Ubora wa Juu",
+    "whoWeAreTitle": "Sisi Ni Nani",
+    "whoWeAreText": "Karibu kwenye <strong>SoundCloudMP3</strong>, suluhisho lako bora la kupakua nyimbo za SoundCloud katika umbizo la MP3 la ubora wa juu. Tunapenda kuwapa wapenda muziki, DJs, waundaji wa maudhui, na wasikilizaji wa kawaida njia isiyo na matatizo ya kuhifadhi na kufurahia nyimbo zao wapendazo nje ya mtandao.",
+    "missionTitle": "Dhamira Yetu",
+    "missionText": "Dhamira yetu ni kutoa kifaa kilicho <strong>rahisi, haraka, na kinachotegemewa</strong> ambacho huruhusu watumiaji kupakua muziki wa SoundCloud kwa ubora bora zaidi. Tunaunga mkono umbizo na sauti nyingi tofauti ikijumuisha <strong>MP3 za 128kbps, 192kbps, na 320kbps</strong>, pamoja na <strong>FLAC na WAV</strong> kwa ubora wa kutopoteza maudhui.",
+    "whyChooseTitle": "Kwanini Uchague SoundCloudMP3?",
+    "whyChooseFeatures": [
+        "<strong>Upakuaji wa Haraka na Rahisi</strong> – Geuza na pakua nyimbo za SoundCloud kwa kubofya chache tu. Hakuna haja ya kufunga programu.",
+        "<strong>Inasaidia Orodha za Uchezaji na Albamu</strong> – Hifadhi orodha za uchezaji au albamu nzima kama faili za ZIP bila shida.",
+        "<strong>Sauti ya Ubora wa Juu</strong> – Chagua kutoka bitreth tofauti kwa uzoefu bora wa kusikiliza.",
+        "<strong>Pakua Jalada la Albamu na Sanaa</strong> – Pakua jalada la albamu lenye azimio kubwa pamoja na nyimbo zako.",
+        "<strong>Inapatana na Vifaa Vyote</strong> – Inafanya kazi vizuri kwenye PC, Mac, Android, na iOS.",
+        "<strong>Bure Kabisa</strong> – Hakuna ada za siri au akaunti za malipo zinazohitajika."
+    ],
+    "howItWorksTitle": "Inavyofanya Kazi",
+    "howItWorksSteps": [
+        "Nakili URL ya wimbo wa SoundCloud, orodha ya uchezaji, au albamu unayotaka kupakua.",
+        "Bandika kwenye kisanduku cha ingizo cha <strong>SoundCloudMP3 Downloader</strong>.",
+        "Chagua umbizo na ubora wa sauti unaopendelea.",
+        "Bonyeza kitufe cha <strong>Pakua</strong> na pata faili yako ya MP3 mara moja."
+    ],
+    "commitmentTitle": "Dhamira Yetu kwa Watumiaji",
+    "commitmentText": "Tunathamini <strong>faragha na usalama wa watumiaji</strong>. Hatuhifadhi historia ya upakuaji au data binafsi, hivyo kuhakikisha uzoefu wako ni <strong>wa siri kabisa na salama</strong>. Jukwaa letu linatoa huduma ya kupakua <strong>bila matangazo, bila usumbufu, na bila kikomo</strong>.",
+    "joinUsersTitle": "Jiunge na Maelfu ya Watumiaji Ulimwenguni Pote",
+    "joinUsersText": "Mamilioni ya watumiaji wanaamini <strong>SoundCloudMP3</strong> kwa ajili ya upakuaji wa muziki wa SoundCloud. Kama unahitaji nyimbo kwa ajili ya kusikiliza binafsi, kuchanganya muziki kama DJ, au miradi ya ubunifu, tupo hapa kukusaidia kufikia muziki unaoupenda wakati wowote, popote.",
+    "ctaTitle": "Anza Kupakua Sasa!",
+    "ctaText": "Anza leo na upate uzoefu wa kigeuzi bora <strong>cha SoundCloud hadi MP3</strong> kinachopatikana mtandaoni.",
+    "ctaButton": "Jaribu SoundCloudMP3 Sasa 🚀"
+}

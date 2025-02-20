@@ -1,0 +1,74 @@
+{
+    "web-title": "SoundCloud 앨범 커버 [ArtWork] 다운로더",
+    "web-description": "SoundCloud ArtWork Downloader로 고품질의 SoundCloud ArtWork(앨범 커버)를 다운로드하세요. HD 품질로 앨범 커버와 트랙 이미지를 저장하세요.",
+    "downloader-title": "SoundCloud 앨범 커버 [Art Work] 다운로드",
+    "downloader-description": "무료로 HD SoundCloud 앨범 커버 및 트랙 아트워크를 다운로드하세요",
+    "featuresTitle": "SoundCloud to MP3 컨버터의 기능",
+    "features": [
+        {
+            "title": "SoundCloud to MP3",
+            "description": "한 번의 클릭으로 SoundCloud 트랙을 MP3 형식으로 쉽게 다운로드하세요. 이 도구를 사용하면 고품질 MP3 파일로 노래를 저장할 수 있어, 모든 기기에서 오프라인 청취에 이상적입니다. 추가 소프트웨어는 필요 없습니다. 트랙 링크를 입력하고 바로 다운로드를 시작하세요."
+        },
+        {
+            "title": "전체 재생목록을 ZIP으로",
+            "description": "Playlist to ZIP Converter를 사용하면 여러 트랙을 하나의 ZIP 파일로 묶어 SoundCloud 전체 재생목록을 쉽게 다운로드할 수 있습니다. 이 기능은 빠르고 체계적인 저장을 가능하게 하여, 각각의 트랙을 개별적으로 저장하지 않고도 음악 컬렉션을 쉽게 전송하고 관리하도록 도와줍니다."
+        },
+        {
+            "title": "ArtWork 다운로더",
+            "description": "좋아하는 트랙과 함께 SoundCloud에서 고해상도 앨범 커버를 다운로드하세요. 이 기능은 선명하고 자세한 아트워크를 제공하여, 음악 앱과 플레이어에서 노래를 잘 정리하고 시각적으로 매력적인 청취 경험을 창출합니다."
+        },
+        {
+            "title": "모든 기기와 호환",
+            "description": "PC, Mac, Android, iOS 기기를 사용하든 상관없이 이 다운로더는 모든 플랫폼에서 문제없이 작동합니다. 추가 소프트웨어나 앱 설치가 필요 없으며, 선호하는 웹 브라우저를 열고 즉시 SoundCloud 트랙을 다운로드하세요."
+        },
+        {
+            "title": "앨범 다운로더",
+            "description": "각 트랙을 개별적으로 저장할 필요 없이 전체 SoundCloud 앨범을 한 번에 빠르게 다운로드하세요. 이 기능은 프로세스를 간소화하여 고품질 오디오로 아티스트 컬렉션 전체를 수집하고 저장하기 쉽게 만듭니다."
+        },
+        {
+            "title": "FLAC 및 MP3 지원",
+            "description": "향상된 선명도와 깊이로 고품질 오디오 다운로드를 즐기세요. 128kbps, 192kbps, 320kbps MP3 형식 중에서 선택하여 청취 취향에 맞출 수 있습니다. 또한, MP3, FLAC, WAV 등 다양한 형식을 지원하여 다양한 오디오 필요에 유연성을 제공합니다."
+        }
+    ],
+    "howToDownloadArtworkTitle": "앨범 아트워크를 다운로드하는 방법?",
+    "howToDownloadArtworkSteps": [
+        {
+            "title": "SoundCloud 트랙 또는 앨범 URL 복사",
+            "description": "SoundCloud를 열고 원하는 아트워크가 있는 트랙, 앨범, 또는 재생목록을 찾으세요. 공유 버튼을 클릭하고 제공된 링크를 복사하세요."
+        },
+        {
+            "title": "링크를 다운로더에 붙여넣기",
+            "description": "<0>SoundCloud ArtWork 다운로더</0>로 이동하여 검색창에 복사한 링크를 삽입하고 다운로드 아트워크 버튼을 눌러 이미지를 가져옵니다."
+        },
+        {
+            "title": "앨범 커버 이미지 다운로드",
+            "description": "아트워크가 생성되면, 다운로드 버튼을 클릭하여 HD 품질로 저장하세요. 이제 음악 컬렉션이나 미디어 라이브러리에 사용할 준비가 된 앨범 커버를 얻었습니다."
+        }
+    ],
+    "downloadSectionTitle": "SoundCloud 앨범 커버 이미지 다운로드",
+    "downloadSectionText": "재생목록과 앨범의 SoundCloud 앨범 커버를 고해상도로 쉽게 추출하세요. SoundCloud URL을 간단히 붙여넣고 아트워크를 즉시 다운로드하세요. 프로필 사진 다운로드도 지원합니다.",
+    "downloadSectionExtra": "이 도구는 PC, Mac, Android 및 iOS에서 작동하며, 선명한 이미지(png, jpg)를 제공합니다. 이 도구로 고품질의 앨범 커버와 사용자 프로필 사진을 추출할 수 있습니다.",
+    "faqTitle": "자주 묻는 질문",
+    "faq": [
+        {
+            "q": "SoundCloud 앨범 커버 다운로더란 무엇인가요?",
+            "a": "SoundCloud 트랙, 재생목록, 앨범에서 고해상도의 앨범 아트워크를 즉시 다운로드할 수 있는 온라인 도구입니다."
+        },
+        {
+            "q": "SoundCloud에서 앨범 아트워크를 어떻게 다운로드하나요?",
+            "a": "SoundCloud 트랙, 앨범 또는 재생목록 URL을 복사하여 다운로더에 붙여넣고 '아트워크 다운로드' 버튼을 클릭하여 이미지를 저장하세요."
+        },
+        {
+            "q": "다운로드된 앨범 커버의 품질은 어떻습니까?",
+            "a": "이 도구는 고해상도 이미지를 가져오며, 음악 정리와 미디어 플레이어를 위해 선명하고 또렷한 아트워크를 보장합니다."
+        },
+        {
+            "q": "SoundCloud 아트워크 다운로드를 위해 소프트웨어를 설치해야 하나요?",
+            "a": "아니요, 이 도구는 완전히 온라인에서 작동하여 설치 없이 웹 브라우저로 앨범 커버를 직접 다운로드할 수 있습니다."
+        },
+        {
+            "q": "휴대폰으로 아트워크를 다운로드할 수 있습니까?",
+            "a": "네, SoundCloud ArtWork 다운로더는 Android 및 iOS를 포함한 모바일 기기와 호환되어 이동 중에도 앨범 커버를 쉽게 저장할 수 있습니다."
+        }
+    ]
+}

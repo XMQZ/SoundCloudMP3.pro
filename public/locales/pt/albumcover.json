@@ -1,0 +1,74 @@
+{
+    "web-title": "SoundCloud Album Cover [ArtWork] Downloader",
+    "web-description": "Baixe obras de arte (capa de álbum) de alta qualidade do SoundCloud com o SoundCloud ArtWork Downloader. Salve capas de álbuns e imagens de faixas em qualidade HD.",
+    "downloader-title": "Baixar Capa de Álbum do SoundCloud [Art Work]",
+    "downloader-description": "Baixe Capas de Álbuns e Obras de Faixas do SoundCloud em HD gratuitamente",
+    "featuresTitle": "Recursos do Conversor SoundCloud para MP3",
+    "features": [
+        {
+            "title": "SoundCloud para MP3",
+            "description": "Baixe facilmente faixas do SoundCloud no formato MP3 com apenas um clique. Esta ferramenta permite que você salve músicas em arquivos MP3 de alta qualidade, tornando-os ideais para ouvir offline em qualquer dispositivo. Não é necessário software adicional; basta inserir o link da faixa e começar a baixar instantaneamente."
+        },
+        {
+            "title": "Playlist Completa para ZIP",
+            "description": "O Conversor de Playlist para ZIP facilita o download de playlists completas do SoundCloud, empacotando várias faixas em um único arquivo ZIP. Esta função permite um armazenamento mais rápido e organizado, permitindo que os usuários transfiram e gerenciem sua coleção de músicas facilmente, sem precisar salvar cada faixa individualmente."
+        },
+        {
+            "title": "Downloader de ArtWork",
+            "description": "Baixe capas de álbuns em alta resolução do SoundCloud junto com suas faixas favoritas. Este recurso melhora sua biblioteca de música ao fornecer obras de arte claras e detalhadas, ajudando você a manter suas músicas bem-organizadas em aplicativos e players de música, enquanto cria uma experiência auditiva visualmente envolvente."
+        },
+        {
+            "title": "Compatível com Todos os Dispositivos",
+            "description": "Independentemente de você estar usando um PC, Mac, Android ou dispositivo iOS, este downloader funciona perfeitamente em todas as plataformas. Não é necessário instalação de software ou aplicativo extra; basta abrir seu navegador da web preferido e começar a baixar faixas do SoundCloud imediatamente."
+        },
+        {
+            "title": "Downloader de Álbum",
+            "description": "Baixe rapidamente álbuns completos do SoundCloud de uma vez só, sem precisar salvar cada faixa individualmente. Este recurso simplifica o processo, facilitando reunir e armazenar coleções completas de artistas em áudio de alta qualidade para reprodução offline sem esforço."
+        },
+        {
+            "title": "Suporte FLAC e MP3",
+            "description": "Desfrute de downloads de áudio de alta qualidade com clareza e profundidade aprimoradas. Escolha entre os formatos MP3 de 128kbps, 192kbps ou 320kbps para combinar com sua preferência auditiva. Além disso, suporta vários formatos, incluindo MP3, FLAC e WAV, proporcionando flexibilidade para diferentes necessidades de áudio."
+        }
+    ],
+    "howToDownloadArtworkTitle": "Como baixar a capa do álbum?",
+    "howToDownloadArtworkSteps": [
+        {
+            "title": "Copie o URL da Faixa ou Álbum do SoundCloud",
+            "description": "Abra o SoundCloud e localize a faixa, álbum ou playlist com a obra de arte desejada. Clique no botão Compartilhar e copie o link fornecido."
+        },
+        {
+            "title": "Cole o Link no Downloader",
+            "description": "Vá para o <0>SoundCloud Artwork Downloader</0>, insira o link copiado na barra de pesquisa e pressione o botão Baixar Obra de Arte para obter a imagem."
+        },
+        {
+            "title": "Baixe a imagem da Capa do Álbum",
+            "description": "Uma vez gerada a obra de arte, clique no botão Baixar para salvá-la em qualidade HD. Agora você tem a capa do álbum pronta para sua coleção de música ou biblioteca de mídia."
+        }
+    ],
+    "downloadSectionTitle": "Baixar Imagem da Capa do Álbum do SoundCloud",
+    "downloadSectionText": "Extraia facilmente capas de álbuns do SoundCloud em alta resolução para playlists e álbuns. Simplesmente cole o URL do SoundCloud e baixe a obra de arte instantaneamente. Também oferecemos suporte para Download de Foto de Perfil.",
+    "downloadSectionExtra": "Esta ferramenta funciona em PC, Mac, Android e iOS, e fornece imagens nítidas (png, jpg). Você pode extrair capas de álbuns de alta qualidade e fotos de perfil de usuários com esta ferramenta.",
+    "faqTitle": "Perguntas Frequentes",
+    "faq": [
+        {
+            "q": "O que é o Downloader de Capas de Álbum do SoundCloud?",
+            "a": "É uma ferramenta online que permite baixar instantaneamente obras de arte de álbuns em alta resolução de faixas, playlists e álbuns do SoundCloud."
+        },
+        {
+            "q": "Como faço para baixar a capa do álbum do SoundCloud?",
+            "a": "Copie o URL da faixa, álbum ou playlist do SoundCloud, cole no downloader e clique no botão 'Baixar Obra de Arte' para salvar a imagem."
+        },
+        {
+            "q": "Qual é a qualidade das capas de álbuns baixadas?",
+            "a": "A ferramenta busca imagens de alta resolução, garantindo obras de arte claras e nítidas para organização de músicas e players de mídia."
+        },
+        {
+            "q": "Preciso instalar algum software para baixar arte do SoundCloud?",
+            "a": "Não, esta ferramenta funciona inteiramente online, permitindo que você baixe capas de álbuns diretamente do seu navegador da web, sem qualquer instalação."
+        },
+        {
+            "q": "Posso baixar obras de arte no meu telefone?",
+            "a": "Sim, o SoundCloud Artwork Downloader é compatível com dispositivos móveis, incluindo Android e iOS, facilitando a salvaguarda de capas de álbuns em movimento."
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /api/
+Disallow: /monitoring
+
+Sitemap: https://soundcloudmp3.pro/sitemap.xml

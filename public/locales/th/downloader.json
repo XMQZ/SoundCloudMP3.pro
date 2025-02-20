@@ -1,0 +1,13 @@
+{
+    "placeholder": "วาง URL ของ SoundCloud ที่นี่",
+    "paste": "วาง",
+    "download": "ดาวน์โหลด",
+    "selectfromplaylist": "เลือกจากรายการเพลง",
+    "downloads": {
+        "singlemp3": "ดาวน์โหลดไฟล์ MP3 เสียงเดียว",
+        "entireplaylist": "ดาวน์โหลดรายการเพลงทั้งหมดเป็นไฟล์ ZIP",
+        "albumcover": "ดาวน์โหลดปกอัลบั้ม",
+        "dp": "ดาวน์โหลดรูปโปรไฟล์",
+        "more": "ดาวน์โหลดเพิ่มเติม"
+    }
+}

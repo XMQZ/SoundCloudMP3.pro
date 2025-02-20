@@ -1,0 +1,102 @@
+{
+    "web-title": "#1 SoundCloud Downloader – Chuyển đổi SoundCloud MP3 Track, Playlist & Album",
+    "web-description": "Tải xuống bài hát, playlist, album, và ảnh bìa từ SoundCloud trực tuyến với trình tải tốt nhất. Chuyển đổi sang MP3 chất lượng cao (320kbps) miễn phí. Dễ dàng sử dụng trên mọi thiết bị.",
+    "downloader-title": "SoundCloud Downloader & Bộ chuyển đổi MP3",
+    "downloader-description": "Tải xuống Track SoundCloud, Bài hát, Playlist, Album & Chuyển đổi sang MP3 ngay lập tức – Nhanh, Miễn phí và Dễ dàng!",
+    "featuresTitle": "Tính năng của SoundCloud Downloader",
+    "features": [
+        {
+            "title": "Trình tải Âm thanh MP3",
+            "description": "Dễ dàng tải xuống các track SoundCloud ở định dạng MP3 chỉ với một cú nhấp chuột. Tính năng này cho phép bạn lưu bài hát dưới dạng tệp MP3 chất lượng cao, thuận tiện để nghe offline trên bất kỳ thiết bị nào. Không cần phần mềm bổ sung. Chỉ cần dán liên kết track và nhận tệp của bạn ngay lập tức."
+        },
+        {
+            "title": "Trình chuyển đổi Playlist sang ZIP",
+            "description": "Tiết kiệm thời gian bằng cách tải xuống toàn bộ playlist SoundCloud cùng lúc. Tính năng này nén nhiều track vào một tệp ZIP duy nhất, giúp dễ dàng lưu trữ và chuyển nhiều bài hát mà không cần tải xuống từng cái một. Lý tưởng cho DJ, người yêu nhạc và nghe offline."
+        },
+        {
+            "title": "Trình tải ArtWork",
+            "description": "Tải xuống ảnh bìa album độ phân giải cao từ SoundCloud cùng với track của bạn. Tính năng này đảm bảo thư viện nhạc của bạn trông hoàn chỉnh với các ảnh bìa đúng, giúp bạn tổ chức bài hát trực quan trên các máy nghe nhạc và ứng dụng stream."
+        },
+        {
+            "title": "Tương thích với Tất cả Thiết bị",
+            "description": "Dù bạn sử dụng PC, Mac, Android, hay iOS, trình tải này hoạt động trơn tru trên tất cả các nền tảng. Không cần phần mềm hoặc ứng dụng nào đặc biệt, chỉ cần sử dụng bất kỳ trình duyệt web nào để truy cập và tải xuống track SoundCloud yêu thích của bạn."
+        },
+        {
+            "title": "Trình tải Album",
+            "description": "Tải xuống toàn bộ album SoundCloud một lần mà không cần tải xuống từng track riêng biệt. Tính năng này giúp bạn lưu toàn bộ bộ sưu tập của nghệ sĩ yêu thích một cách nhanh chóng và hiệu quả với định dạng âm thanh chất lượng cao."
+        },
+        {
+            "title": "Âm thanh Chất lượng Cao",
+            "description": "Thưởng thức trải nghiệm âm thanh tốt nhất với tải xuống âm thanh bitrate cao. Chọn từ chất lượng MP3 128kbps, 192kbps, hoặc 320kbps. Tính năng này đảm bảo rằng bạn nhận được âm thanh có độ trung thực cao nhất, duy trì độ trong và chiều sâu trong mọi track. Chúng tôi hỗ trợ MP3, FLAC, WAV."
+        }
+    ],
+    "howToDownloadTitle": "Làm thế nào để tải xuống SoundCloud MP3?",
+    "howToDownloadSteps": [
+        {
+            "title": "Mở ứng dụng SoundCloud",
+            "description": "Mở <0>trang web SoundCloud</0> từ bất kỳ trình duyệt nào hoặc <1>ứng dụng</1>."
+        },
+        {
+            "title": "Sao chép URL Track SoundCloud",
+            "description": "Tìm track, playlist hoặc album bạn muốn tải xuống. Nhấn vào nút Chia sẻ và sao chép URL track."
+        },
+        {
+            "title": "Dán URL vào Trình tải",
+            "description": "Vào <2>công cụ Trình tải MP3</2> trong trình duyệt web của bạn. Dán URL SoundCloud đã sao chép vào trường nhập liệu."
+        },
+        {
+            "title": "Chọn Định dạng & Bấm ‘Tải xuống’",
+            "description": "Chọn định dạng âm thanh ưa thích của bạn (MP3, WAV, vv) và chọn chất lượng bitrate mong muốn (128kbps, 192kbps, 320kbps). Sau đó, nhấn nút Tải xuống."
+        },
+        {
+            "title": "Lưu & Thưởng thức Offline",
+            "description": "Sau khi xử lý, nhấp vào liên kết Tải xuống để lưu track vào thiết bị của bạn. Bây giờ bạn có thể thưởng thức nhạc SoundCloud yêu thích của mình offline bất cứ lúc nào!"
+        }
+    ],
+    "downloadSectionTitle": "Tải xuống SoundCloud MP3, Playlist, Album, Artwork trực tuyến",
+    "downloadSectionText": "Dễ dàng tải xuống các track MP3, playlist, album, và artwork từ SoundCloud trực tuyến chỉ với vài cú nhấp chuột. Chuyển đổi nhạc SoundCloud sang MP3 chất lượng cao (128kbps, 192kbps, 320kbps) và lưu toàn bộ playlist hoặc album trong một lần. Nhận ảnh bìa album độ phân giải cao cùng với tải xuống của bạn. <0>Bộ chuyển đổi Playlist sang ZIP</0> của chúng tôi cho phép người dùng tải xuống toàn bộ album hoặc playlist trong một tệp ZIP duy nhất.",
+    "downloadSectionExtra": "Không cần cài đặt phần mềm. Chỉ cần dán URL và tận hưởng tải xuống miễn phí trên mọi thiết bị, bao gồm PC, Mac, iOS, và Android.",
+    "faqTitle": "Các câu hỏi thường gặp",
+    "faq": [
+        {
+            "q": "SoundCloud Downloader là gì?",
+            "a": "SoundCloud Downloader là công cụ trực tuyến cho phép bạn tải xuống và chuyển đổi các track, playlist, album, và artwork từ SoundCloud sang định dạng MP3 hoặc các định dạng âm thanh khác để nghe offline."
+        },
+        {
+            "q": "Có miễn phí khi sử dụng không?",
+            "a": "Có, công cụ này miễn phí và không yêu cầu đăng ký hay thanh toán nào."
+        },
+        {
+            "q": "Làm thế nào để tải xuống một track SoundCloud?",
+            "a": "Sao chép URL của track, dán vào trình tải, chọn định dạng và chất lượng ưa thích, sau đó nhấn 'Tải xuống.'"
+        },
+        {
+            "q": "Tôi có thể tải xuống toàn bộ playlist từ SoundCloud không?",
+            "a": "Có, trình tải này cho phép người dùng tải xuống toàn bộ playlist dưới dạng tệp ZIP hoặc các tệp MP3 riêng lẻ."
+        },
+        {
+            "q": "Chất lượng âm thanh cao nhất mà tôi có thể tải xuống là gì?",
+            "a": "Bạn có thể thường tải xuống tệp MP3 ở 320kbps, đây là chất lượng âm thanh cao nhất có sẵn. Các tùy chọn khác bao gồm 128kbps và 192kbps."
+        },
+        {
+            "q": "Tôi có thể sử dụng SoundCloud Downloader trên điện thoại không?",
+            "a": "Có, công cụ chuyển đổi này hoạt động trên cả thiết bị Android và iOS thông qua trình duyệt web."
+        },
+        {
+            "q": "Các trình duyệt nào tương thích với trang web này?",
+            "a": "Nó hoạt động trên tất cả các trình duyệt chính như Google Chrome, Mozilla Firefox, Safari, Microsoft Edge, và Opera."
+        },
+        {
+            "q": "Tôi có thể tải xuống track riêng tư hoặc ẩn không?",
+            "a": "Chúng tôi hỗ trợ track riêng tư, nhưng bạn cần có quyền truy cập vào URL track để tải xuống."
+        },
+        {
+            "q": "Tại sao việc tải xuống của tôi bị lỗi hoặc không hoạt động?",
+            "a": "Điều này có thể do sự cố mạng, cài đặt trình duyệt, hoặc track SoundCloud bị hạn chế hoặc bị gỡ bỏ. Thử làm mới trang hoặc sử dụng trình tải khác."
+        },
+        {
+            "q": "SoundCloud Downloader có an toàn để sử dụng không?",
+            "a": "Có, miễn là bạn sử dụng trình tải đáng tin cậy và không có quảng cáo, nó là an toàn. Tránh các trình tải yêu cầu quyền hạn không cần thiết hoặc tải xuống."
+        }
+    ]
+}

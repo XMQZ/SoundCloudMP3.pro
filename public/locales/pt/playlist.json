@@ -1,0 +1,74 @@
+{
+    "web-title": "Downloader de Playlist do SoundCloud - Converta Playlist & Álbum Inteiro para ZIP",
+    "web-description": "Baixe faixas MP3 de playlists do SoundCloud facilmente. Converta playlists inteiras em um arquivo ZIP. Salve arquivos MP3 de playlists do SoundCloud diretamente no iPhone, Android, ou qualquer dispositivo",
+    "downloader-title": "Baixar Playlist do SoundCloud",
+    "downloader-description": "Converta Playlist para ZIP ou Salve arquivo MP3",
+    "featuresTitle": "Recursos do Conversor de Playlist Inteira para ZIP",
+    "features": [
+        {
+            "title": "Salvar áudio MP3",
+            "description": "Baixe músicas do SoundCloud em formato MP3 com um único clique. Este recurso permite salvar músicas como arquivos MP3 de alta qualidade, perfeito para ouvir offline em qualquer dispositivo. Não é necessário software extra, basta colar o link da faixa e baixar instantaneamente."
+        },
+        {
+            "title": "Conversor de Playlist para ZIP",
+            "description": "O Conversor de Playlist para ZIP simplifica o download de playlists inteiras do SoundCloud ao comprimir várias faixas em um único arquivo ZIP. Este recurso permite um armazenamento rápido e eficiente, facilitando a transferência e o gerenciamento de sua coleção de músicas sem precisar baixar músicas uma a uma."
+        },
+        {
+            "title": "Downloader de capa do álbum",
+            "description": "Obtenha capas de álbuns de alta qualidade do SoundCloud junto com suas faixas baixadas. Este recurso melhora sua coleção de músicas fornecendo imagens de capa nítidas, tornando mais fácil organizar visualmente músicas em tocadores de mídia e plataformas de streaming para uma experiência auditiva mais imersiva."
+        },
+        {
+            "title": "Compatível com Todos os Dispositivos",
+            "description": "Não importa qual dispositivo você está usando—PC, Mac, Android, ou iOS—este downloader garante funcionalidade suave e fácil em todas as plataformas. Não há necessidade de software adicional ou instalações de aplicativos; basta abrir qualquer navegador da web e começar a baixar suas faixas favoritas do SoundCloud instantaneamente."
+        },
+        {
+            "title": "Downloader de Albuns",
+            "description": "Baixe facilmente álbuns inteiros do SoundCloud em um único download, eliminando a necessidade de salvar faixas uma a uma. Este recurso agiliza o processo, permitindo que você colete e armazene rapidamente compilações completas de artistas em áudio de alta qualidade para ouvir offline sem interrupções."
+        },
+        {
+            "title": "Áudio de Alta Qualidade",
+            "description": "Experimente qualidade sonora superior com downloads de áudio de alta taxa de bits, oferecendo uma reprodução cristalina. Selecione entre opções de MP3 com 128kbps, 192kbps, ou 320kbps. Este recurso garante fidelidade de primeira linha, preservando a integridade de cada faixa. Além disso, aproveite o suporte a formatos versáteis, incluindo MP3, FLAC, e WAV, para a melhor experiência auditiva."
+        }
+    ],
+    "howToConvertTitle": "Como converter MP3 do SoundCloud para ZIP?",
+    "howToConvertSteps": [
+        {
+            "title": "Copie a URL da Playlist do SoundCloud",
+            "description": "Abra o SoundCloud no seu navegador ou aplicativo, encontre a playlist que deseja baixar e copie a URL da playlist na barra de endereços ou através do botão de compartilhamento."
+        },
+        {
+            "title": "Cole a URL & Converta",
+            "description": "Vá para a ferramenta de Conversor do SoundCloud para ZIP, cole a URL copiada na caixa de entrada e clique no botão Converter para ZIP. A ferramenta processará todas as faixas e as preparará para download."
+        },
+        {
+            "title": "Baixe o Arquivo ZIP",
+            "description": "Assim que a conversão estiver completa, clique no botão Baixar ZIP para salvar toda a playlist como um arquivo comprimido. Extraia o arquivo ZIP em seu dispositivo para acessar todas as faixas MP3 instantaneamente."
+        }
+    ],
+    "downloadSectionTitle": "Downloader de Playlist Inteira do SoundCloud para ZIP",
+    "downloadSectionText": "Economize tempo e esforço baixando playlists inteiras do SoundCloud como um único arquivo ZIP. Ao invés de baixar cada faixa separadamente, esta ferramenta permite que você obtenha várias músicas de uma só vez. Converta toda a sua faixa ou playlist em um único arquivo ZIP.",
+    "downloadSectionExtra": "Com um simples processo de copiar-colar-baixar, você pode converter qualquer playlist do SoundCloud em um arquivo ZIP em questão de segundos. Não é necessário software adicional ou registro.",
+    "faqTitle": "Perguntas Frequentes",
+    "faq": [
+        {
+            "q": "O que é o Downloader de Playlist do SoundCloud para ZIP?",
+            "a": "É uma ferramenta que permite baixar playlists inteiras do SoundCloud como um único arquivo ZIP, facilitando o armazenamento e o acesso a várias faixas de uma só vez."
+        },
+        {
+            "q": "Como faço para baixar uma playlist inteira como um arquivo ZIP?",
+            "a": "Copie a URL da playlist, cole-a no downloader, clique em 'Converter para ZIP' e baixe o arquivo compactado contendo todas as faixas."
+        },
+        {
+            "q": "Preciso instalar algum software para usar esta ferramenta?",
+            "a": "Não, o Downloader de Playlist para ZIP do SoundCloud funciona online, então você não precisa instalar nenhum software ou aplicativos."
+        },
+        {
+            "q": "Posso usar esta ferramenta no meu telefone?",
+            "a": "Sim, o downloader é compatível com dispositivos móveis, incluindo Android e iOS, e funciona através de qualquer navegador de internet."
+        },
+        {
+            "q": "Em que formato de áudio as faixas baixadas estão?",
+            "a": "As faixas geralmente são baixadas em formato MP3, garantindo áudio de alta qualidade para ouvir offline."
+        }
+    ]
+}

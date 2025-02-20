@@ -1,0 +1,102 @@
+{
+    "web-title": "#1 SoundCloud下载器 – 转换SoundCloud MP3音轨、播放列表与专辑",
+    "web-description": "使用最佳SoundCloud下载器在线下载SoundCloud音轨、播放列表、专辑和艺术作品。免费转换为高质量MP3（320kbps）。适用于任何设备，使用简单。",
+    "downloader-title": "SoundCloud下载器与MP3转换器",
+    "downloader-description": "免费下载SoundCloud音轨、歌曲、播放列表、专辑并即时转换为MP3 – 快速、免费且方便！",
+    "featuresTitle": "SoundCloud下载器功能",
+    "features": [
+        {
+            "title": "MP3音频下载器",
+            "description": "只需点击一下即可轻松下载SoundCloud音轨为MP3格式。此功能允许您将歌曲保存为高质量MP3文件，方便在任何设备上离线收听。无需额外的软件。只需粘贴音轨链接即可立即获取文件。"
+        },
+        {
+            "title": "播放列表转ZIP转换器",
+            "description": "通过一次性下载整个SoundCloud播放列表来节省时间。此功能将多首曲目压缩为一个ZIP文件，使得存储和传输多首歌曲更加方便，不再需要逐个下载。适合DJ、音乐爱好者和离线收听。"
+        },
+        {
+            "title": "艺术作品下载器",
+            "description": "与音轨一起下载来自SoundCloud的高分辨率专辑艺术作品。此功能确保您的音乐库具有完整的封面图像，帮助您在音乐播放器和流媒体应用中更好地组织歌曲。"
+        },
+        {
+            "title": "兼容所有设备",
+            "description": "无论您使用PC、Mac、Android还是iOS设备，此下载器都可以在所有平台无缝工作。无需特别的软件或应用安装，只需使用任何网络浏览器即可访问并下载您喜欢的SoundCloud音轨。"
+        },
+        {
+            "title": "专辑下载器",
+            "description": "一次性下载完整的SoundCloud专辑，无需单独下载各个音轨。此功能帮助您快速有效地保存您喜欢的艺术家的整个收藏，以高质量音频格式。"
+        },
+        {
+            "title": "高质量音频",
+            "description": "通过高比特率音频下载享受最佳声音体验。选择128kbps、192kbps或320kbps MP3质量。此功能确保您获得最高保真度的音频，保留每首曲目的清晰度和深度。我们支持MP3、FLAC、WAV格式。"
+        }
+    ],
+    "howToDownloadTitle": "如何下载SoundCloud MP3？",
+    "howToDownloadSteps": [
+        {
+            "title": "打开SoundCloud应用",
+            "description": "从任何浏览器或<1>应用程序</1>打开<0>SoundCloud网站</0>。"
+        },
+        {
+            "title": "复制SoundCloud音轨URL",
+            "description": "找到您想下载的音轨、播放列表或专辑。点击分享按钮并复制音轨的URL。"
+        },
+        {
+            "title": "将URL粘贴到下载器中",
+            "description": "在您的网络浏览器中转到<2>MP3下载器工具</2>。将复制的SoundCloud URL粘贴到输入框中。"
+        },
+        {
+            "title": "选择格式并点击‘下载’",
+            "description": "选择您喜欢的音频格式（MP3、WAV等）并选择所需的比特率质量（128kbps、192kbps、320kbps）。然后，按下下载按钮。"
+        },
+        {
+            "title": "保存并离线欣赏",
+            "description": "处理完成后，点击下载链接将音轨保存到您的设备。现在，您可以随时离线欣赏您最喜爱的SoundCloud音乐！"
+        }
+    ],
+    "downloadSectionTitle": "在线下载SoundCloud MP3、播放列表、专辑、艺术作品",
+    "downloadSectionText": "只需几次点击即可轻松在线下载SoundCloud MP3音轨、播放列表、专辑和艺术作品。将SoundCloud音乐转换为高质量MP3（128kbps、192kbps、320kbps），一次性保存整个播放列表或专辑。与您的下载一起获取高分辨率的专辑艺术作品。我们的<0>播放列表转ZIP转换器</0>允许用户将整个专辑或播放列表下载为一个ZIP文件。",
+    "downloadSectionExtra": "无需软件安装。只需粘贴URL并在包括PC、Mac、iOS和Android在内的任何设备上享受免费下载。",
+    "faqTitle": "常见问题解答",
+    "faq": [
+        {
+            "q": "什么是SoundCloud下载器？",
+            "a": "SoundCloud下载器是一个在线工具，允许您下载和转换SoundCloud音轨、播放列表、专辑和艺术作品为MP3或其他音频格式，供离线收听。"
+        },
+        {
+            "q": "使用是免费的吗？",
+            "a": "是的，此工具免费使用，不需要任何订阅或付款。"
+        },
+        {
+            "q": "我如何下载SoundCloud音轨？",
+            "a": "复制音轨的URL，将其粘贴到下载器中，选择您喜欢的格式和质量，然后点击“下载”。"
+        },
+        {
+            "q": "我可以下载SoundCloud的整个播放列表吗？",
+            "a": "是的，此下载器允许用户将完整的播放列表下载为ZIP文件或单个MP3文件。"
+        },
+        {
+            "q": "我可以下载的最高音频质量是多少？",
+            "a": "您通常可以下载320kbps的MP3文件，这是可用的最高音频质量。其他选项包括128kbps和192kbps。"
+        },
+        {
+            "q": "我可以在手机上使用SoundCloud下载器吗？",
+            "a": "是的，此转换器可通过网络浏览器在Android和iOS设备上使用。"
+        },
+        {
+            "q": "哪些浏览器兼容此网站？",
+            "a": "它适用于所有主要浏览器，如谷歌Chrome、Mozilla Firefox、Safari、Microsoft Edge和Opera。"
+        },
+        {
+            "q": "我可以下载私人或隐藏的音轨吗？",
+            "a": "我们支持私人音轨，但您需要访问音轨的URL才能下载它们。"
+        },
+        {
+            "q": "为什么我的下载失败或无法工作？",
+            "a": "这可能是由于网络问题、浏览器设置或SoundCloud音轨被限制或删除。尝试刷新页面或使用不同的下载器。"
+        },
+        {
+            "q": "SoundCloud下载器使用安全吗？",
+            "a": "是的，只要您使用受信任且无广告的下载器，它就是安全的。避免使用需要不必要权限或下载的下载器。"
+        }
+    ]
+}

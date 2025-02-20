@@ -1,0 +1,74 @@
+{
+    "web-title": "Trình Tải Ảnh Bìa Album SoundCloud [ArtWork]",
+    "web-description": "Tải xuống Ảnh Bìa Album (ArtWork) chất lượng cao từ SoundCloud với Trình Tải Ảnh Bìa SoundCloud. Lưu ảnh bìa album và hình ảnh bài hát với chất lượng HD.",
+    "downloader-title": "Tải Ảnh Bìa Album SoundCloud [Art Work]",
+    "downloader-description": "Tải xuống Ảnh Bìa Album & ArtWork của Bài Hát SoundCloud chất lượng HD miễn phí",
+    "featuresTitle": "Tính Năng của Trình Chuyển Đổi SoundCloud sang MP3",
+    "features": [
+        {
+            "title": "SoundCloud sang MP3",
+            "description": "Dễ dàng tải xuống các bài hát từ SoundCloud ở định dạng MP3 chỉ với một cú nhấp chuột. Công cụ này cho phép bạn lưu bài hát dưới dạng tệp MP3 chất lượng cao, lý tưởng cho việc nghe ngoại tuyến trên mọi thiết bị. Không cần phần mềm bổ sung; chỉ cần nhập liên kết bài hát và bắt đầu tải ngay lập tức."
+        },
+        {
+            "title": "Toàn Bộ Danh Sách Phát thành ZIP",
+            "description": "Trình Chuyển Đổi Danh Sách Phát thành ZIP giúp dễ dàng tải xuống toàn bộ danh sách phát SoundCloud bằng cách gói gọn nhiều bài hát vào một tệp ZIP duy nhất. Chức năng này giúp lưu trữ nhanh chóng và có tổ chức hơn, cho phép người dùng chuyển và quản lý bộ sưu tập âm nhạc của mình một cách dễ dàng mà không cần lưu từng bài hát riêng lẻ."
+        },
+        {
+            "title": "Trình Tải ArtWork",
+            "description": "Tải ảnh bìa album độ phân giải cao từ SoundCloud cùng các bài hát yêu thích của bạn. Tính năng này cải thiện thư viện nhạc của bạn bằng cách cung cấp ảnh nghệ thuật rõ nét và chi tiết, giúp bạn giữ cho các bài hát được tổ chức tốt trên các ứng dụng và trình phát nhạc, đồng thời tạo ra trải nghiệm nghe hấp dẫn về mặt hình ảnh."
+        },
+        {
+            "title": "Tương Thích Với Mọi Thiết Bị",
+            "description": "Cho dù bạn đang sử dụng PC, Mac, Android hay thiết bị iOS, trình tải này hoạt động trơn tru trên tất cả các nền tảng. Không cần phần mềm hay cài đặt ứng dụng bổ sung; chỉ cần mở trình duyệt web yêu thích của bạn và bắt đầu tải xuống các bài hát từ SoundCloud ngay lập tức."
+        },
+        {
+            "title": "Trình Tải Album",
+            "description": "Nhanh chóng tải toàn bộ album từ SoundCloud chỉ trong một lần mà không cần lưu từng bài hát riêng lẻ. Tính năng này đơn giản hóa quá trình, giúp dễ dàng thu thập và lưu trữ toàn bộ bộ sưu tập của nghệ sĩ với âm thanh chất lượng cao để nghe ngoại tuyến dễ dàng."
+        },
+        {
+            "title": "Hỗ Trợ FLAC và MP3",
+            "description": "Thưởng thức tải xuống âm thanh chất lượng cao với độ rõ và sâu sắc được cải thiện. Chọn định dạng MP3 128kbps, 192kbps hoặc 320kbps để phù hợp với sở thích nghe của bạn. Ngoài ra, nó hỗ trợ nhiều định dạng, bao gồm MP3, FLAC và WAV, cung cấp sự linh hoạt cho các nhu cầu âm thanh khác nhau."
+        }
+    ],
+    "howToDownloadArtworkTitle": "Làm thế nào để tải xuống ảnh nghệ thuật album?",
+    "howToDownloadArtworkSteps": [
+        {
+            "title": "Sao chép URL Bài Hát hoặc Album trên SoundCloud",
+            "description": "Mở SoundCloud và tìm bài hát, album, hoặc danh sách phát có ảnh nghệ thuật bạn muốn. Nhấp vào nút Chia sẻ và sao chép liên kết được cung cấp."
+        },
+        {
+            "title": "Dán Liên Kết vào Trình Tải",
+            "description": "Đi đến <0>Trình Tải Ảnh Nghệ Thuật SoundCloud</0>, dán liên kết đã sao chép vào thanh tìm kiếm và nhấn nút Tải Xuống Ảnh Nghệ Thuật để lấy hình ảnh."
+        },
+        {
+            "title": "Tải xuống hình ảnh ảnh bìa album",
+            "description": "Sau khi ảnh nghệ thuật được tạo ra, nhấp vào nút Tải xuống để lưu với chất lượng HD. Giờ đây, bạn đã có ảnh bìa album sẵn sàng cho bộ sưu tập nhạc hoặc thư viện media của mình."
+        }
+    ],
+    "downloadSectionTitle": "Tải Hình Ảnh Ảnh Bìa Album SoundCloud",
+    "downloadSectionText": "Dễ dàng lấy ảnh bìa album SoundCloud độ phân giải cao cho danh sách phát và album. Chỉ cần dán URL SoundCloud và tải ảnh nghệ thuật ngay lập tức. Chúng tôi cũng hỗ trợ Tải Xuống Ảnh Đại Diện.",
+    "downloadSectionExtra": "Công cụ này hoạt động trên PC, Mac, Android và iOS và cung cấp hình ảnh rõ ràng (png, jpg). Bạn có thể lấy ảnh bìa album chất lượng cao và ảnh đại diện người dùng với công cụ này.",
+    "faqTitle": "Câu Hỏi Thường Gặp",
+    "faq": [
+        {
+            "q": "Trình Tải Ảnh Bìa Album SoundCloud là gì?",
+            "a": "Đó là một công cụ trực tuyến cho phép bạn tải xuống ảnh nghệ thuật album độ phân giải cao từ các bài hát, danh sách phát và album trên SoundCloud một cách nhanh chóng."
+        },
+        {
+            "q": "Làm thế nào để tải ảnh nghệ thuật album từ SoundCloud?",
+            "a": "Sao chép URL của bài hát, album, hoặc danh sách phát SoundCloud, dán vào trình tải, và nhấp vào nút 'Tải Xuống Ảnh Nghệ Thuật' để lưu hình ảnh."
+        },
+        {
+            "q": "Chất lượng của các ảnh bìa album đã tải xuống như thế nào?",
+            "a": "Công cụ này lấy về các hình ảnh độ phân giải cao, đảm bảo ảnh nghệ thuật rõ nét cho việc tổ chức nhạc và các trình phát media."
+        },
+        {
+            "q": "Tôi có cần cài đặt phần mềm nào để tải ảnh nghệ thuật SoundCloud không?",
+            "a": "Không, công cụ này hoạt động hoàn toàn trực tuyến, cho phép bạn tải xuống ảnh bìa album trực tiếp từ trình duyệt web của bạn mà không cần cài đặt."
+        },
+        {
+            "q": "Tôi có thể tải ảnh nghệ thuật trên điện thoại của mình không?",
+            "a": "Có, Trình Tải Ảnh Nghệ Thuật SoundCloud tương thích với các thiết bị di động, bao gồm Android và iOS, giúp bạn dễ dàng lưu ảnh bìa album ngay khi di chuyển."
+        }
+    ]
+}

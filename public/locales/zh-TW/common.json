@@ -1,0 +1,102 @@
+{
+    "web-title": "#1 SoundCloud 下載器 – 轉換 SoundCloud MP3 曲目、播放清單和專輯",
+    "web-description": "使用最佳 SoundCloud 下載器在線下載 SoundCloud 曲目、播放清單、專輯和藝術作品。免費轉換為高品質 MP3 (320kbps)。適用於任何設備，操作簡單。",
+    "downloader-title": "SoundCloud 下載器和 MP3 轉換器",
+    "downloader-description": "下載 SoundCloud 曲目、歌曲、播放清單、專輯並立即轉換為 MP3——快速、免費、簡單！",
+    "featuresTitle": "SoundCloud 下載器功能",
+    "features": [
+        {
+            "title": "MP3 音樂下載器",
+            "description": "只需點擊一下即可輕鬆下載 SoundCloud 曲目的 MP3 格式。此功能允許您保存高品質 MP3 文件的歌曲，便於在任何設備上離線聆聽。無需額外的軟件，只需粘貼曲目鏈接即可立即獲取文件。"
+        },
+        {
+            "title": "播放清單 ZIP 轉換器",
+            "description": "能同時下載整個 SoundCloud 播放清單而節省時間。該功能將多個曲目壓縮成一個 ZIP 文件，使您不必逐一下載，便於存儲和傳輸多首歌曲。非常適合 DJ、音樂愛好者和離線收聽。"
+        },
+        {
+            "title": "藝術作品下載器",
+            "description": "與您的曲目一起下載高解析度的專輯藝術作品。此功能確保您的音樂庫具有完整的封面圖像，幫助您在音樂播放器和流媒體應用中以視覺方式組織歌曲。"
+        },
+        {
+            "title": "兼容所有設備",
+            "description": "無論您使用的是 PC、Mac、Android 還是 iOS 設備，此下載器在所有平台上均能無縫運行。無需安裝特殊軟件或應用，只需使用任何網頁瀏覽器即可訪問並下載您喜愛的 SoundCloud 曲目。"
+        },
+        {
+            "title": "專輯下載器",
+            "description": "一次性下載完整的 SoundCloud 專輯，而無需單獨下載各個曲目。此功能幫助您快速高效地以高品質音頻格式保存您喜愛的藝術家的整個收藏。"
+        },
+        {
+            "title": "高品質音頻",
+            "description": "享受高位元率音頻下載帶來的最佳音效體驗。選擇 128kbps、192kbps 或 320kbps 的 MP3 音質。此功能確保您獲得最高保真度的音頻，保留每個曲目的清晰度和深度。我們支持 MP3、FLAC、WAV 格式。"
+        }
+    ],
+    "howToDownloadTitle": "如何下載 SoundCloud MP3？",
+    "howToDownloadSteps": [
+        {
+            "title": "打開 SoundCloud 應用程式",
+            "description": "從任何瀏覽器或應用程式打開 <0>SoundCloud 網站</0>。"
+        },
+        {
+            "title": "複製 SoundCloud 曲目 URL",
+            "description": "找到您想下載的曲目、播放清單或專輯。點擊分享按鈕並複製曲目 URL。"
+        },
+        {
+            "title": "將 URL 貼入下載器",
+            "description": "進入瀏覽器中的 <2>MP3 下載工具</2>。將複製的 SoundCloud URL 貼入輸入欄中。"
+        },
+        {
+            "title": "選擇格式並點擊“下載”",
+            "description": "選擇您喜歡的音頻格式（例如 MP3、WAV 等）並選擇所需的位元率品質（128kbps、192kbps、320kbps）。然後，按下下載按鈕。"
+        },
+        {
+            "title": "保存並離線享受",
+            "description": "處理完成後，點擊下載鏈接將曲目保存到您的設備。現在您可以隨時離線享受您最喜歡的 SoundCloud 音樂！"
+        }
+    ],
+    "downloadSectionTitle": "在線下載 SoundCloud MP3、播放清單、專輯、藝術作品",
+    "downloadSectionText": "只需點擊幾下即可輕鬆在線下載 SoundCloud MP3 曲目、播放清單、專輯和藝術作品。將 SoundCloud 音樂轉換為高品質 MP3（128kbps、192kbps、320kbps），並一次性保存整個播放清單或專輯。下載時還可獲得高解析度的專輯藝術作品。我們的 <0>播放清單 ZIP 轉換器</0> 允許用戶將整個專輯或播放清單下載為一個 ZIP 文件。",
+    "downloadSectionExtra": "無需安裝軟件。只需粘貼 URL 並享受在任何設備（包括 PC、Mac、iOS 和 Android）上的免費下載。",
+    "faqTitle": "常見問題",
+    "faq": [
+        {
+            "q": "什麼是 SoundCloud 下載器？",
+            "a": "SoundCloud 下載器是一個在線工具，允許您下載並將 SoundCloud 曲目、播放清單、專輯和藝術作品轉換為 MP3 或其他音頻格式，以便離線收聽。"
+        },
+        {
+            "q": "使用是否免費？",
+            "a": "是的，此工具是免費的，無需任何訂閱或付款。"
+        },
+        {
+            "q": "如何下載 SoundCloud 曲目？",
+            "a": "複製曲目的 URL，將其粘貼到下載器中，選擇您喜歡的格式和品質，然後點擊“下載”。"
+        },
+        {
+            "q": "我可以下載整個 SoundCloud 播放清單嗎？",
+            "a": "是的，此下載器允許用戶將整個播放清單作為 ZIP 文件或單獨的 MP3 文件下載。"
+        },
+        {
+            "q": "我可以下載的最高音質是什麼？",
+            "a": "您通常可以下載 320kbps 的 MP3 文件，這是可用的最高音質。其他選項還包括 128kbps 和 192kbps。"
+        },
+        {
+            "q": "我可以在手機上使用 SoundCloud 下載器嗎？",
+            "a": "可以，這款轉換器可以通過網頁瀏覽器在 Android 和 iOS 設備上使用。"
+        },
+        {
+            "q": "哪些瀏覽器與此網站兼容？",
+            "a": "它可以在所有主流瀏覽器上運行，包括 Google Chrome、Mozilla Firefox、Safari、Microsoft Edge 和 Opera。"
+        },
+        {
+            "q": "我可以下載私人或隱藏曲目嗎？",
+            "a": "我們支持私人曲目，但您需要訪問曲目 URL 才能下載它們。"
+        },
+        {
+            "q": "為什麼我的下載失敗或無法工作？",
+            "a": "這可能是由於網絡問題、瀏覽器設置或 SoundCloud 曲目受到限制或已被刪除。嘗試刷新頁面或使用其他下載器。"
+        },
+        {
+            "q": "使用 SoundCloud 下載器是否安全？",
+            "a": "是的，只要您使用信任且無廣告的下載器就安全。請避免使用需要不必要權限或下載的下載器。"
+        }
+    ]
+}

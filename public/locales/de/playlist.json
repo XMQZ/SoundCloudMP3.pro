@@ -1,0 +1,74 @@
+{
+    "web-title": "SoundCloud Playlist Downloader - Konvertieren Sie Ganze Playlists & Alben in ZIP",
+    "web-description": "Laden Sie MP3-Tracks von SoundCloud-Playlists einfach herunter. Konvertieren Sie ganze Playlists in eine ZIP-Datei. Speichern Sie SoundCloud-Playlist-MP3-Dateien direkt auf iPhone, Android oder jedem Gerät",
+    "downloader-title": "SoundCloud-Playlist herunterladen",
+    "downloader-description": "Playlist in ZIP konvertieren oder MP3-Datei speichern",
+    "featuresTitle": "Ganze Playlist zu ZIP Converter-Funktionen",
+    "features": [
+        {
+            "title": "MP3-Audio speichern",
+            "description": "Laden Sie SoundCloud-Songs im MP3-Format mit einem Klick herunter. Diese Funktion ermöglicht es Ihnen, Songs als hochwertige MP3-Dateien zu speichern, ideal zum Offline-Hören auf jedem Gerät. Keine zusätzliche Software erforderlich, einfach den Track-Link einfügen und sofort herunterladen."
+        },
+        {
+            "title": "Playlist zu ZIP Converter",
+            "description": "Der Playlist zu ZIP Converter vereinfacht das Herunterladen ganzer SoundCloud-Playlists, indem mehrere Tracks in eine einzige ZIP-Datei komprimiert werden. Diese Funktion ermöglicht eine schnelle und effiziente Speicherung, sodass Sie Ihre Musiksammlung einfach übertragen und verwalten können, ohne Songs einzeln herunterladen zu müssen."
+        },
+        {
+            "title": "Album Cover Downloader",
+            "description": "Erhalten Sie hochwertige Albumcover von SoundCloud zusammen mit Ihren heruntergeladenen Tracks. Diese Funktion verbessert Ihre Musiksammlung, indem sie gestochen scharfe Coverbilder bereitstellt, sodass Sie Songs auf Mediaplayern und Streaming-Plattformen visuell organisieren können, für ein immersiveres Hörerlebnis."
+        },
+        {
+            "title": "Kompatibel mit allen Geräten",
+            "description": "Egal welches Gerät Sie verwenden - PC, Mac, Android oder iOS - dieser Downloader gewährleistet eine einfache und reibungslose Funktionalität auf allen Plattformen. Es ist keine zusätzliche Software oder App-Installation erforderlich; öffnen Sie einfach einen Webbrowser und beginnen Sie sofort mit dem Herunterladen Ihrer Lieblings-SoundCloud-Tracks."
+        },
+        {
+            "title": "Album Downloader",
+            "description": "Erfassen Sie mühelos ganze SoundCloud-Alben in einem einzigen Download, ohne die Notwendigkeit, die Tracks einzeln zu speichern. Diese Funktion vereinfacht den Prozess und ermöglicht es Ihnen, schnell vollständige Künstlerkopplungen in hochwertigem Audio für nahtloses Offline-Hören zu sammeln und zu speichern."
+        },
+        {
+            "title": "Hochwertiges Audio",
+            "description": "Erleben Sie überragende Soundqualität mit hochbitratigen Audio-Downloads, die eine kristallklare Wiedergabe bieten. Wählen Sie zwischen 128kbps, 192kbps oder 320kbps MP3-Optionen. Diese Funktion garantiert höchste Klangtreue und bewahrt die Integrität jedes Tracks. Zusätzlich genießen Sie vielseitige Formatunterstützung, einschließlich MP3, FLAC und WAV, für das ultimative Hörerlebnis."
+        }
+    ],
+    "howToConvertTitle": "Wie konvertiert man SoundCloud-MP3 als ZIP?",
+    "howToConvertSteps": [
+        {
+            "title": "Kopieren Sie die URL der SoundCloud-Playlist",
+            "description": "Öffnen Sie SoundCloud in Ihrem Browser oder in der App, finden Sie die Playlist, die Sie herunterladen möchten, und kopieren Sie die Playlist-URL aus der Adressleiste oder der Teilen-Schaltfläche."
+        },
+        {
+            "title": "Fügen Sie die URL ein und konvertieren Sie",
+            "description": "Gehen Sie zum SoundCloud zu ZIP Converter Tool, fügen Sie die kopierte URL in das Eingabefeld ein und klicken Sie auf die Schaltfläche „In ZIP konvertieren“. Das Tool verarbeitet alle Tracks und bereitet sie zum Download vor."
+        },
+        {
+            "title": "Laden Sie die ZIP-Datei herunter",
+            "description": "Sobald die Konvertierung abgeschlossen ist, klicken Sie auf die Schaltfläche „ZIP herunterladen“, um die gesamte Playlist als komprimierte Datei zu speichern. Entzippen Sie die ZIP-Datei auf Ihrem Gerät, um sofort auf alle MP3-Tracks zuzugreifen."
+        }
+    ],
+    "downloadSectionTitle": "Ganze SoundCloud-Playlist zu ZIP Downloader",
+    "downloadSectionText": "Sparen Sie Zeit und Mühe, indem Sie ganze SoundCloud-Playlists als einzelne ZIP-Datei herunterladen. Statt jeden Track einzeln herunterzuladen, ermöglicht dieses Tool das gleichzeitige Herunterladen mehrerer Songs. Konvertieren Sie Ihren gesamten Track oder Ihre Playlist in eine einzige ZIP-Datei.",
+    "downloadSectionExtra": "Mit einem einfachen Kopieren-Einfügen-Download-Prozess können Sie jede SoundCloud-Playlist in wenigen Sekunden in eine ZIP-Datei konvertieren. Keine zusätzliche Software oder Registrierung erforderlich.",
+    "faqTitle": "Häufig gestellte Fragen",
+    "faq": [
+        {
+            "q": "Was ist der SoundCloud Playlist zu ZIP Downloader?",
+            "a": "Es ist ein Tool, mit dem Sie ganze SoundCloud-Playlists als eine einzige ZIP-Datei herunterladen können, was das Speichern und Zugreifen auf mehrere Tracks gleichzeitig erleichtert."
+        },
+        {
+            "q": "Wie lade ich eine ganze Playlist als ZIP-Datei herunter?",
+            "a": "Kopieren Sie die URL der Playlist, fügen Sie sie in den Downloader ein, klicken Sie auf 'In ZIP konvertieren' und laden Sie die komprimierte Datei herunter, die alle Tracks enthält."
+        },
+        {
+            "q": "Muss ich eine Software installieren, um dieses Tool zu verwenden?",
+            "a": "Nein, der SoundCloud Playlist to ZIP Downloader funktioniert online, sodass Sie keine Software oder Apps installieren müssen."
+        },
+        {
+            "q": "Kann ich dieses Tool auf meinem Handy verwenden?",
+            "a": "Ja, der Downloader ist mit mobilen Geräten kompatibel, einschließlich Android und iOS, und funktioniert über jeden Webbrowser."
+        },
+        {
+            "q": "In welchem Audioformat werden die heruntergeladenen Tracks sein?",
+            "a": "Die Tracks werden normalerweise im MP3-Format heruntergeladen, was qualitativ hochwertige Audioinhalte für das Offline-Hören sicherstellt."
+        }
+    ]
+}

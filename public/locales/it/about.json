@@ -1,0 +1,33 @@
+{
+    "web-título": "SoundCloudMP3 - Descarrega Cançons i Llistes de Reproducció de SoundCloud com a MP3",
+    "web-descripció": "Descarrega cançons, àlbums i llistes de reproducció de SoundCloud com a MP3 d'alta qualitat amb SoundCloudMP3. Converter de SoundCloud a MP3 ràpid, gratuït, i fàcil d'utilitzar. No es requereix registre.",
+    "sobreNosTitle": "Sobre Nosaltres",
+    "sobreNosSubtitle": "El Downloader Definitiu de SoundCloud per a MP3s d'Alta Qualitat",
+    "quiSomTitle": "Qui Som",
+    "quiSomText": "Benvingut a <strong>SoundCloudMP3</strong>, la teva solució ideal per descarregar pistes de SoundCloud en format MP3 d'alta qualitat. Ens apassiona oferir als amants de la música, DJs, creadors de contingut i oients casuals una manera senzilla de guardar i gaudir de les seves pistes favorites fora de línia.",
+    "missióTitle": "La Nostra Missió",
+    "missióText": "La nostra missió és oferir una eina <strong>simple, ràpida i fiable</strong> que permeti als usuaris descarregar música de SoundCloud en la millor qualitat possible. Donem suport a múltiples formats d'àudio i bitrates, incloent <strong>128kbps, 192kbps i 320kbps MP3</strong>, així com <strong>FLAC i WAV</strong> per a qualitat sense pèrdues.",
+    "perQuèEscollirTitle": "Per Què Escollir SoundCloudMP3?",
+    "perQuèEscollirFeatures": [
+        "<strong>Descàrregues Ràpides i Fàcils</strong> – Converteix i descarrega pistes de SoundCloud amb només uns quants clics. No es requereix instal·lació de programari.",
+        "<strong>Compatible amb Llistes de Reproducció i Àlbums</strong> – Desa llistes de reproducció o àlbums sencers com a arxius ZIP sense esforç.",
+        "<strong>Àudio d'Alta Qualitat</strong> – Tria entre diferents bitrates per a la millor experiència d'àudio.",
+        "<strong>Descarregador de Portades i Art d'Àlbums</strong> – Descarrega portades d'àlbum d'alta resolució juntament amb les teves pistes.",
+        "<strong>Compatible amb Tots els Dispositius</strong> – Funciona sense problemes en PC, Mac, Android i iOS.",
+        "<strong>Completament Gratuït</strong> – Sense càrrecs ocults o comptes premium requerits."
+    ],
+    "comFuncionaTitle": "Com Funciona",
+    "comFuncionaSteps": [
+        "Copia l'URL de la pista, llista de reproducció o àlbum de SoundCloud que vols descarregar.",
+        "Enganxa-la al nostre <strong>Descarregador de SoundCloudMP3</strong>.",
+        "Tria el teu format d'àudio i qualitat preferit.",
+        "Clica el botó de <strong>Descarregar</strong> i obté el teu arxiu MP3 a l'instant."
+    ],
+    "compromísTitle": "El Nostre Compromís amb els Usuaris",
+    "compromísText": "Prioritzem la <strong>privacitat i seguretat dels usuaris</strong>. No emmagatzemem l'historial de descàrregues ni dades personals, assegurant una experiència completament <strong>anònima i segura</strong>. La nostra plataforma ofereix descàrregues <strong>sense publicitat, sense complicacions i il·limitades</strong>.",
+    "unirUsuarisTitle": "Uneix-te a Milers d'Usuaris a Tot el Món",
+    "unirUsuarisText": "Milions d'usuaris confien en <strong>SoundCloudMP3</strong> per a les seves descàrregues de música de SoundCloud. Tant si necessites pistes per a escoltar personalment, mesclar com a DJ, o projectes creatius, estem aquí per ajudar-te a accedir a la música que estimes en qualsevol moment i lloc.",
+    "ctaTitol": "Comença a Descarregar Ara!",
+    "ctaText": "Comença avui i experimenta el millor <strong>converter de SoundCloud a MP3</strong> disponible en línia.",
+    "ctaButtó": "Prova SoundCloudMP3 Ara 🚀"
+}

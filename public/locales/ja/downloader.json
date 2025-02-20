@@ -1,0 +1,13 @@
+{
+    "placeholder": "ここにSoundCloudのURLを貼り付けてください",
+    "paste": "貼り付け",
+    "download": "ダウンロード",
+    "selectfromplaylist": "プレイリストから選択",
+    "downloads": {
+        "singlemp3": "シングルMP3オーディオをダウンロード",
+        "entireplaylist": "プレイリスト全体をZIPでダウンロード",
+        "albumcover": "アルバムカバーをダウンロード",
+        "dp": "プロフィール写真をダウンロード",
+        "more": "もっとダウンロード"
+    }
+}

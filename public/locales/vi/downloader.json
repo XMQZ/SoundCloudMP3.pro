@@ -1,0 +1,13 @@
+{
+    "placeholder": "Dán URL SoundCloud vào đây",
+    "paste": "Dán",
+    "download": "Tải xuống",
+    "selectfromplaylist": "Chọn từ Danh sách phát",
+    "downloads": {
+        "singlemp3": "Tải xuống một tệp MP3",
+        "entireplaylist": "Tải toàn bộ Danh sách phát dưới dạng ZIP",
+        "albumcover": "Tải xuống Bìa Album",
+        "dp": "Tải xuống Ảnh Đại diện",
+        "more": "Tải xuống Thêm"
+    }
+}

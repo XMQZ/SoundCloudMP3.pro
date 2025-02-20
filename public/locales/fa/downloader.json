@@ -1,0 +1,13 @@
+{
+    "placeholder": "لینک SoundCloud را اینجا وارد کنید",
+    "paste": "جای‌گذاری",
+    "download": "دانلود",
+    "selectfromplaylist": "انتخاب از لیست پخش",
+    "downloads": {
+        "singlemp3": "دانلود تک آهنگ MP3",
+        "entireplaylist": "دانلود کل لیست پخش به صورت ZIP",
+        "albumcover": "دانلود کاور آلبوم",
+        "dp": "دانلود تصویر پروفایل",
+        "more": "دانلود موارد بیشتر"
+    }
+}

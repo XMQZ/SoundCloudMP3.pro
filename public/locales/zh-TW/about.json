@@ -1,0 +1,33 @@
+{
+    "web-title": "SoundCloudMP3 - 將 SoundCloud 歌曲和播放清單下載為 MP3",
+    "web-description": "使用 SoundCloudMP3 將 SoundCloud 歌曲、專輯和播放清單下載為高品質 MP3。快速、免費、易於使用的 SoundCloud 到 MP3 轉換器。無需註冊。",
+    "aboutTitle": "關於我們",
+    "aboutSubtitle": "終極高品質 MP3 SoundCloud 下載器",
+    "whoWeAreTitle": "我們是誰",
+    "whoWeAreText": "歡迎來到 <strong>SoundCloudMP3</strong>，您下載 SoundCloud 高品質 MP3 格式音軌的首選解決方案。我們致力於為愛好音樂者、DJ、內容創作者和普通聽眾提供一個流暢的方式，讓他們可以離線保存和享受喜愛的音軌。",
+    "missionTitle": "我們的使命",
+    "missionText": "我們的使命是提供一個 <strong>簡單、快速且可靠</strong> 的工具，讓使用者能夠以最佳品質下載 SoundCloud 音樂。我們支援多種音頻格式和比特率，包括 <strong>128kbps、192kbps 和 320kbps MP3</strong>，以及 <strong>FLAC 和 WAV</strong> 無損品質。",
+    "whyChooseTitle": "為何選擇 SoundCloudMP3？",
+    "whyChooseFeatures": [
+        "<strong>快速 & 易於下載</strong>－只需幾下點擊即可轉換和下載 SoundCloud 音軌。無需安裝軟件。",
+        "<strong>支援播放清單 & 專輯</strong>－輕鬆將整個播放清單或專輯保存為 ZIP 文件。",
+        "<strong>高品質音頻</strong>－選擇不同比特率以獲得最佳音頻體驗。",
+        "<strong>專輯封面和藝術品下載器</strong>－與您的音軌一起下載高解析度專輯封面。",
+        "<strong>兼容所有設備</strong>－可無縫運行於 PC、Mac、Android 和 iOS。",
+        "<strong>完全免費</strong>－無隱藏費用或高級帳戶需求。"
+    ],
+    "howItWorksTitle": "運作方式",
+    "howItWorksSteps": [
+        "複製您想下載的 SoundCloud 音軌、播放清單或專輯的 URL。",
+        "將其粘貼到我們的 <strong>SoundCloudMP3 Downloader</strong> 輸入框。",
+        "選擇您偏好的音頻格式和品質。",
+        "點擊 <strong>下載</strong> 按鈕，立即獲取您的 MP3 文件。"
+    ],
+    "commitmentTitle": "我們對使用者的承諾",
+    "commitmentText": "我們重視 <strong>用戶隱私和安全</strong>。我們不存儲下載歷史或個人數據，確保完全 <strong>匿名和安全</strong> 的體驗。我們的平台提供 <strong>無廣告、無麻煩和無限</strong> 的下載。",
+    "joinUsersTitle": "加入全球數以千計的用戶",
+    "joinUsersText": "數以百萬計的用戶信賴 <strong>SoundCloudMP3</strong> 來進行他們的 SoundCloud 音樂下載。無論您需要音軌用於個人聆聽、DJ 混音或創意項目，我們都能幫助您隨時隨地獲取您喜愛的音樂。",
+    "ctaTitle": "立即開始下載吧！",
+    "ctaText": "今天就開始，體驗在線上最好的 <strong>SoundCloud 到 MP3 轉換器</strong>。",
+    "ctaButton": "立即嘗試 SoundCloudMP3 🚀"
+}

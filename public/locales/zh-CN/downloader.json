@@ -1,0 +1,13 @@
+{
+    "placeholder": "在此粘贴SoundCloud网址",
+    "paste": "粘贴",
+    "download": "下载",
+    "selectfromplaylist": "从播放列表中选择",
+    "downloads": {
+        "singlemp3": "下载单个MP3音频",
+        "entireplaylist": "将整个播放列表下载为ZIP",
+        "albumcover": "下载专辑封面",
+        "dp": "下载个人资料照片",
+        "more": "下载更多"
+    }
+}

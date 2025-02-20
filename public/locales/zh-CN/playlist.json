@@ -1,0 +1,74 @@
+{
+    "web-title": "SoundCloud播放列表下载器 - 将整个播放列表和专辑转换为ZIP",
+    "web-description": "轻松下载SoundCloud播放列表中的MP3曲目。将整个播放列表转换为ZIP文件。直接将SoundCloud播放列表的MP3文件保存到iPhone、Android或任何设备上",
+    "downloader-title": "下载SoundCloud播放列表",
+    "downloader-description": "将播放列表转换为ZIP或保存为MP3文件",
+    "featuresTitle": "整个播放列表到ZIP转换器功能",
+    "features": [
+        {
+            "title": "保存MP3音频",
+            "description": "只需点击一下，即可将SoundCloud歌曲下载为MP3格式。此功能允许您以高质量的MP3文件保存歌曲，非常适合在任何设备上离线收听。无需额外的软件，只需粘贴曲目链接并立即下载。"
+        },
+        {
+            "title": "播放列表到ZIP转换器",
+            "description": "播放列表到ZIP转换器通过将多个曲目压缩到一个ZIP文件中简化了整个SoundCloud播放列表的下载。此功能允许快速且高效的存储，使得无需一首一首地下载歌曲即可轻松传输和管理您的音乐收藏。"
+        },
+        {
+            "title": "专辑封面下载器",
+            "description": "与下载的曲目一起获取来自SoundCloud的高质量专辑封面。此功能通过提供清晰的封面图像来增强您的音乐收藏，使得在媒体播放器和流媒体平台上更容易图像化地组织歌曲，从而带来更身临其境的聆听体验。"
+        },
+        {
+            "title": "兼容所有设备",
+            "description": "无论您使用哪种设备——PC、Mac、Android还是iOS，此下载器都能确保在所有平台上顺畅且易于操作。无需额外的软件或应用程序安装；只需打开任意浏览器并立即开始下载您喜爱的SoundCloud曲目。"
+        },
+        {
+            "title": "专辑下载器",
+            "description": "轻松在一次下载中获取整个SoundCloud专辑，消除了逐一保存曲目的需要。此功能简化了过程，让您快速收集和存储完整的艺术家合辑，以便无缝离线收听高质量音频。"
+        },
+        {
+            "title": "高质量音频",
+            "description": "通过高比特率音频下载体验卓越的音质，提供清晰的播放效果。可选择128kbps、192kbps或320kbps的MP3选项。此功能保证顶级的保真度，保留每一首曲目的完整性。此外，还支持多格式，包括MP3、FLAC和WAV，为最终的聆听体验提供了可能性。"
+        }
+    ],
+    "howToConvertTitle": "如何将SoundCloud MP3转换为ZIP？",
+    "howToConvertSteps": [
+        {
+            "title": "复制SoundCloud播放列表网址",
+            "description": "在浏览器或应用中打开SoundCloud，找到您想下载的播放列表，并从地址栏或分享按钮复制播放列表网址。"
+        },
+        {
+            "title": "粘贴网址并转换",
+            "description": "前往SoundCloud到ZIP转换工具，将复制的链接粘贴到输入框中，并点击“转换为ZIP”按钮。该工具将处理所有曲目并为下载做好准备。"
+        },
+        {
+            "title": "下载ZIP文件",
+            "description": "转换完成后，点击“下载ZIP”按钮，将整个播放列表保存为压缩文件。在您的设备上提取该ZIP文件，即可立即访问所有MP3曲目。"
+        }
+    ],
+    "downloadSectionTitle": "整个SoundCloud播放列表到ZIP下载器",
+    "downloadSectionText": "通过将整个SoundCloud播放列表下载为单个ZIP文件来节省时间和精力。无需单独下载每首曲目，此工具允许您一次性抓取多首歌曲。将您的整个曲目或播放列表转换为单个ZIP文件。",
+    "downloadSectionExtra": "通过简单的复制粘贴下载过程，您可以在几秒钟内将任何SoundCloud播放列表转换为ZIP文件。无需额外的软件或注册。",
+    "faqTitle": "常见问题",
+    "faq": [
+        {
+            "q": "什么是SoundCloud播放列表到ZIP下载器？",
+            "a": "它是一种工具，允许您将整个SoundCloud播放列表下载为一个ZIP文件，从而更容易地一次存储和访问多首曲目。"
+        },
+        {
+            "q": "我如何将整个播放列表下载为ZIP文件？",
+            "a": "复制播放列表的网址，粘贴到下载器中，点击‘转换为ZIP’，并下载包含所有曲目的压缩文件。"
+        },
+        {
+            "q": "使用此工具需要安装软件吗？",
+            "a": "不需要，SoundCloud播放列表到ZIP下载器在线运行，所以您无需安装任何软件或应用程序。"
+        },
+        {
+            "q": "我可以在手机上使用此工具吗？",
+            "a": "可以，此下载器与移动设备兼容，包括Android和iOS，并通过任何浏览器工作。"
+        },
+        {
+            "q": "下载的曲目是何种音频格式？",
+            "a": "曲目通常下载为MP3格式，确保高质量的离线音频聆听。"
+        }
+    ]
+}

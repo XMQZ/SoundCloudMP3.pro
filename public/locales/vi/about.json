@@ -1,0 +1,33 @@
+{
+    "web-title": "SoundCloudMP3 - Tải Bài Hát & Playlist từ SoundCloud dưới dạng MP3",
+    "web-description": "Tải nhạc, album và playlist từ SoundCloud dưới dạng MP3 chất lượng cao với SoundCloudMP3. Chuyển đổi nhanh chóng, miễn phí và dễ sử dụng từ SoundCloud sang MP3. Không cần đăng ký.",
+    "aboutTitle": "Về Chúng Tôi",
+    "aboutSubtitle": "Trình Tải SoundCloud Tối Ưu Cho MP3 Chất Lượng Cao",
+    "whoWeAreTitle": "Chúng Tôi Là Ai",
+    "whoWeAreText": "Chào mừng đến với <strong>SoundCloudMP3</strong>, giải pháp lý tưởng của bạn để tải các bản nhạc từ SoundCloud dưới dạng MP3 chất lượng cao. Chúng tôi đam mê cung cấp cho những người yêu nhạc, DJ, người sáng tạo nội dung và thính giả bình thường một cách thuận tiện để lưu và thưởng thức các bản nhạc yêu thích khi không kết nối mạng.",
+    "missionTitle": "Sứ Mệnh Của Chúng Tôi",
+    "missionText": "Sứ mệnh của chúng tôi là cung cấp một công cụ <strong>đơn giản, nhanh chóng và đáng tin cậy</strong> giúp người dùng tải nhạc từ SoundCloud với chất lượng tốt nhất có thể. Chúng tôi hỗ trợ nhiều định dạng và tốc độ bit khác nhau, bao gồm <strong>128kbps, 192kbps, và 320kbps MP3</strong>, cũng như <strong>FLAC và WAV</strong> cho chất lượng không mất dữ liệu.",
+    "whyChooseTitle": "Tại Sao Nên Chọn SoundCloudMP3?",
+    "whyChooseFeatures": [
+        "<strong>Tải Nhanh & Dễ Dàng</strong> – Chuyển đổi và tải các bản nhạc từ SoundCloud chỉ với vài cú nhấp chuột. Không cần cài đặt phần mềm.",
+        "<strong>Hỗ Trợ Playlist & Album</strong> – Lưu toàn bộ playlist hoặc album dưới dạng tệp ZIP một cách dễ dàng.",
+        "<strong>Âm Thanh Chất Lượng Cao</strong> – Lựa chọn từ các tốc độ bit khác nhau cho trải nghiệm âm thanh tốt nhất.",
+        "<strong>Trình Tải Ảnh Album & Bìa Nghệ Sĩ</strong> – Tải ảnh bìa album độ phân giải cao cùng với các bản nhạc của bạn.",
+        "<strong>Tương Thích Với Tất Cả Thiết Bị</strong> – Hoạt động trơn tru trên PC, Mac, Android, và iOS.",
+        "<strong>Hoàn Toàn Miễn Phí</strong> – Không có phí ẩn hay tài khoản premium."
+    ],
+    "howItWorksTitle": "Cách Thức Hoạt Động",
+    "howItWorksSteps": [
+        "Sao chép URL của bài hát, playlist, hoặc album trên SoundCloud mà bạn muốn tải.",
+        "Dán vào ô nhập của <strong>SoundCloudMP3 Downloader</strong>.",
+        "Chọn định dạng âm thanh và chất lượng mà bạn mong muốn.",
+        "Nhấp nút <strong>Tải xuống</strong> và ngay lập tức bạn sẽ nhận được tệp MP3 của mình."
+    ],
+    "commitmentTitle": "Cam Kết Đối Với Người Dùng",
+    "commitmentText": "Chúng tôi ưu tiên <strong>bảo mật và quyền riêng tư của người dùng</strong>. Chúng tôi không lưu lịch sử tải xuống hay dữ liệu cá nhân, đảm bảo một trải nghiệm <strong>ẩn danh và an toàn</strong>. Nền tảng của chúng tôi cung cấp tải xuống <strong>không quảng cáo, không rắc rối và không giới hạn</strong>.",
+    "joinUsersTitle": "Tham Gia Cùng Hàng Nghìn Người Dùng Trên Toàn Thế Giới",
+    "joinUsersText": "Hàng triệu người dùng tin cậy <strong>SoundCloudMP3</strong> cho nhu cầu tải nhạc từ SoundCloud của họ. Dù bạn cần các bài hát cho việc nghe cá nhân, pha trộn DJ, hay dự án sáng tạo, chúng tôi ở đây để giúp bạn truy cập vào âm nhạc mà bạn yêu thích bất cứ lúc nào và bất cứ nơi đâu.",
+    "ctaTitle": "Bắt Đầu Tải Xuống Ngay!",
+    "ctaText": "Hãy bắt đầu ngay hôm nay và trải nghiệm công cụ <strong>chuyển đổi SoundCloud sang MP3</strong> tốt nhất có sẵn trực tuyến.",
+    "ctaButton": "Thử SoundCloudMP3 Ngay 🚀"
+}

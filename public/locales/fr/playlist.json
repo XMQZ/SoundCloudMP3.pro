@@ -1,0 +1,74 @@
+{
+    "web-title": "Téléchargeur de Playlist SoundCloud - Convertir une Playlist & Album Entier en ZIP",
+    "web-description": "Téléchargez facilement des pistes MP3 à partir de playlists SoundCloud. Convertissez des playlists entières en fichier ZIP. Enregistrez des fichiers MP3 de playlists SoundCloud directement sur iPhone, Android, ou n'importe quel appareil",
+    "downloader-title": "Télécharger la Playlist SoundCloud",
+    "downloader-description": "Convertir la Playlist en ZIP ou Enregistrer le fichier MP3",
+    "featuresTitle": "Caractéristiques du Convertisseur de Playlist en ZIP",
+    "features": [
+        {
+            "title": "Enregistrer l'audio MP3",
+            "description": "Téléchargez des chansons SoundCloud au format MP3 en un clic. Cette fonctionnalité vous permet d'enregistrer des chansons en fichiers MP3 de haute qualité, parfaits pour une écoute hors ligne sur n'importe quel appareil. Aucun logiciel supplémentaire requis, collez simplement le lien de la piste et téléchargez instantanément."
+        },
+        {
+            "title": "Convertisseur de Playlist en ZIP",
+            "description": "Le Convertisseur de Playlist en ZIP simplifie le téléchargement de playlists SoundCloud entières en compressant plusieurs pistes en un seul fichier ZIP. Cette fonctionnalité permet un stockage rapide et efficace, facilitant le transfert et la gestion de votre collection musicale sans télécharger les chansons une par une."
+        },
+        {
+            "title": "Téléchargeur de Couverture d'Album",
+            "description": "Obtenez des pochettes d'album de haute qualité de SoundCloud avec vos pistes téléchargées. Cette fonctionnalité améliore votre collection musicale en fournissant des images de couverture nettes, facilitant l'organisation visuelle des chansons sur les lecteurs médias et les plateformes de streaming pour une expérience d'écoute plus immersive."
+        },
+        {
+            "title": "Compatible avec Tous les Appareils",
+            "description": "Peu importe l'appareil que vous utilisez—PC, Mac, Android ou iOS—ce téléchargeur assure une fonctionnalité fluide et facile sur toutes les plateformes. Pas besoin de logiciels supplémentaires ou d'installations d'applications ; ouvrez simplement n'importe quel navigateur web et commencez à télécharger vos pistes SoundCloud favorites instantanément."
+        },
+        {
+            "title": "Téléchargeur d'Albums",
+            "description": "Récupérez facilement des albums SoundCloud entiers en un seul téléchargement, éliminant le besoin d'enregistrer les pistes une par une. Cette fonctionnalité rationalise le processus, vous permettant de collecter et de stocker rapidement des compilations complètes d'artistes en audio de haute qualité pour une écoute hors ligne sans faille."
+        },
+        {
+            "title": "Audio de Haute Qualité",
+            "description": "Profitez d'une qualité sonore supérieure avec des téléchargements audio à haut débit, offrant une lecture cristalline. Sélectionnez parmi des options MP3 de 128kbps, 192kbps, ou 320kbps. Cette fonctionnalité garantit une fidélité de premier ordre, préservant l'intégrité de chaque piste. De plus, profitez d'un support de formats polyvalents, y compris MP3, FLAC, et WAV, pour une expérience d'écoute ultime."
+        }
+    ],
+    "howToConvertTitle": "Comment convertir des MP3 SoundCloud en ZIP ?",
+    "howToConvertSteps": [
+        {
+            "title": "Copiez l'URL de la Playlist SoundCloud",
+            "description": "Ouvrez SoundCloud sur votre navigateur ou application, trouvez la playlist que vous voulez télécharger, et copiez l'URL de la playlist depuis la barre d'adresse ou le bouton de partage."
+        },
+        {
+            "title": "Collez l'URL & Convertissez",
+            "description": "Accédez à l'outil Convertisseur SoundCloud en ZIP, collez l'URL copiée dans la zone de saisie, et cliquez sur le bouton Convertir en ZIP. L'outil traitera toutes les pistes et les préparera pour le téléchargement."
+        },
+        {
+            "title": "Téléchargez le Fichier ZIP",
+            "description": "Une fois la conversion terminée, cliquez sur le bouton Télécharger ZIP pour enregistrer la playlist entière en fichier compressé. Extrayez le fichier ZIP sur votre appareil pour accéder instantanément à toutes les pistes MP3."
+        }
+    ],
+    "downloadSectionTitle": "Téléchargeur de Playlist Entière SoundCloud en ZIP",
+    "downloadSectionText": "Gagnez du temps et des efforts en téléchargeant des playlists SoundCloud entières en un seul fichier ZIP. Au lieu de télécharger chaque piste séparément, cet outil vous permet de récupérer plusieurs chansons à la fois. Convertissez votre piste ou playlist entière en un seul fichier ZIP.",
+    "downloadSectionExtra": "Avec un processus simple de copie-collage-téléchargement, vous pouvez convertir n'importe quelle playlist SoundCloud en fichier ZIP en quelques secondes. Aucun logiciel supplémentaire ou inscription n'est requis.",
+    "faqTitle": "Questions Fréquemment Posées",
+    "faq": [
+        {
+            "q": "Qu'est-ce que le Téléchargeur de Playlist SoundCloud en ZIP ?",
+            "a": "C'est un outil qui vous permet de télécharger des playlists SoundCloud entières en un seul fichier ZIP, facilitant le stockage et l'accès à plusieurs pistes à la fois."
+        },
+        {
+            "q": "Comment puis-je télécharger une playlist entière en fichier ZIP ?",
+            "a": "Copiez l'URL de la playlist, collez-la dans le téléchargeur, cliquez sur 'Convertir en ZIP,' et téléchargez le fichier compressé contenant toutes les pistes."
+        },
+        {
+            "q": "Dois-je installer un logiciel pour utiliser cet outil ?",
+            "a": "Non, le Téléchargeur de Playlist SoundCloud en ZIP fonctionne en ligne, vous n'avez donc pas besoin d'installer de logiciel ou d'applications."
+        },
+        {
+            "q": "Puis-je utiliser cet outil sur mon téléphone ?",
+            "a": "Oui, le téléchargeur est compatible avec les appareils mobiles, y compris Android et iOS, et fonctionne via n'importe quel navigateur web."
+        },
+        {
+            "q": "Dans quel format audio sont les pistes téléchargées ?",
+            "a": "Les pistes sont généralement téléchargées au format MP3, assurant une qualité audio élevée pour une écoute hors ligne."
+        }
+    ]
+}

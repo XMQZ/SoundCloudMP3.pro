@@ -1,0 +1,13 @@
+{
+    "placeholder": "SoundCloud URL یہاں پیسٹ کریں",
+    "paste": "پیسٹ",
+    "download": "ڈاؤن لوڈ",
+    "selectfromplaylist": "پلے لسٹ سے منتخب کریں",
+    "downloads": {
+        "singlemp3": "واحد MP3 آڈیو ڈاؤن لوڈ کریں",
+        "entireplaylist": "پوری پلے لسٹ کو ZIP کے طور پر ڈاؤن لوڈ کریں",
+        "albumcover": "البم کا کور ڈاؤن لوڈ کریں",
+        "dp": "پروفائل تصویر ڈاؤن لوڈ کریں",
+        "more": "مزید ڈاؤن لوڈ کریں"
+    }
+}

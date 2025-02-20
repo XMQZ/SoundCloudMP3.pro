@@ -1,0 +1,13 @@
+{
+    "placeholder": "在此貼上 SoundCloud URL",
+    "paste": "貼上",
+    "download": "下載",
+    "selectfromplaylist": "從播放清單中選擇",
+    "downloads": {
+        "singlemp3": "下載單一 MP3 音頻",
+        "entireplaylist": "整個播放清單下載為 ZIP",
+        "albumcover": "下載專輯封面",
+        "dp": "下載個人資料圖片",
+        "more": "下載更多"
+    }
+}

@@ -2,20 +2,30 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+.grecaptcha-badge {
+    visibility: hidden;
 }
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
   }
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+.fjord {
+  font-family: "Fjord One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lexend {
+  font-family: "Lexend", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
 }

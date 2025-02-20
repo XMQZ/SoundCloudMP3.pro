@@ -1,0 +1,74 @@
+{
+    "web-title": "SoundCloud Album Cover [ArtWork] Downloader",
+    "web-description": "Laden Sie hochwertige SoundCloud ArtWork (Albumcover) mit dem SoundCloud ArtWork Downloader herunter. Speichern Sie Albumcover und Track-Bilder in HD-Qualität.",
+    "downloader-title": "SoundCloud Album Cover [Art Work] herunterladen",
+    "downloader-description": "HD SoundCloud Albumcover & Track Artwork kostenlos herunterladen",
+    "featuresTitle": "Funktionen des SoundCloud zu MP3 Konverters",
+    "features": [
+        {
+            "title": "SoundCloud zu MP3",
+            "description": "Laden Sie SoundCloud-Tracks ganz einfach im MP3-Format mit nur einem Klick herunter. Dieses Tool ermöglicht es Ihnen, Songs in hochwertigen MP3-Dateien zu speichern, ideal für das Offline-Hören auf jedem Gerät. Keine zusätzliche Software erforderlich; einfach den Track-Link eingeben und sofort mit dem Herunterladen beginnen."
+        },
+        {
+            "title": "Gesamte Playlist zu ZIP",
+            "description": "Der Playlist zu ZIP-Konverter erleichtert das Herunterladen ganzer SoundCloud-Playlists, indem mehrere Tracks in einer einzigen ZIP-Datei verpackt werden. Diese Funktion ermöglicht eine schnellere und organisiertere Speicherung, was es den Nutzern erleichtert, ihre Musiksammlung mühelos zu übertragen und zu verwalten, ohne jeden Track einzeln speichern zu müssen."
+        },
+        {
+            "title": "ArtWork Downloader",
+            "description": "Laden Sie hochauflösende Albumcover von SoundCloud zusammen mit Ihren Lieblingstracks herunter. Diese Funktion verbessert Ihre Musikbibliothek, indem sie klare und detaillierte Artworks liefert, die helfen, Ihre Songs auf Musik-Apps und Playern gut organisiert zu halten, während ein optisch ansprechendes Hörerlebnis geschaffen wird."
+        },
+        {
+            "title": "Kompatibel mit allen Geräten",
+            "description": "Unabhängig davon, ob Sie einen PC, Mac, Android- oder iOS-Gerät verwenden, funktioniert dieser Downloader mühelos auf allen Plattformen. Keine zusätzliche Software oder App-Installation erforderlich; öffnen Sie einfach Ihren bevorzugten Webbrowser und beginnen Sie sofort mit dem Herunterladen von SoundCloud-Tracks."
+        },
+        {
+            "title": "Album Downloader",
+            "description": "Laden Sie schnell komplette SoundCloud-Alben in einem Rutsch herunter, ohne jeden Track einzeln speichern zu müssen. Diese Funktion vereinfacht den Prozess, sodass es einfach ist, vollständige Künstlerkollektionen in hochwertiger Audioqualität für mühelose Offline-Wiedergabe zu sammeln und zu speichern."
+        },
+        {
+            "title": "Unterstützt FLAC und MP3",
+            "description": "Genießen Sie hochwertige Audio-Downloads mit verbesserter Klarheit und Tiefe. Wählen Sie aus 128kbps, 192kbps oder 320kbps MP3-Formaten, um Ihren Hörvorlieben zu entsprechen. Zusätzlich unterstützt es mehrere Formate, einschließlich MP3, FLAC und WAV, und bietet damit Flexibilität für verschiedene Audioanforderungen."
+        }
+    ],
+    "howToDownloadArtworkTitle": "Wie lädt man Albumcover herunter?",
+    "howToDownloadArtworkSteps": [
+        {
+            "title": "Kopieren Sie die SoundCloud Track- oder Album-URL",
+            "description": "Öffnen Sie SoundCloud und suchen Sie den Track, das Album oder die Playlist mit dem gewünschten Artwork. Klicken Sie auf die Teilen-Schaltfläche und kopieren Sie den bereitgestellten Link."
+        },
+        {
+            "title": "Fügen Sie den Link in den Downloader ein",
+            "description": "Gehen Sie zum <0>SoundCloud Artwork Downloader</0>, fügen Sie den kopierten Link in die Suchleiste ein und drücken Sie die Download Artwork-Schaltfläche, um das Bild abzurufen."
+        },
+        {
+            "title": "Laden Sie das Albumcover-Bild herunter",
+            "description": "Sobald das Artwork generiert wurde, klicken Sie auf die Download-Schaltfläche, um es in HD-Qualität zu speichern. Jetzt haben Sie das Albumcover bereit für Ihre Musiksammlung oder Mediathek."
+        }
+    ],
+    "downloadSectionTitle": "SoundCloud Albumcover Bild herunterladen",
+    "downloadSectionText": "Extrahieren Sie mühelos hochauflösende SoundCloud Albumcover für Playlists und Alben. Einfach die SoundCloud-URL einfügen und das Artwork sofort herunterladen. Wir unterstützen auch das Herunterladen von Profilbildern.",
+    "downloadSectionExtra": "Dieses Tool funktioniert auf PC, Mac, Android und iOS und liefert klare Bilder (png, jpg). Sie können hochwertige Albumcover und Benutzerprofilbilder mit diesem Tool extrahieren.",
+    "faqTitle": "Häufig gestellte Fragen",
+    "faq": [
+        {
+            "q": "Was ist der SoundCloud Album Cover Downloader?",
+            "a": "Es ist ein Online-Tool, das Ihnen ermöglicht, hochauflösende Album-Artworks von SoundCloud-Tracks, -Playlists und -Alben sofort herunterzuladen."
+        },
+        {
+            "q": "Wie lade ich Albumcover von SoundCloud herunter?",
+            "a": "Kopieren Sie die URL des SoundCloud-Tracks, -Albums oder der -Playlist, fügen Sie sie in den Downloader ein und klicken Sie auf die 'Download Artwork'-Schaltfläche, um das Bild zu speichern."
+        },
+        {
+            "q": "Welche Qualität haben die heruntergeladenen Albumcover?",
+            "a": "Das Tool ruft hochauflösende Bilder ab, die klare und scharfe Artworks für die Musikorganisation und Mediaplayer gewährleisten."
+        },
+        {
+            "q": "Muss ich Software installieren, um SoundCloud-Artworks herunterzuladen?",
+            "a": "Nein, dieses Tool arbeitet vollständig online, sodass Sie Albumcover direkt aus Ihrem Webbrowser ohne jegliche Installationen herunterladen können."
+        },
+        {
+            "q": "Kann ich Artworks auf meinem Handy herunterladen?",
+            "a": "Ja, der SoundCloud Artwork Downloader ist mit mobilen Geräten, einschließlich Android und iOS, kompatibel, was es einfach macht, Albumcover unterwegs zu speichern."
+        }
+    ]
+}

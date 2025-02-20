@@ -1,0 +1,33 @@
+{
+    "web-title": "SoundCloudMP3 - SoundCloud Şarkılarını ve Çalma Listelerini MP3 Olarak İndir",
+    "web-description": "SoundCloud şarkılarını, albümlerini ve çalma listelerini yüksek kaliteli MP3 olarak SoundCloudMP3 ile indirin. Hızlı, ücretsiz ve kolay kullanımlı bir SoundCloud'dan MP3'e dönüştürücüye kaydolmadan erişin.",
+    "aboutTitle": "Hakkımızda",
+    "aboutSubtitle": "Yüksek Kaliteli MP3'ler İçin Ultimate SoundCloud İndirici",
+    "whoWeAreTitle": "Kim Olduğumuz",
+    "whoWeAreText": "<strong>SoundCloudMP3</strong>'e hoş geldiniz. Yüksek kaliteli MP3 formatında SoundCloud parçalarını indirmeniz için başvuracağınız çözümüz. Müzik severler, DJ'ler, içerik oluşturucular ve rahat dinleyiciler için favori parçalarını çevrimdışı kaydetmeleri ve keyfini çıkarmaları adına kesintisiz bir yol sunmaya tutkuluyuz.",
+    "missionTitle": "Misyonumuz",
+    "missionText": "Misyonumuz, kullanıcılara en iyi kalitede SoundCloud müziğini indirten <strong>basit, hızlı ve güvenilir</strong> bir araç sunmaktır. Çeşitli ses formatlarını ve bit hızlarını destekliyoruz, bunlar arasında <strong>128kbps, 192kbps ve 320kbps MP3</strong> yanı sıra <strong>FLAC ve WAV</strong> kayıpsız kalite seçenekleri yer alır.",
+    "whyChooseTitle": "Neden SoundCloudMP3?",
+    "whyChooseFeatures": [
+        "<strong>Hızlı ve Kolay İndirmeler</strong> – SoundCloud parçalarını birkaç tıklama ile dönüştürüp indirin. Yazılım kurulumu gerektirmez.",
+        "<strong>Çalma Listelerini ve Albümleri Destekler</strong> – Tüm çalma listelerini veya albümleri kolayca ZIP dosyası olarak kaydedin.",
+        "<strong>Yüksek Kaliteli Ses</strong> – En iyi ses deneyimi için farklı bit hızlarından seçim yapın.",
+        "<strong>Albüm Kapağı ve Kapak Resmi İndirme</strong> – Parçalarınızla birlikte yüksek çözünürlüklü albüm kapaklarını indirin.",
+        "<strong>Tüm Cihazlarla Uyumluluk</strong> – PC, Mac, Android ve iOS'ta sorunsuz çalışır.",
+        "<strong>Tamamen Ücretsiz</strong> – Gizli ücretler veya premium hesap gerektirmez."
+    ],
+    "howItWorksTitle": "Nasıl Çalışır",
+    "howItWorksSteps": [
+        "İndirmek istediğiniz SoundCloud parçasının, çalma listesinin veya albümün URL'sini kopyalayın.",
+        "URL'yi <strong>SoundCloudMP3 İndirici</strong> giriş kutusuna yapıştırın.",
+        "Tercih ettiğiniz ses formatını ve kalitesini seçin.",
+        "<strong>İndir</strong> butonuna tıklayın ve MP3 dosyanızı anında alın."
+    ],
+    "commitmentTitle": "Kullanıcılara Taahhüdümüz",
+    "commitmentText": "Biz, <strong>kullanıcı gizliliği ve güvenliğine</strong> öncelik veriyoruz. İndirme geçmişini veya kişisel verileri saklamıyoruz ve tamamen <strong>anonim ve güvenli</strong> bir deneyim sunuyoruz. Platformumuz <strong>reklamsız, zahmetsiz ve sınırsız</strong> indirme imkanı tanır.",
+    "joinUsersTitle": "Dünya Çapında Binlerce Kullanıcıya Katılın",
+    "joinUsersText": "Milyonlarca kullanıcı, SoundCloud müzik indirmeleri için <strong>SoundCloudMP3</strong>'ye güveniyor. İster kişisel dinleme, DJ miksleme ya da yaratıcı projeler için parçalara ihtiyacınız olsun, sevdiğiniz müziğe her zaman, her yerde ulaşmanız için buradayız.",
+    "ctaTitle": "Şimdi İndirmeye Başlayın!",
+    "ctaText": "Bugün başlayın ve online mevcut olan en iyi <strong>SoundCloud'dan MP3'e dönüştürücüyü</strong> deneyimleyin.",
+    "ctaButton": "SoundCloudMP3'yi Şimdi Deneyin 🚀"
+}

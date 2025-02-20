@@ -1,0 +1,74 @@
+{
+    "web-title": "Trình tải danh sách phát SoundCloud - Chuyển đổi toàn bộ danh sách phát & album thành ZIP",
+    "web-description": "Tải các bài hát MP3 từ danh sách phát SoundCloud dễ dàng. Chuyển đổi toàn bộ danh sách phát thành tập tin ZIP. Lưu các tập tin MP3 danh sách phát SoundCloud trực tiếp vào iPhone, Android hoặc bất kỳ thiết bị nào",
+    "downloader-title": "Tải danh sách phát SoundCloud",
+    "downloader-description": "Chuyển đổi danh sách phát thành ZIP hoặc lưu tập tin MP3",
+    "featuresTitle": "Tính năng trình chuyển đổi toàn bộ danh sách phát thành ZIP",
+    "features": [
+        {
+            "title": "Lưu âm thanh MP3",
+            "description": "Tải các bài hát SoundCloud ở định dạng MP3 chỉ với một lần nhấp chuột. Tính năng này cho phép bạn lưu các bài hát dưới dạng tập tin MP3 chất lượng cao, hoàn hảo để nghe ngoại tuyến trên bất kỳ thiết bị nào. Không cần phần mềm bổ sung, chỉ cần dán liên kết bài hát và tải ngay."
+        },
+        {
+            "title": "Trình chuyển đổi danh sách phát thành ZIP",
+            "description": "Trình chuyển đổi danh sách phát thành ZIP đơn giản hóa việc tải toàn bộ danh sách phát SoundCloud bằng cách nén nhiều bài hát thành một tập tin ZIP duy nhất. Tính năng này cho phép lưu trữ nhanh chóng và hiệu quả, giúp bạn dễ dàng chuyển và quản lý bộ sưu tập nhạc mà không phải tải từng bài hát một."
+        },
+        {
+            "title": "Trình tải ảnh bìa album",
+            "description": "Nhận ảnh bìa album chất lượng cao từ SoundCloud cùng với những bài hát đã tải xuống. Tính năng này cải thiện bộ sưu tập nhạc của bạn bằng cách cung cấp hình ảnh bìa rõ nét, giúp bạn dễ dàng tổ chức các bài hát trên trình phát media và các nền tảng streaming để có trải nghiệm nghe nhạc sống động hơn."
+        },
+        {
+            "title": "Tương thích với tất cả các thiết bị",
+            "description": "Bất kể bạn đang sử dụng thiết bị nào—PC, Mac, Android, hoặc iOS—trình tải này đảm bảo tính năng hoạt động mượt mà và dễ dàng trên tất cả các nền tảng. Không cần phần mềm hoặc ứng dụng bổ sung; chỉ cần mở bất kỳ trình duyệt nào và bắt đầu tải các bài hát yêu thích của bạn từ SoundCloud ngay lập tức."
+        },
+        {
+            "title": "Trình tải album",
+            "description": "Dễ dàng tải toàn bộ album SoundCloud chỉ với một lần tải xuống, giúp bạn không phải lưu từng bài hát một. Tính năng này tối ưu hóa quá trình, cho phép bạn nhanh chóng thu thập và lưu trữ toàn bộ tuyển tập của nghệ sĩ với âm thanh chất lượng cao để nghe ngoại tuyến liền mạch."
+        },
+        {
+            "title": "Âm thanh chất lượng cao",
+            "description": "Trải nghiệm chất lượng âm thanh vượt trội với các lần tải xuống âm thanh bitrate cao, cung cấp phát lại âm thanh rõ nét. Chọn từ các tùy chọn MP3 128kbps, 192kbps hoặc 320kbps. Tính năng này đảm bảo độ trung thực hàng đầu, bảo toàn toàn vẹn của từng bản nhạc. Ngoài ra, tận hưởng sự hỗ trợ định dạng linh hoạt, bao gồm MP3, FLAC, và WAV, cho trải nghiệm nghe tuyệt vời nhất."
+        }
+    ],
+    "howToConvertTitle": "Cách chuyển đổi SoundCloud MP3 thành ZIP?",
+    "howToConvertSteps": [
+        {
+            "title": "Sao chép URL danh sách phát SoundCloud",
+            "description": "Mở SoundCloud trên trình duyệt hoặc ứng dụng của bạn, tìm danh sách phát mà bạn muốn tải, và sao chép URL danh sách phát từ thanh địa chỉ hoặc nút chia sẻ."
+        },
+        {
+            "title": "Dán URL & Chuyển đổi",
+            "description": "Truy cập công cụ chuyển đổi SoundCloud thành ZIP, dán URL đã sao chép vào ô nhập liệu, và nhấp vào nút Chuyển đổi thành ZIP. Công cụ sẽ xử lý tất cả các bài hát và chuẩn bị cho việc tải xuống."
+        },
+        {
+            "title": "Tải tập tin ZIP",
+            "description": "Khi quá trình chuyển đổi hoàn tất, nhấp vào nút Tải ZIP để lưu toàn bộ danh sách phát dưới dạng tập tin nén. Giải nén tập tin ZIP trên thiết bị của bạn để truy cập tất cả các bài hát MP3 ngay lập tức."
+        }
+    ],
+    "downloadSectionTitle": "Trình tải toàn bộ danh sách phát SoundCloud thành ZIP",
+    "downloadSectionText": "Tiết kiệm thời gian và công sức bằng cách tải các danh sách phát SoundCloud dưới dạng một tập tin ZIP duy nhất. Thay vì tải từng bài hát riêng lẻ, công cụ này cho phép bạn tải nhiều bài hát cùng một lúc. Chuyển đổi toàn bộ bản nhạc hoặc danh sách phát của bạn thành một tập tin ZIP duy nhất.",
+    "downloadSectionExtra": "Với quá trình sao chép-dán-tải đơn giản, bạn có thể chuyển đổi bất kỳ danh sách phát SoundCloud nào thành một tập tin ZIP trong vài giây. Không yêu cầu phần mềm bổ sung hoặc đăng ký.",
+    "faqTitle": "Câu hỏi thường gặp",
+    "faq": [
+        {
+            "q": "Trình tải danh sách phát SoundCloud thành ZIP là gì?",
+            "a": "Đây là công cụ cho phép bạn tải toàn bộ danh sách phát SoundCloud thành một tập tin ZIP, giúp dễ dàng lưu trữ và truy cập nhiều bài hát cùng một lúc."
+        },
+        {
+            "q": "Làm sao để tải toàn bộ danh sách phát dưới dạng tập tin ZIP?",
+            "a": "Sao chép URL của danh sách phát, dán vào trình tải, nhấp 'Chuyển đổi thành ZIP,' và tải xuống tập tin nén chứa tất cả các bài hát."
+        },
+        {
+            "q": "Tôi có cần cài đặt phần mềm nào để sử dụng công cụ này không?",
+            "a": "Không, trình tải danh sách phát SoundCloud thành ZIP hoạt động trực tuyến, vì vậy bạn không cần cài đặt bất kỳ phần mềm hay ứng dụng nào."
+        },
+        {
+            "q": "Tôi có thể sử dụng công cụ này trên điện thoại của mình không?",
+            "a": "Có, trình tải tương thích với các thiết bị di động, bao gồm Android và iOS, và hoạt động qua bất kỳ trình duyệt web nào."
+        },
+        {
+            "q": "Định dạng âm thanh của các bài hát đã tải xuống là gì?",
+            "a": "Các bài hát thường được tải xuống ở định dạng MP3, đảm bảo chất lượng âm thanh cao cho việc nghe ngoại tuyến."
+        }
+    ]
+}

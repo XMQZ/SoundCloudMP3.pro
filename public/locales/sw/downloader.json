@@ -1,0 +1,13 @@
+{
+    "placeholder": "Weka URL ya SoundCloud Hapa",
+    "paste": "Bandika",
+    "download": "Pakua",
+    "selectfromplaylist": "Chagua kutoka kwa Playlist",
+    "downloads": {
+        "singlemp3": "Pakua Sauti Moja ya MP3",
+        "entireplaylist": "Pakua Playlist Yote kama ZIP",
+        "albumcover": "Pakua Jalada la Albamu",
+        "dp": "Pakua Picha ya Profaili",
+        "more": "Pakua Zaidi"
+    }
+}

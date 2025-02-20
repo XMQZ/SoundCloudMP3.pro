@@ -1,0 +1,74 @@
+{
+    "web-title": "SoundCloud 播放清單下載器 - 將整個播放清單和專輯轉換為 ZIP",
+    "web-description": "輕鬆從 SoundCloud 播放清單中下載 MP3 曲目。將整個播放清單轉換為 ZIP 文件。直接將 SoundCloud 播放清單 MP3 文件儲存到 iPhone、Android 或任何裝置",
+    "downloader-title": "下載 SoundCloud 播放清單",
+    "downloader-description": "將播放清單轉換為 ZIP 或儲存 MP3 文件",
+    "featuresTitle": "整個播放清單轉換為 ZIP 的功能",
+    "features": [
+        {
+            "title": "儲存 MP3 音頻",
+            "description": "只需點擊一下即可將 SoundCloud 歌曲下載為 MP3 格式。此功能使您可以將歌曲儲存為高質量 MP3 文件，適合在任何裝置上離線收聽。無需額外的軟體，只需粘貼曲目連結然後立即下載。"
+        },
+        {
+            "title": "播放清單轉換為 ZIP",
+            "description": "播放清單轉換為 ZIP 簡化了整個 SoundCloud 播放清單的下載過程，將多個曲目壓縮為一個 ZIP 文件。此功能允許快速高效的儲存，方便轉移和管理您的音樂收藏，無需逐一下載歌曲。"
+        },
+        {
+            "title": "專輯封面下載器",
+            "description": "從 SoundCloud 獲取高質量的專輯封面與您下載的曲目一起提供。此功能通過提供清晰的封面圖像來增強您的音樂收藏，使您能夠更輕鬆地在媒體播放器和串流平台上視覺上組織歌曲，提升聽覺體驗。"
+        },
+        {
+            "title": "兼容所有裝置",
+            "description": "無論您使用的是什麼裝置—PC、Mac、Android 還是 iOS—此下載器確保在所有平台上的運行流暢且簡單。無需額外的軟體或應用安裝；只需打開任何網頁瀏覽器並立即開始下載您喜愛的 SoundCloud 曲目。"
+        },
+        {
+            "title": "專輯下載器",
+            "description": "簡易地單次下載整個 SoundCloud 專輯，無需逐一儲存曲目。此功能簡化了過程，使您能夠快速收集和儲存藝術家精選合輯，以高質量音頻進行無縫離線收聽。"
+        },
+        {
+            "title": "高質量音頻",
+            "description": "通過高比特率音頻下載獲得卓越的音質，提供清晰的播放效果。選擇 128kbps、192kbps 或 320kbps 的 MP3 選項。此功能保證頂級的音質，保持每個曲目的完整性。此外，享受包括 MP3、FLAC 和 WAV 在內的多種格式支持，帶來最終的聽覺享受。"
+        }
+    ],
+    "howToConvertTitle": "如何將 SoundCloud MP3 轉換為 ZIP？",
+    "howToConvertSteps": [
+        {
+            "title": "複製 SoundCloud 播放清單 URL",
+            "description": "在您的瀏覽器或應用上打開 SoundCloud，找到您要下載的播放清單，然後從地址欄或分享按鈕複製播放清單 URL。"
+        },
+        {
+            "title": "粘貼 URL 並轉換",
+            "description": "進入 SoundCloud to ZIP 轉換工具，將複製的 URL 粘貼到輸入框，然後點擊「轉換為 ZIP」按鈕。此工具將處理所有曲目並準備它們下載。"
+        },
+        {
+            "title": "下載 ZIP 文件",
+            "description": "轉換完成後，點擊「下載 ZIP」按鈕，以壓縮格式儲存整個播放清單。在您的裝置上解壓 ZIP 文件即可立即獲取所有 MP3 曲目。"
+        }
+    ],
+    "downloadSectionTitle": "整個 SoundCloud 播放清單轉換為 ZIP 下載器",
+    "downloadSectionText": "省時省力地將整個 SoundCloud 播放清單下載為一個 ZIP 文件。不再需要分別下載每個曲目，這個工具讓您同時獲取多首歌曲。將您的整個曲目或播放清單轉換為一個 ZIP 文件。",
+    "downloadSectionExtra": "通過簡單的複製-粘貼-下載過程，您可以在幾秒鐘內將任何 SoundCloud 播放清單轉換為 ZIP 文件。無需額外的軟體或註冊。",
+    "faqTitle": "常見問題",
+    "faq": [
+        {
+            "q": "什麼是 SoundCloud 播放清單轉換為 ZIP 下載器？",
+            "a": "這是一個讓您將整個 SoundCloud 播放清單下載為一個 ZIP 文件的工具，更方便一次儲存和訪問多個曲目。"
+        },
+        {
+            "q": "如何將整個播放清單下載為 ZIP 文件？",
+            "a": "複製播放清單的 URL，將其粘貼到下載器中，點擊「轉換為 ZIP」並下載包含所有曲目的壓縮文件。"
+        },
+        {
+            "q": "使用此工具需要安裝任何軟體嗎？",
+            "a": "不，SoundCloud 播放清單轉換為 ZIP 下載器是在線運行的，因此您不需要安裝任何軟體或應用。"
+        },
+        {
+            "q": "我可以在手機上使用這個工具嗎？",
+            "a": "可以，下載器兼容手機裝置，包括 Android 和 iOS，並通過任何網頁瀏覽器工作。"
+        },
+        {
+            "q": "下載的曲目使用什麼音頻格式？",
+            "a": "曲目通常以 MP3 格式下載，確保高質量的音頻供離線收聽。"
+        }
+    ]
+}

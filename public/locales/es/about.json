@@ -1,0 +1,33 @@
+{
+    "web-title": "SoundCloudMP3 - Descargar Canciones y Listas de Reproducción de SoundCloud como MP3",
+    "web-description": "Descarga canciones, álbumes y listas de reproducción de SoundCloud como MP3 de alta calidad con SoundCloudMP3. Convertidor de SoundCloud a MP3 rápido, gratuito y fácil de usar. No se requiere registro.",
+    "aboutTitle": "Sobre Nosotros",
+    "aboutSubtitle": "El Descargador Definitivo de SoundCloud para MP3s de Alta Calidad",
+    "whoWeAreTitle": "Quiénes Somos",
+    "whoWeAreText": "Bienvenido a <strong>SoundCloudMP3</strong>, tu solución preferida para descargar pistas de SoundCloud en formato MP3 de alta calidad. Nos apasiona ofrecer a los amantes de la música, DJs, creadores de contenido y oyentes ocasionales una manera fluida de guardar y disfrutar sus pistas favoritas sin conexión.",
+    "missionTitle": "Nuestra Misión",
+    "missionText": "Nuestra misión es ofrecer una herramienta <strong>simple, rápida y confiable</strong> que permita a los usuarios descargar música de SoundCloud en la mejor calidad posible. Ofrecemos soporte para múltiples formatos de audio y tasas de bits, incluyendo <strong>MP3 de 128kbps, 192kbps y 320kbps</strong>, así como <strong>FLAC y WAV</strong> para calidad sin pérdida.",
+    "whyChooseTitle": "¿Por Qué Elegir SoundCloudMP3?",
+    "whyChooseFeatures": [
+        "<strong>Descargas Rápidas y Fáciles</strong> – Convierte y descarga pistas de SoundCloud con solo unos clics. No se requiere instalación de software.",
+        "<strong>Apoyo para Listas de Reproducción y Álbumes</strong> – Guarda listas de reproducción o álbumes enteros como archivos ZIP sin esfuerzo.",
+        "<strong>Audio de Alta Calidad</strong> – Elige entre diferentes tasas de bits para la mejor experiencia de audio.",
+        "<strong>Descargador de Portadas de Álbum</strong> – Descarga portadas de álbum en alta resolución junto con tus pistas.",
+        "<strong>Compatible con Todos los Dispositivos</strong> – Funciona a la perfección en PC, Mac, Android y iOS.",
+        "<strong>Totalmente Gratuito</strong> – Sin tarifas ocultas ni cuentas premium requeridas."
+    ],
+    "howItWorksTitle": "Cómo Funciona",
+    "howItWorksSteps": [
+        "Copia la URL de la pista, lista de reproducción o álbum de SoundCloud que deseas descargar.",
+        "Pégala en nuestra caja de entrada del <strong>Descargador de SoundCloudMP3</strong>.",
+        "Elige tu formato de audio y calidad preferidos.",
+        "Haz clic en el botón <strong>Descargar</strong> y obtén tu archivo MP3 al instante."
+    ],
+    "commitmentTitle": "Nuestro Compromiso con los Usuarios",
+    "commitmentText": "Priorizamos la <strong>privacidad y seguridad</strong> de los usuarios. No almacenamos el historial de descargas ni datos personales, asegurando una experiencia completamente <strong>anónima y segura</strong>. Nuestra plataforma ofrece descargas <strong>sin anuncios, sin complicaciones e ilimitadas</strong>.",
+    "joinUsersTitle": "Únete a Miles de Usuarios en Todo el Mundo",
+    "joinUsersText": "Millones de usuarios confían en <strong>SoundCloudMP3</strong> para sus descargas de música de SoundCloud. Ya sea que necesites pistas para escuchar personalmente, mezclar como DJ o proyectos creativos, estamos aquí para ayudarte a acceder a la música que amas en cualquier momento y lugar.",
+    "ctaTitle": "¡Empieza a Descargar Ahora!",
+    "ctaText": "Comienza hoy y experimenta el mejor <strong>convertidor de SoundCloud a MP3</strong> disponible en línea.",
+    "ctaButton": "Prueba SoundCloudMP3 Ahora 🚀"
+}

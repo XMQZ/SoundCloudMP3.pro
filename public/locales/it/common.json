@@ -1,0 +1,102 @@
+{
+    "web-title": "#1 Descargador de SoundCloud – Convierte Pistas, Listas de Reproducción y Álbumes de SoundCloud a MP3",
+    "web-description": "Descarga pistas, listas de reproducción, álbumes y carátulas de SoundCloud en línea con el mejor Bajador de SoundCloud. Convierte a MP3 en alta calidad (320kbps) de forma gratuita. Fácil de usar en cualquier dispositivo.",
+    "downloader-title": "Descargador de SoundCloud y Convertidor de MP3",
+    "downloader-description": "Descarga pistas, canciones, listas de reproducción, álbumes de SoundCloud y conviértelos a MP3 al instante – ¡Rápido, gratis y fácil!",
+    "featuresTitle": "Características del Descargador de SoundCloud",
+    "features": [
+        {
+            "title": "Descargador de Audio MP3",
+            "description": "Descarga fácilmente pistas de SoundCloud en formato MP3 con solo un clic. Esta función te permite guardar canciones en archivos MP3 de alta calidad, haciéndolo conveniente para escuchar sin conexión en cualquier dispositivo. No necesitas software adicional. Simplemente pega el enlace de la pista y obtén tu archivo al instante."
+        },
+        {
+            "title": "Convertidor de Lista de Reproducción a ZIP",
+            "description": "Ahorra tiempo descargando listas de reproducción completas de SoundCloud de una sola vez. Esta función comprime múltiples pistas en un único archivo ZIP, facilitando su almacenamiento y transferencia sin tener que descargarlas una por una. Ideal para DJs, amantes de la música y escuchar sin conexión."
+        },
+        {
+            "title": "Descargador de Carátulas",
+            "description": "Descarga carátulas de álbum en alta resolución de SoundCloud junto con tus pistas. Esta función asegura que tu biblioteca de música luzca completa con imágenes de carátulas adecuadas, ayudándote a organizar tus canciones visualmente en reproductores de música y aplicaciones de streaming."
+        },
+        {
+            "title": "Compatible con Todos los Dispositivos",
+            "description": "Ya sea que estés usando una PC, Mac, dispositivo Android o iOS, este descargador funciona perfectamente en todas las plataformas. No se requiere la instalación de software o aplicaciones especiales, simplemente utiliza cualquier navegador web para acceder y descargar tus pistas favoritas de SoundCloud."
+        },
+        {
+            "title": "Descargador de Álbumes",
+            "description": "Descarga álbumes completos de SoundCloud de una sola vez sin tener que descargar las pistas individuales por separado. Esta función te ayuda a guardar colecciones completas de tus artistas favoritos de forma rápida y eficiente en formato de audio de alta calidad."
+        },
+        {
+            "title": "Audio de Alta Calidad",
+            "description": "Disfruta de la mejor experiencia de sonido con descargas de audio en alta tasa de bits. Elige entre calidad MP3 de 128kbps, 192kbps o 320kbps. Esta función asegura que obtengas audio de la más alta fidelidad, manteniendo la claridad y profundidad en cada pista. Nosotros soportamos MP3, FLAC, WAV."
+        }
+    ],
+    "howToDownloadTitle": "¿Cómo descargar MP3 de SoundCloud?",
+    "howToDownloadSteps": [
+        {
+            "title": "Abre la aplicación de SoundCloud",
+            "description": "Abre el <0>sitio web de SoundCloud</0> desde cualquier navegador o la <1>aplicación</1>."
+        },
+        {
+            "title": "Copia la URL de la Pista de SoundCloud",
+            "description": "Encuentra la pista, lista de reproducción o álbum que deseas descargar. Toca el botón Compartir y copia la URL de la pista."
+        },
+        {
+            "title": "Pega la URL en el Descargador",
+            "description": "Ve a la <2>herramienta de Descarga de MP3</2> en tu navegador web. Pega la URL de SoundCloud copiada en el campo de entrada."
+        },
+        {
+            "title": "Selecciona Formato y Haz Clic en ‘Descargar’",
+            "description": "Elige tu formato de audio preferido (MP3, WAV, etc.) y selecciona la calidad de tasa de bits deseada (128kbps, 192kbps, 320kbps). Luego, presiona el botón Descargar."
+        },
+        {
+            "title": "Guarda y Disfruta Sin Conexión",
+            "description": "Después de procesar, haz clic en el enlace de descarga para guardar la pista en tu dispositivo. ¡Ahora puedes disfrutar de tu música favorita de SoundCloud sin conexión en cualquier momento!"
+        }
+    ],
+    "downloadSectionTitle": "Descarga SoundCloud MP3, Listas de Reproducción, Álbumes, Carátulas en línea",
+    "downloadSectionText": "Descarga fácilmente pistas MP3 de SoundCloud, listas de reproducción, álbumes y carátulas en línea con solo unos clics. Convierte música de SoundCloud a MP3 de alta calidad (128kbps, 192kbps, 320kbps) y guarda listas de reproducción o álbumes completos de una vez. Obtén carátulas de álbum en alta resolución junto con tus descargas. Nuestro <0>convertidor de Listas de Reproducción a ZIP</0> permite a los usuarios descargar álbumes o listas de reproducción completas en un solo archivo ZIP.",
+    "downloadSectionExtra": "No se requiere instalación de software. Simplemente pega la URL y disfruta de descargas gratuitas en cualquier dispositivo, incluyendo PC, Mac, iOS y Android.",
+    "faqTitle": "Preguntas Frecuentes",
+    "faq": [
+        {
+            "q": "¿Qué es un Descargador de SoundCloud?",
+            "a": "Un Descargador de SoundCloud es una herramienta en línea que te permite descargar y convertir pistas, listas de reproducción, álbumes y carátulas de SoundCloud a MP3 u otros formatos de audio para escuchar sin conexión."
+        },
+        {
+            "q": "¿Es gratuito de usar?",
+            "a": "Sí, esta herramienta es gratuita y no requiere suscripciones ni pagos."
+        },
+        {
+            "q": "¿Cómo descargo una pista de SoundCloud?",
+            "a": "Copia la URL de la pista, pégala en el descargador, selecciona tu formato y calidad preferidos, y luego haz clic en 'Descargar'."
+        },
+        {
+            "q": "¿Puedo descargar una lista de reproducción completa de SoundCloud?",
+            "a": "Sí, este descargador permite a los usuarios descargar listas de reproducción completas como un archivo ZIP o archivos MP3 individuales."
+        },
+        {
+            "q": "¿Cuál es la calidad de audio más alta que puedo descargar?",
+            "a": "Usualmente puedes descargar archivos MP3 en 320kbps, que es la calidad de audio más alta disponible. Otras opciones incluyen 128kbps y 192kbps."
+        },
+        {
+            "q": "¿Puedo usar el Descargador de SoundCloud en mi teléfono?",
+            "a": "Sí, este convertidor funciona en dispositivos Android e iOS a través de un navegador web."
+        },
+        {
+            "q": "¿Qué navegadores son compatibles con este sitio web?",
+            "a": "Funciona en todos los navegadores principales como Google Chrome, Mozilla Firefox, Safari, Microsoft Edge y Opera."
+        },
+        {
+            "q": "¿Puedo descargar pistas privadas o ocultas?",
+            "a": "Soportamos pistas privadas, pero necesitas acceso a la URL de la pista para descargarlas."
+        },
+        {
+            "q": "¿Por qué falla mi descarga o no funciona?",
+            "a": "Esto podría deberse a problemas de red, configuraciones del navegador, o una pista de SoundCloud que esté restringida o eliminada. Intenta refrescar la página o usar un descargador diferente."
+        },
+        {
+            "q": "¿Es seguro usar el Descargador de SoundCloud?",
+            "a": "Sí, siempre que uses un descargador confiable y sin anuncios, es seguro. Evita descargadores que requieren permisos innecesarios o descargas."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "web-title": "SoundCloud Album Cover [ArtWork] Downloader",
+    "web-description": "Pakua ArtWork ya SoundCloud (jalada la albamu) ya ubora wa juu kwa kutumia SoundCloud ArtWork Downloader. Hifadhi jalada za albamu na picha za nyimbo kwa ubora wa HD.",
+    "downloader-title": "Pakua Jalada la Albamu ya SoundCloud [Sanaa ya Kazi]",
+    "downloader-description": "Pakua Jaladani za Albamu za SoundCloud & Sanaa za Nyimbo kwa ubora wa HD bila malipo",
+    "featuresTitle": "Sifa za Kigeuzi cha SoundCloud hadi MP3",
+    "features": [
+        {
+            "title": "SoundCloud hadi MP3",
+            "description": "Pakua kwa urahisi nyimbo za SoundCloud kwa muundo wa MP3 kwa kubofya mara moja. Zana hii inakuwezesha kuhifadhi nyimbo kwa faili za MP3 za ubora wa juu, zikiziweka bora kwa kusikiliza nje ya mtandao kwenye kifaa chochote. Hakuna programu nyingine ya ziada inayohitajika; ingiza tu kiungo cha wimbo na anza kupakua papo hapo."
+        },
+        {
+            "title": "Orodha Zote hadi ZIP",
+            "description": "Kigeuzi cha Orodha hadi ZIP hufanya iwe rahisi kupakua orodha zote za muziki za SoundCloud kwa kufunga nyimbo nyingi ndani ya faili moja ya ZIP. Kazi hii inawezesha kuhifadhi na kupanga haraka zaidi, ikiruhusu watumiaji kuhamisha na kushughulikia mkusanyiko wao wa muziki kwa urahisi bila hitaji la kuhifadhi kila wimbo mmoja baada ya mwingine."
+        },
+        {
+            "title": "ArtWork Downloader",
+            "description": "Pakua jalada za albamu za ubora wa juu kutoka SoundCloud pamoja na nyimbo zako unazopenda. Kipengele hiki huboresha maktaba yako ya muziki kwa kuboresha sanaa kwa uwazi na undani, ikikusaidia kuweka nyimbo zako kwa mpangilio mzuri kwenye programu na chombo vya muziki wakati ukitoa uzoefu wa kusikiliza wa kuvutia zaidi."
+        },
+        {
+            "title": "Inaoana na Vifaa Vyote",
+            "description": "Haijalishi unatumia PC, Mac, Android, au kifaa cha iOS, downloader hii inafanya kazi bila shida kwenye majukwaa yote. Hakuna programu au app ya ziada inayohitajika; fungua tu kivinjari chako unachopendelea na uanze kupakua nyimbo za SoundCloud mara moja."
+        },
+        {
+            "title": "Album Downloader",
+            "description": "Pakua kwa haraka albamu zote za SoundCloud mara moja bila hitaji la kuhifadhi kila wimbo mmoja baada ya mwingine. Kipengele hiki hurahisisha mchakato, na kuifanya iwe rahisi kukusanya na kuhifadhi makusanyo kamili ya msanii kwa sauti bora kwa ajili ya kichezaji cha nje ya mtandao bila shida."
+        },
+        {
+            "title": "Inasaidia FLAC na MP3",
+            "description": "Furahia sauti za ubora wa juu zilizopakuliwa na uwazi na kina kilichoboreshwa. Chagua kutoka kwa muundo wa MP3 wa 128kbps, 192kbps, au 320kbps kulingana na upendavyo kusikiliza. Zaidi ya hayo, inasaidia aina nyingi za miundo, ikiwemo MP3, FLAC, na WAV, ikitoa kubadilika kwa mahitaji tofauti ya sauti."
+        }
+    ],
+    "howToDownloadArtworkTitle": "Jinsi ya kupakua sanaa ya wimbo wa albamu?",
+    "howToDownloadArtworkSteps": [
+        {
+            "title": "Nakili URL ya SoundCloud ya Wimbo au Albamu",
+            "description": "Fungua SoundCloud na tafuta wimbo, albamu, au orodha ya nyimbo na sanaa unayotaka. Bofya kitufe cha Shiriki na nakili kiungo kilichotolewa."
+        },
+        {
+            "title": "Bandika Kiungo kwenye Downloader",
+            "description": "Nenda kwa <0>SoundCloud Artwork Downloader</0>, weka kiungo kilichokopiwa kwenye mstari wa utafutaji, na bonyeza kitufe cha Pakua Sanaa ili kupata picha."
+        },
+        {
+            "title": "Pakua picha ya Jalada la Albamu",
+            "description": "Mara sanaa inapotolewa, bofya kitufe cha Pakua ili kuihifadhi katika ubora wa HD. Sasa unayo jalada la albamu tayari kwa mkusanyiko wako wa muziki au maktaba ya vyombo vya habari."
+        }
+    ],
+    "downloadSectionTitle": "Pakua Picha ya Jalada la Albamu ya SoundCloud",
+    "downloadSectionText": "Chopoa kwa urahisi jalada za albamu za SoundCloud kwa azimio la juu kwa orodha na albamu. Bandika tu URL ya SoundCloud na pakua sanaa papo hapo. Pia tunaunga mkono Upakuaji wa Picha ya Kivuli ya Mtumiaji.",
+    "downloadSectionExtra": "Chombo hiki kinafanya kazi kwenye PC, Mac, Android, na iOS na hutoa picha wazi (png, jpg). Unaweza kuchopoa jalada la albamu la ubora wa juu na picha ya kivuli ya mtumiaji kwa kutumia chombo hiki.",
+    "faqTitle": "Maswali Yanayoulizwa Mara kwa Mara",
+    "faq": [
+        {
+            "q": "Downloader ya Jalada la Albamu ya SoundCloud ni nini?",
+            "a": "Ni chombo cha mtandaoni kinachokuruhusu kupakua sanaa za albamu za azimio la juu kutoka kwa nyimbo, orodha za nyimbo, na albamu za SoundCloud papo hapo."
+        },
+        {
+            "q": "Nitajije kupakua sanaa ya albamu kutoka SoundCloud?",
+            "a": "Nakili URL ya wimbo wa SoundCloud, albamu, au orodha ya nyimbo, ibandike kwenye downloader, na bofya kitufe cha 'Pakua Sanaa' ili kuhifadhi picha."
+        },
+        {
+            "q": "Ubora wa jalada za albamu zinazopakuliwa unakuwaje?",
+            "a": "Chombo huchukua picha za azimio la juu, likihakikisha sanaa iliyo wazi na nzuri kwa uratibu wa muziki na waendeshaji wa vyombo vya habari."
+        },
+        {
+            "q": "Nahitaji kusakinisha programu yoyote ili kupakua sanaa ya SoundCloud?",
+            "a": "Hapana, chombo hiki hufanya kazi kikamilifu mtandaoni, huku kikikuruhusu kupakua jalada za albamu moja kwa moja kutoka kwa kivinjari chako cha mtandao bila usakinishaji wowote."
+        },
+        {
+            "q": "Ninaweza kupakua sanaa kwenye simu yangu?",
+            "a": "Ndiyo, Downloader ya Sanaa ya SoundCloud inaoana na vifaa vya mkononi, ikiwa ni pamoja na Android na iOS, ikirahisisha kuokoa jalada za albamu popote unapokwenda."
+        }
+    ]
+}

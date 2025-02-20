@@ -1,0 +1,13 @@
+{
+    "placeholder": "SoundCloud URL'sini Buraya Yapıştırın",
+    "paste": "Yapıştır",
+    "download": "İndir",
+    "selectfromplaylist": "Çalma Listesinden Seç",
+    "downloads": {
+        "singlemp3": "Tek MP3 Ses Dosyası İndir",
+        "entireplaylist": "Tüm Çalma Listesini ZIP Olarak İndir",
+        "albumcover": "Albüm Kapağını İndir",
+        "dp": "Profil Resmini İndir",
+        "more": "Daha Fazla İndir"
+    }
+}

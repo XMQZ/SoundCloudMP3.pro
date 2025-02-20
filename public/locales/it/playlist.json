@@ -1,0 +1,74 @@
+{
+    "web-title": "SoundCloud Playlist Downloader - Convertir Toda la Lista de Reproducción y Álbum a ZIP",
+    "web-description": "Descarga pistas MP3 de listas de reproducción de SoundCloud fácilmente. Convierte listas de reproducción completas en un archivo ZIP. Guarda archivos MP3 de listas de reproducción de SoundCloud directamente en iPhone, Android o cualquier dispositivo",
+    "downloader-title": "Descargar Lista de Reproducción de SoundCloud",
+    "downloader-description": "Convertir Lista de Reproducción a ZIP o Guardar Archivo MP3",
+    "featuresTitle": "Características del Convertidor de Lista de Reproducción a ZIP Completa",
+    "features": [
+        {
+            "title": "Guardar audio MP3",
+            "description": "Descarga canciones de SoundCloud en formato MP3 con un solo clic. Esta función te permite guardar canciones como archivos MP3 de alta calidad, perfectos para escuchar sin conexión en cualquier dispositivo. No se requiere software adicional, simplemente pega el enlace de la pista y descarga al instante."
+        },
+        {
+            "title": "Convertidor de Lista de Reproducción a ZIP",
+            "description": "El Convertidor de Lista de Reproducción a ZIP simplifica la descarga de listas de reproducción completas de SoundCloud al comprimir varias pistas en un solo archivo ZIP. Esta función permite un almacenamiento rápido y eficiente, facilitando la transferencia y gestión de tu colección musical sin la necesidad de descargar las canciones una por una."
+        },
+        {
+            "title": "Descargador de Portada de Álbum",
+            "description": "Obtén imágenes de álbum de alta calidad de SoundCloud junto con tus pistas descargadas. Esta función mejora tu colección musical proporcionando imágenes de portada nítidas, lo que facilita la organización visual de las canciones en reproductores multimedia y plataformas de streaming para una experiencia auditiva más inmersiva."
+        },
+        {
+            "title": "Compatible con Todos los Dispositivos",
+            "description": "No importa qué dispositivo estés usando—PC, Mac, Android o iOS—este descargador asegura un funcionamiento suave y fácil en todas las plataformas. No hay necesidad de software o aplicaciones adicionales; simplemente abre cualquier navegador web y comienza a descargar tus pistas favoritas de SoundCloud al instante."
+        },
+        {
+            "title": "Descargador de Álbumes",
+            "description": "Obtén fácilmente álbumes completos de SoundCloud en una sola descarga, eliminando la necesidad de guardar pistas una por una. Esta función agiliza el proceso, permitiéndote recolectar y almacenar rápidamente compilaciones completas de artistas en audio de alta calidad para una escucha sin conexión sin interrupciones."
+        },
+        {
+            "title": "Audio de Alta Calidad",
+            "description": "Experimenta una calidad de sonido superior con descargas de audio de alta tasa de bits, ofreciendo una reproducción clara y nítida. Selecciona entre opciones MP3 de 128kbps, 192kbps o 320kbps. Esta característica garantiza una fidelidad de primer nivel, preservando la integridad de cada pista. Además, disfruta del soporte de formato versátil, incluyendo MP3, FLAC y WAV, para la experiencia de escucha definitiva."
+        }
+    ],
+    "howToConvertTitle": "¿Cómo convertir un MP3 de SoundCloud a ZIP?",
+    "howToConvertSteps": [
+        {
+            "title": "Copia la URL de la Lista de Reproducción de SoundCloud",
+            "description": "Abre SoundCloud en tu navegador o aplicación, encuentra la lista de reproducción que deseas descargar y copia la URL de la lista desde la barra de direcciones o el botón de compartir."
+        },
+        {
+            "title": "Pega la URL y Convierte",
+            "description": "Ve a la herramienta Convertidor de SoundCloud a ZIP, pega la URL copiada en el cuadro de entrada y haz clic en el botón Convertir a ZIP. La herramienta procesará todas las pistas y las preparará para la descarga."
+        },
+        {
+            "title": "Descarga el Archivo ZIP",
+            "description": "Una vez que la conversión esté completa, haz clic en el botón Descargar ZIP para guardar toda la lista de reproducción como un archivo comprimido. Extrae el archivo ZIP en tu dispositivo para acceder a todas las pistas MP3 al instante."
+        }
+    ],
+    "downloadSectionTitle": "Descargador Completo de Listas de Reproducción de SoundCloud a ZIP",
+    "downloadSectionText": "Ahorra tiempo y esfuerzo descargando listas de reproducción completas de SoundCloud como un solo archivo ZIP. En lugar de descargar cada pista por separado, esta herramienta te permite obtener múltiples canciones a la vez. Convierte tu pista o lista completa en un solo archivo ZIP.",
+    "downloadSectionExtra": "Con un simple proceso de copiar-pegar-descargar, puedes convertir cualquier lista de reproducción de SoundCloud en un archivo ZIP en cuestión de segundos. No se requiere software adicional ni registro.",
+    "faqTitle": "Preguntas Frecuentes",
+    "faq": [
+        {
+            "q": "¿Qué es el Descargador de Lista de Reproducción a ZIP de SoundCloud?",
+            "a": "Es una herramienta que te permite descargar listas de reproducción completas de SoundCloud como un solo archivo ZIP, facilitando el almacenamiento y el acceso a múltiples pistas a la vez."
+        },
+        {
+            "q": "¿Cómo descargo una lista de reproducción completa como un archivo ZIP?",
+            "a": "Copia la URL de la lista de reproducción, pégala en el descargador, haz clic en 'Convertir a ZIP', y descarga el archivo comprimido que contiene todas las pistas."
+        },
+        {
+            "q": "¿Necesito instalar algún software para usar esta herramienta?",
+            "a": "No, el Descargador de Lista de Reproducción a ZIP de SoundCloud funciona en línea, por lo que no necesitas instalar ningún software o aplicación."
+        },
+        {
+            "q": "¿Puedo usar esta herramienta en mi teléfono?",
+            "a": "Sí, el descargador es compatible con dispositivos móviles, incluidos Android e iOS, y funciona a través de cualquier navegador web."
+        },
+        {
+            "q": "¿En qué formato de audio están las pistas descargadas?",
+            "a": "Las pistas se descargan típicamente en formato MP3, asegurando audio de alta calidad para escuchar sin conexión."
+        }
+    ]
+}

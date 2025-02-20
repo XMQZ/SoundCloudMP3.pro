@@ -1,0 +1,74 @@
+{
+    "web-title": "Descargador de Portadas de Álbumes de SoundCloud [Artwork]",
+    "web-description": "Descarga ArtWork de SoundCloud de alta calidad (portada de álbum) con el Descargador de ArtWork de SoundCloud. Guarda portadas de álbumes e imágenes de pistas en calidad HD.",
+    "downloader-title": "Descargar Portada de Álbum de SoundCloud [ArtWork]",
+    "downloader-description": "Descarga Portadas de Álbumes y ArtWork de Pistas de SoundCloud en HD gratis",
+    "featuresTitle": "Características del Convertidor de SoundCloud a MP3",
+    "features": [
+        {
+            "title": "SoundCloud a MP3",
+            "description": "Descarga fácilmente pistas de SoundCloud en formato MP3 con solo un clic. Esta herramienta te permite guardar canciones en archivos MP3 de alta calidad, ideales para escuchar sin conexión en cualquier dispositivo. No se necesita software adicional; simplemente introduce el enlace de la pista y comienza a descargar al instante."
+        },
+        {
+            "title": "Lista de Reproducción Completa a ZIP",
+            "description": "El Convertidor de Lista a ZIP facilita la descarga completa de listas de reproducción de SoundCloud empaquetando varias pistas en un solo archivo ZIP. Esta función permite un almacenamiento más rápido y organizado, permitiendo a los usuarios transferir y manejar su colección musical sin esfuerzo y sin necesidad de guardar cada pista individualmente."
+        },
+        {
+            "title": "Descargador de ArtWork",
+            "description": "Descarga portadas de álbumes de alta resolución de SoundCloud junto con tus pistas favoritas. Esta característica mejora tu biblioteca musical proporcionando artwork claro y detallado, ayudándote a mantener tus canciones bien organizadas en aplicaciones y reproductores de música al tiempo que crea una experiencia de escucha visualmente atractiva."
+        },
+        {
+            "title": "Compatible con Todos los Dispositivos",
+            "description": "Ya sea que uses una PC, Mac, Android o iOS, este descargador funciona sin problemas en todas las plataformas. No se requiere instalación de software o aplicaciones adicionales; simplemente abre tu navegador web preferido y comienza a descargar pistas de SoundCloud de inmediato."
+        },
+        {
+            "title": "Descargador de Álbumes",
+            "description": "Descarga rápidamente álbumes completos de SoundCloud de una sola vez sin tener que guardar cada pista individualmente. Esta característica simplifica el proceso, haciendo fácil recopilar y almacenar colecciones completas de artistas en audio de alta calidad para una reproducción sin conexión sin esfuerzo."
+        },
+        {
+            "title": "Soporte para FLAC y MP3",
+            "description": "Disfruta de descargas de audio de alta calidad con claridad y profundidad mejoradas. Elige entre formatos MP3 de 128kbps, 192kbps, o 320kbps para ajustar a tu preferencia de escucha. Además, soporta múltiples formatos, incluidos MP3, FLAC y WAV, proporcionando flexibilidad para diferentes necesidades de audio."
+        }
+    ],
+    "howToDownloadArtworkTitle": "¿Cómo descargar carátulas de álbumes?",
+    "howToDownloadArtworkSteps": [
+        {
+            "title": "Copia la URL de la Pista o Álbum de SoundCloud",
+            "description": "Abre SoundCloud y localiza la pista, álbum, o lista de reproducción con el artwork que deseas. Haz clic en el botón de Compartir y copia el enlace proporcionado."
+        },
+        {
+            "title": "Pega el Enlace en el Descargador",
+            "description": "Ve al <0>Descargador de ArtWork de SoundCloud</0>, inserta el enlace copiado en la barra de búsqueda, y presiona el botón Descargar ArtWork para obtener la imagen."
+        },
+        {
+            "title": "Descarga la Imagen de la Carátula del Álbum",
+            "description": "Una vez generado el artwork, haz clic en el botón Descargar para guardarlo en calidad HD. Ahora tienes la carátula del álbum lista para tu colección de música o biblioteca de medios."
+        }
+    ],
+    "downloadSectionTitle": "Descargar Imagen de Portada de Álbum de SoundCloud",
+    "downloadSectionText": "Extrae fácilmente portadas de álbumes de SoundCloud de alta resolución para listas de reproducción y álbumes. Simplemente pega la URL de SoundCloud y descarga el artwork al instante. También soportamos la descarga de Imágenes de Perfil.",
+    "downloadSectionExtra": "Esta herramienta funciona en PC, Mac, Android, e iOS y proporciona imágenes claras (png, jpg). Puedes extraer una portada de álbum de alta calidad e imagen de perfil de usuario con esta herramienta.",
+    "faqTitle": "Preguntas Frecuentes",
+    "faq": [
+        {
+            "q": "¿Qué es el Descargador de Portadas de Álbumes de SoundCloud?",
+            "a": "Es una herramienta en línea que te permite descargar artwork de álbumes en alta resolución de pistas, listas de reproducción y álbumes de SoundCloud al instante."
+        },
+        {
+            "q": "¿Cómo descargo artwork de álbumes de SoundCloud?",
+            "a": "Copia la URL de la pista, álbum, o lista de reproducción de SoundCloud, pégala en el descargador, y haz clic en el botón 'Descargar ArtWork' para guardar la imagen."
+        },
+        {
+            "q": "¿Cuál es la calidad de las portadas de álbumes descargadas?",
+            "a": "La herramienta obtiene imágenes de alta resolución, garantizando un artwork claro y nítido para la organización de música y reproductores multimedia."
+        },
+        {
+            "q": "¿Necesito instalar algún software para descargar el artwork de SoundCloud?",
+            "a": "No, esta herramienta funciona completamente en línea, permitiendo descargar portadas de álbumes directamente desde tu navegador web sin instalaciones."
+        },
+        {
+            "q": "¿Puedo descargar artwork en mi teléfono?",
+            "a": "Sí, el Descargador de ArtWork de SoundCloud es compatible con dispositivos móviles, incluidos Android y iOS, facilitando la obtención de portadas de álbumes en cualquier momento."
+        }
+    ]
+}

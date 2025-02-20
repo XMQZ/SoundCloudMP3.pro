@@ -1,0 +1,13 @@
+{
+    "placeholder": "Вставьте URL SoundCloud здесь",
+    "paste": "Вставить",
+    "download": "Скачать",
+    "selectfromplaylist": "Выбрать из плейлиста",
+    "downloads": {
+        "singlemp3": "Скачать отдельный MP3 аудио",
+        "entireplaylist": "Скачать весь плейлист в виде ZIP",
+        "albumcover": "Скачать обложку альбома",
+        "dp": "Скачать изображение профиля",
+        "more": "Скачать больше"
+    }
+}

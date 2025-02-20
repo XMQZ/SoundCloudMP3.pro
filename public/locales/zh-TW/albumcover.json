@@ -1,0 +1,74 @@
+{
+    "web-title": "SoundCloud 專輯封面 [藝術作品] 下載器",
+    "web-description": "使用 SoundCloud 藝術作品下載器下載高品質的 SoundCloud 藝術作品（專輯封面）。以高清質量保存專輯封面和曲目圖片。",
+    "downloader-title": "下載 SoundCloud 專輯封面 [藝術作品]",
+    "downloader-description": "免費下載高清 SoundCloud 專輯封面和曲目藝術作品",
+    "featuresTitle": "SoundCloud 轉 MP3 轉換器的特點",
+    "features": [
+        {
+            "title": "SoundCloud 轉 MP3",
+            "description": "只需點擊一下，即可輕鬆下載 MP3 格式的 SoundCloud 曲目。此工具允許您將歌曲保存為高品質 MP3 文件，非常適合在任何設備上進行離線收聽。無需其他軟件；只需輸入曲目鏈接並立即開始下載。"
+        },
+        {
+            "title": "整個播放列表至 ZIP",
+            "description": "播放列表轉 ZIP 轉換器通過將多個曲目打包到一個 ZIP 文件中，使下載完整的 SoundCloud 播放列表變得容易。此功能支持更快、更有組織的存儲，允許用戶輕鬆轉移和管理其音樂收藏，而無需單獨保存每首曲目。"
+        },
+        {
+            "title": "藝術作品下載器",
+            "description": "與您喜愛的曲目一起下載高分辨率的 SoundCloud 專輯封面。此功能通過提供清晰而詳細的藝術作品來提升您的音樂庫，幫助您在音樂應用和播放器上保持歌曲的良好組織，同時創造視覺上引人入勝的聆聽體驗。"
+        },
+        {
+            "title": "兼容所有設備",
+            "description": "無論您使用的是 PC、Mac、Android 還是 iOS 設備，這款下載器都能在所有平台上輕鬆工作。無需額外的軟件或應用程序安裝；只需打開您喜好的網頁瀏覽器並立即開始下載 SoundCloud 曲目。"
+        },
+        {
+            "title": "專輯下載器",
+            "description": "快速一次性地下載完整的 SoundCloud 專輯，無需單獨保存每首曲目。這個功能簡化了過程，使得收集和存儲完整的藝術家收藏變得輕鬆簡單，以供無障礙的離線播放。"
+        },
+        {
+            "title": "支持 FLAC 和 MP3",
+            "description": "享受具有增強清晰度和深度的高品質音頻下載。可以選擇 128kbps、192kbps 或 320kbps 的 MP3 格式以匹配您的聆聽偏好。此外，還支持包括 MP3、FLAC 和 WAV 在內的多種格式，為不同的音頻需求提供靈活性。"
+        }
+    ],
+    "howToDownloadArtworkTitle": "如何下載專輯封面？",
+    "howToDownloadArtworkSteps": [
+        {
+            "title": "複製 SoundCloud 曲目或專輯的 URL",
+            "description": "打開 SoundCloud 並找到您想下載藝術作品的曲目、專輯或播放列表。點擊分享按鈕並複製所提供的鏈接。"
+        },
+        {
+            "title": "將鏈接粘貼到下載器中",
+            "description": "打開 <0>SoundCloud 藝術作品下載器</0>，將複製的鏈接插入搜索欄中，然後按下下載藝術作品按鈕以獲取圖片。"
+        },
+        {
+            "title": "下載專輯封面圖片",
+            "description": "一旦生成藝術作品，點擊下載按鈕以高清質量保存。現在，您可以將專輯封面準備就緒用於您的音樂收藏或媒體庫。"
+        }
+    ],
+    "downloadSectionTitle": "下載 SoundCloud 專輯封面圖片",
+    "downloadSectionText": "輕鬆提取高分辨率的 SoundCloud 專輯封面，用於播放列表和專輯。只需粘貼 SoundCloud URL 並立即下載藝術作品。我們還支持個人資料圖片下載。",
+    "downloadSectionExtra": "這個工具適用於 PC、Mac、Android 和 iOS，並提供清晰的圖片（png, jpg）。使用此工具可以提取高品質的專輯封面和用戶個人資料圖片。",
+    "faqTitle": "常見問題解答",
+    "faq": [
+        {
+            "q": "什麼是 SoundCloud 專輯封面下載器？",
+            "a": "這是一個在線工具，可以讓您即時從 SoundCloud 的曲目、播放列表和專輯下載高分辨率的專輯藝術作品。"
+        },
+        {
+            "q": "如何從 SoundCloud 下載專輯藝術作品？",
+            "a": "複製 SoundCloud 曲目、專輯或播放列表的 URL，粘貼到下載器中，然後點擊 '下載藝術作品' 按鈕以保存圖片。"
+        },
+        {
+            "q": "下載的專輯封面質量如何？",
+            "a": "該工具獲取高分辨率圖像，確保音樂組織和媒體播放器的藝術作品清晰和清晰。"
+        },
+        {
+            "q": "我需要安裝任何軟件來下載 SoundCloud 藝術作品嗎？",
+            "a": "不需要，這個工具完全在線工作，允許您直接從網頁瀏覽器下載專輯封面，無需任何安裝。"
+        },
+        {
+            "q": "我可以在手機上下載藝術作品嗎？",
+            "a": "可以，SoundCloud 藝術作品下載器兼容移動設備，包括 Android 和 iOS，使您可以在移動中輕鬆保存專輯封面。"
+        }
+    ]
+}

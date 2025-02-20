@@ -1,0 +1,13 @@
+{
+    "placeholder": "الصق رابط SoundCloud هنا",
+    "paste": "لصق",
+    "download": "تحميل",
+    "selectfromplaylist": "اختر من قائمة التشغيل",
+    "downloads": {
+        "singlemp3": "تحميل ملف صوت MP3 واحد",
+        "entireplaylist": "تحميل قائمة التشغيل بأكملها كملف ZIP",
+        "albumcover": "تحميل غلاف الألبوم",
+        "dp": "تحميل صورة الملف الشخصي",
+        "more": "تحميل المزيد"
+    }
+}

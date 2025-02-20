@@ -1,0 +1,74 @@
+{
+    "web-title": "Téléchargeur de Pochette d'Album SoundCloud [Artwork]",
+    "web-description": "Téléchargez des Artwork de haute qualité de SoundCloud (pochette d'album) avec SoundCloud ArtWork Downloader. Enregistrez des pochettes d'album et des images de pistes en qualité HD.",
+    "downloader-title": "Téléchargez la Pochette d'Album SoundCloud [Art Work]",
+    "downloader-description": "Téléchargez gratuitement des pochettes d'album et des artworks de pistes SoundCloud en HD",
+    "featuresTitle": "Caractéristiques du Convertisseur SoundCloud en MP3",
+    "features": [
+        {
+            "title": "SoundCloud en MP3",
+            "description": "Téléchargez facilement des pistes SoundCloud en format MP3 en un seul clic. Cet outil vous permet de sauvegarder des chansons en fichiers MP3 de haute qualité, idéaux pour l'écoute hors ligne sur n'importe quel appareil. Aucun logiciel supplémentaire n'est nécessaire; il suffit d'entrer le lien du morceau et de commencer le téléchargement instantanément."
+        },
+        {
+            "title": "Liste de lecture entière en ZIP",
+            "description": "Le convertisseur Playlist en ZIP facilite le téléchargement de playlists complètes de SoundCloud en emballant plusieurs pistes dans un seul fichier ZIP. Cette fonction permet un stockage plus rapide et plus organisé, permettant aux utilisateurs de transférer et de gérer leur collection de musique sans effort sans avoir besoin d'enregistrer chaque piste individuellement."
+        },
+        {
+            "title": "ArtWork Downloader",
+            "description": "Téléchargez des pochettes d'album en haute résolution depuis SoundCloud avec vos pistes préférées. Cette fonctionnalité améliore votre bibliothèque musicale en offrant des illustrations claires et détaillées, vous aidant à garder vos chansons bien organisées sur les applications et les lecteurs de musique tout en créant une expérience d'écoute visuellement attrayante."
+        },
+        {
+            "title": "Compatible avec tous les appareils",
+            "description": "Que vous utilisiez un PC, un Mac, un appareil Android ou iOS, ce téléchargeur fonctionne sans effort sur toutes les plateformes. Aucun logiciel ou application supplémentaire n'est requis; ouvrez simplement votre navigateur web préféré et commencez à télécharger des pistes SoundCloud immédiatement."
+        },
+        {
+            "title": "Téléchargeur d'Album",
+            "description": "Téléchargez rapidement des albums complets de SoundCloud en une seule fois sans avoir à enregistrer chaque piste individuellement. Cette fonctionnalité simplifie le processus, rendant facile la collecte et le stockage de collections complètes d'artistes en audio de haute qualité pour une lecture hors ligne sans effort."
+        },
+        {
+            "title": "Supporte FLAC et MP3",
+            "description": "Profitez de téléchargements audio de haute qualité avec une clarté et une profondeur améliorées. Choisissez parmi les formats MP3 à 128kbps, 192kbps, ou 320kbps pour correspondre à vos préférences d'écoute. De plus, il supporte de multiples formats, y compris MP3, FLAC, et WAV, offrant de la flexibilité pour différents besoins audio."
+        }
+    ],
+    "howToDownloadArtworkTitle": "Comment télécharger une pochette d'album?",
+    "howToDownloadArtworkSteps": [
+        {
+            "title": "Copier l'URL du morceau ou de l'album SoundCloud",
+            "description": "Ouvrez SoundCloud et localisez le morceau, l'album ou la playlist avec l'artwork que vous voulez. Cliquez sur le bouton Partager et copiez le lien fourni."
+        },
+        {
+            "title": "Collez le lien dans le téléchargeur",
+            "description": "Allez sur le <0>Téléchargeur d'Artwork SoundCloud</0>, insérez le lien copié dans la barre de recherche, et appuyez sur le bouton Télécharger l'artwork pour récupérer l'image."
+        },
+        {
+            "title": "Téléchargez l'image de la pochette d'album",
+            "description": "Une fois l'artwork généré, cliquez sur le bouton Télécharger pour l'enregistrer en qualité HD. Vous avez maintenant la pochette d'album prête pour votre collection musicale ou votre bibliothèque média."
+        }
+    ],
+    "downloadSectionTitle": "Télécharger l'image de la pochette d'album SoundCloud",
+    "downloadSectionText": "Extrayez facilement des pochettes d'album SoundCloud en haute résolution pour les playlists et les albums. Il vous suffit de coller l'URL SoundCloud et de télécharger l'artwork instantanément. Nous prenons également en charge le téléchargement de photos de profil.",
+    "downloadSectionExtra": "Cet outil fonctionne sur PC, Mac, Android et iOS et fournit des images claires (png, jpg). Vous pouvez extraire une pochette d'album de haute qualité et une photo de profil utilisateur avec cet outil.",
+    "faqTitle": "Questions Fréquemment Posées",
+    "faq": [
+        {
+            "q": "Qu'est-ce que le Téléchargeur de Pochette d'Album SoundCloud?",
+            "a": "C'est un outil en ligne qui vous permet de télécharger instantanément des artwork d'album en haute résolution à partir des pistes, playlists, et albums de SoundCloud."
+        },
+        {
+            "q": "Comment télécharger des artworks d'album depuis SoundCloud?",
+            "a": "Copiez l'URL de la piste, de l'album, ou de la playlist SoundCloud, collez-la dans le téléchargeur, et cliquez sur le bouton 'Télécharger l'artwork' pour enregistrer l'image."
+        },
+        {
+            "q": "Quelle est la qualité des pochettes d'album téléchargées?",
+            "a": "L'outil extrait des images en haute résolution, garantissant des illustrations claires et nettes pour l'organisation musicale et les lecteurs média."
+        },
+        {
+            "q": "Dois-je installer un logiciel pour télécharger des artworks SoundCloud?",
+            "a": "Non, cet outil fonctionne entièrement en ligne, vous permettant de télécharger des pochettes d'album directement depuis votre navigateur web sans aucune installation."
+        },
+        {
+            "q": "Puis-je télécharger des artworks sur mon téléphone?",
+            "a": "Oui, le Téléchargeur d'Artwork SoundCloud est compatible avec les appareils mobiles, y compris Android et iOS, ce qui facilite l'enregistrement de pochettes d'album en déplacement."
+        }
+    ]
+}

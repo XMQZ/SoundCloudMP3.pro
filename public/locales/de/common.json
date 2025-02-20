@@ -1,0 +1,102 @@
+{
+    "web-title": "#1 SoundCloud Downloader – Konvertieren von SoundCloud MP3 Tracks, Playlists & Alben",
+    "web-description": "Laden Sie SoundCloud Tracks, Playlists, Alben und Artwork online mit dem besten SoundCloud Downloader herunter. Kostenlos in hochqualitativer MP3 (320kbps) umwandeln. Einfach auf jedem Gerät zu verwenden.",
+    "downloader-title": "SoundCloud Downloader & MP3 Konverter",
+    "downloader-description": "Laden Sie SoundCloud Tracks, Songs, Playlists, Alben herunter & konvertieren Sie sie sofort in MP3 – Schnell, Kostenlos und Einfach!",
+    "featuresTitle": "SoundCloud Downloader Funktionen",
+    "features": [
+        {
+            "title": "MP3 Audio Downloader",
+            "description": "Laden Sie SoundCloud Tracks einfach im MP3-Format mit nur einem Klick herunter. Diese Funktion ermöglicht es Ihnen, Songs in hochqualitativen MP3-Dateien zu speichern, was das Offline-Hören auf jedem Gerät bequem macht. Keine zusätzliche Software erforderlich. Einfach den Track-Link einfügen und Ihre Datei sofort erhalten."
+        },
+        {
+            "title": "Playlist zu ZIP Konverter",
+            "description": "Sparen Sie Zeit, indem Sie ganze SoundCloud-Playlists auf einmal herunterladen. Diese Funktion komprimiert mehrere Tracks in eine einzige ZIP-Datei, wodurch es einfacher wird, mehrere Songs zu speichern und zu übertragen, ohne sie einzeln herunterladen zu müssen. Ideal für DJs, Musikliebhaber und Offline-Hörgenuss."
+        },
+        {
+            "title": "ArtWork Downloader",
+            "description": "Laden Sie hochauflösendes Album-Artwork von SoundCloud zusammen mit Ihren Tracks herunter. Diese Funktion sorgt dafür, dass Ihre Musikbibliothek mit den richtigen Coverbildern vollständig aussieht und hilft Ihnen, Ihre Songs visuell auf Musikplayern und Streaming-Apps zu organisieren."
+        },
+        {
+            "title": "Kompatibel mit allen Geräten",
+            "description": "Egal, ob Sie einen PC, Mac, ein Android- oder iOS-Gerät verwenden, dieser Downloader funktioniert nahtlos auf allen Plattformen. Es ist keine spezielle Software oder App-Installation erforderlich, nutzen Sie einfach einen Webbrowser, um Ihre Lieblings-SoundCloud-Tracks zuzugreifen und herunterzuladen."
+        },
+        {
+            "title": "Album Downloader",
+            "description": "Laden Sie komplette SoundCloud-Alben auf einmal herunter, ohne einzelne Tracks separat herunterladen zu müssen. Diese Funktion hilft Ihnen, ganze Sammlungen Ihrer Lieblingskünstler schnell und effizient in hochqualitativem Audioformat zu speichern."
+        },
+        {
+            "title": "Hochwertige Audioqualität",
+            "description": "Genießen Sie das beste Klangerlebnis mit Audiowiedergaben in hoher Bitrate. Wählen Sie zwischen 128kbps, 192kbps oder 320kbps MP3-Qualität. Diese Funktion stellt sicher, dass Sie Audio mit der höchsten Wiedergabetreue erhalten, die Klarheit und Tiefe in jedem Track beibehält. Wir unterstützen MP3, FLAC, WAV."
+        }
+    ],
+    "howToDownloadTitle": "Wie lädt man SoundCloud MP3 herunter?",
+    "howToDownloadSteps": [
+        {
+            "title": "Öffnen Sie die SoundCloud-App",
+            "description": "Öffnen Sie die <0>SoundCloud-Website</0> von einem beliebigen Browser oder der <1>Anwendung</1>."
+        },
+        {
+            "title": "Kopieren Sie die SoundCloud Track-URL",
+            "description": "Finden Sie den Track, die Playlist oder das Album, das Sie herunterladen möchten. Tippen Sie auf die Schaltfläche Teilen und kopieren Sie die Track-URL."
+        },
+        {
+            "title": "Fügen Sie die URL in den Downloader ein",
+            "description": "Gehen Sie zum <2>MP3 Downloader Tool</2> in Ihrem Webbrowser. Fügen Sie die kopierte SoundCloud-URL in das Eingabefeld ein."
+        },
+        {
+            "title": "Format auswählen & Klicken Sie auf 'Download'",
+            "description": "Wählen Sie Ihr bevorzugtes Audioformat (MP3, WAV usw.) und wählen Sie die gewünschte Bitrate-Qualität (128kbps, 192kbps, 320kbps). Drücken Sie dann die Schaltfläche Download."
+        },
+        {
+            "title": "Speichern & Offline genießen",
+            "description": "Nach der Verarbeitung klicken Sie auf den Download-Link, um den Track auf Ihrem Gerät zu speichern. Jetzt können Sie Ihre Lieblings-SoundCloud-Musik jederzeit offline genießen!"
+        }
+    ],
+    "downloadSectionTitle": "Laden Sie SoundCloud MP3, Playlist, Album, Artwork online herunter",
+    "downloadSectionText": "Laden Sie mit nur wenigen Klicks einfach SoundCloud MP3-Tracks, Playlists, Alben und Artwork online herunter. Konvertieren Sie SoundCloud-Musik in hochqualitative MP3 (128kbps, 192kbps, 320kbps) und speichern Sie ganze Playlists oder Alben auf einmal. Erhalten Sie hochauflösendes Album-Artwork zusammen mit Ihren Downloads. Unser <0>Playlist zu ZIP Konverter</0> erlaubt es Benutzern, ganze Alben oder Playlists in einer einzigen ZIP-Datei herunterzuladen.",
+    "downloadSectionExtra": "Keine Softwareinstallation erforderlich. Einfach die URL einfügen und den kostenlosen Download auf jedem Gerät genießen, einschließlich PC, Mac, iOS und Android.",
+    "faqTitle": "Häufig gestellte Fragen",
+    "faq": [
+        {
+            "q": "Was ist ein SoundCloud Downloader?",
+            "a": "Ein SoundCloud Downloader ist ein Online-Tool, das es Ihnen ermöglicht, SoundCloud Tracks, Playlists, Alben und Artwork in MP3 oder andere Audioformate für das Offline-Hören herunterzuladen und zu konvertieren."
+        },
+        {
+            "q": "Ist die Nutzung kostenlos?",
+            "a": "Ja, dieses Tool ist kostenlos und erfordert keine Abonnements oder Zahlungen."
+        },
+        {
+            "q": "Wie lade ich einen SoundCloud Track herunter?",
+            "a": "Kopieren Sie die URL des Tracks, fügen Sie sie in den Downloader ein, wählen Sie Ihr bevorzugtes Format und die Qualität aus, und klicken Sie dann auf 'Download'."
+        },
+        {
+            "q": "Kann ich eine gesamte Playlist von SoundCloud herunterladen?",
+            "a": "Ja, dieser Downloader ermöglicht es Benutzern, ganze Playlists als ZIP-Datei oder einzelne MP3-Dateien herunterzuladen."
+        },
+        {
+            "q": "Welche ist die höchste Audioqualität, die ich herunterladen kann?",
+            "a": "Sie können in der Regel MP3-Dateien in 320kbps herunterladen, was die höchste verfügbare Audioqualität ist. Weitere Optionen umfassen 128kbps und 192kbps."
+        },
+        {
+            "q": "Kann ich den SoundCloud Downloader auf meinem Handy verwenden?",
+            "a": "Ja, dieser Konverter funktioniert sowohl auf Android- als auch auf iOS-Geräten über einen Webbrowser."
+        },
+        {
+            "q": "Welche Browser sind mit dieser Website kompatibel?",
+            "a": "Es funktioniert auf allen gängigen Browsern wie Google Chrome, Mozilla Firefox, Safari, Microsoft Edge und Opera."
+        },
+        {
+            "q": "Kann ich private oder versteckte Tracks herunterladen?",
+            "a": "Wir unterstützen private Tracks, aber Sie benötigen Zugriff auf die Track-URL, um sie herunterzuladen."
+        },
+        {
+            "q": "Warum schlägt mein Download fehl oder funktioniert nicht?",
+            "a": "Dies könnte an Netzwerkproblemen, Browsereinstellungen oder einem SoundCloud-Track liegen, der eingeschränkt oder entfernt wurde. Versuchen Sie, die Seite neu zu laden oder einen anderen Downloader zu verwenden."
+        },
+        {
+            "q": "Ist der SoundCloud Downloader sicher zu verwenden?",
+            "a": "Ja, solange Sie einen vertrauenswürdigen und werbefreien Downloader verwenden, ist es sicher. Vermeiden Sie Downloader, die unnötige Berechtigungen oder Downloads erfordern."
+        }
+    ]
+}

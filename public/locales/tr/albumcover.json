@@ -1,0 +1,74 @@
+{
+    "web-title": "SoundCloud Albüm Kapağı [ArtWork] İndirme Aracı",
+    "web-description": "SoundCloud Sanat Eserlerini (albüm kapağı) yüksek kalitede indirin, SoundCloud ArtWork İndirme Aracı ile albüm kapaklarını ve parça resimlerini HD kalitesinde kaydedin.",
+    "downloader-title": "SoundCloud Albüm Kapağı [Art Work] İndirme",
+    "downloader-description": "HD SoundCloud Albüm Kapakları ve Parça Sanat Eserlerini ücretsiz indirin.",
+    "featuresTitle": "SoundCloud'dan MP3'e Dönüştürücünün Özellikleri",
+    "features": [
+        {
+            "title": "SoundCloud'dan MP3'e",
+            "description": "SoundCloud parçalarını MP3 formatında kolayca indirin, sadece bir tıklama ile. Bu araç, şarkıları yüksek kaliteli MP3 dosyalarında kaydetmenizi sağlar ve bunları herhangi bir cihazda çevrimdışı dinleme için ideal hale getirir. Ek bir yazılım gerektirmez; sadece parça bağlantısını girin ve hemen indirmeye başlayın."
+        },
+        {
+            "title": "Tüm Playlist'i ZIP'e",
+            "description": "Playlist'ten ZIP'e dönüştürücü, birden fazla parçanın tek bir ZIP dosyasında paketlenmesiyle tam SoundCloud playlistlerini indirmenizi kolaylaştırır. Bu işlev, daha hızlı ve daha düzenli bir depolama sağlar, kullanıcıların müzik koleksiyonlarını kolaylıkla aktarmalarına ve yönetmelerine olanak tanır, her bir parçayı ayrı ayrı kaydetmek zorunda kalmazsınız."
+        },
+        {
+            "title": "Sanat Eseri İndirme Aracı",
+            "description": "En sevdiğiniz parçalarla birlikte SoundCloud'dan yüksek çözünürlüklü albüm kapaklarını indirin. Bu özellik, müzik kütüphanenizi geliştirmekte ve şarkılarınızı müzik uygulamaları ve oynatıcılarında iyi organize edilmiş tutmanıza yardımcı olurken, görsel olarak ilgi çekici bir dinleme deneyimi oluşturur."
+        },
+        {
+            "title": "Tüm Cihazlarla Uyumlu",
+            "description": "PC, Mac, Android veya iOS cihaz kullanıyor olsanız da, bu indirici tüm platformlarda sorunsuzca çalışır. Ek bir yazılım veya uygulama kurulumuna gerek yoktur; sadece tercih ettiğiniz web tarayıcısını açın ve SoundCloud parçalarını hemen indirip kullanın."
+        },
+        {
+            "title": "Albüm İndirim Aracı",
+            "description": "Full SoundCloud albümlerini, her bir parçayı ayrı ayrı kaydetmek zorunda kalmadan hızla indirin. Bu özellik, süreci basitleştirerek sanatçı koleksiyonlarının yüksek kaliteli sesle tek bir seferde toplanmasını ve saklanmasını sağlar, böylece çevrimdışı çalma daha kolay hale gelir."
+        },
+        {
+            "title": "FLAC ve MP3 Desteği",
+            "description": "Geliştirilmiş netlik ve derinlikle yüksek kaliteli ses dosyalarının keyfini çıkarın. Dinleme tercihinize uygun olarak 128kbps, 192kbps veya 320kbps MP3 formatlarını seçin. Ayrıca, farklı ses ihtiyaçları için esneklik sağlayan MP3, FLAC ve WAV gibi birden çok formatı destekler."
+        }
+    ],
+    "howToDownloadArtworkTitle": "Albüm sanatı nasıl indirilir?",
+    "howToDownloadArtworkSteps": [
+        {
+            "title": "SoundCloud Parçası veya Albüm URL'sini Kopyala",
+            "description": "SoundCloud'u açın ve istediğiniz sanat eseri bulunan parçayı, albümü veya listesi bulun. Paylaş düğmesine tıklayın ve verilen bağlantıyı kopyalayın."
+        },
+        {
+            "title": "Bağlantıyı İndiriciye Yapıştırın",
+            "description": "<0>SoundCloud Sanat Eseri İndirme Aracı</0>'na gidin, kopyalanan bağlantıyı arama çubuğuna yapıştırın ve resim almak için Sanat Eseri İndir düğmesine basın."
+        },
+        {
+            "title": "Albüm Kapağı Resmini İndirin",
+            "description": "Sanat eseri oluşturulduktan sonra, HD kalitesinde kaydetmek için İndir düğmesine tıklayın. Şimdi müzik koleksiyonunuz veya medya kütüphaneniz için albüm kapağınız hazır."
+        }
+    ],
+    "downloadSectionTitle": "SoundCloud Albüm Kapağı Resmi İndir",
+    "downloadSectionText": "SoundCloud albüm kapaklarını ve playlistlerini yüksek çözünürlükte kolayca çıkarın. Sadece SoundCloud URL'sini yapıştırın ve sanat eserini hemen indirin. Ayrıca Profil Resmi İndirmeyi de destekliyoruz.",
+    "downloadSectionExtra": "Bu araç, PC, Mac, Android ve iOS üzerinde çalışır ve (png, jpg) formatında net resimler sağlar. Bu araçla yüksek kaliteli albüm kapağı ve kullanıcı profil resmini çıkarabilirsiniz.",
+    "faqTitle": "Sıkça Sorulan Sorular",
+    "faq": [
+        {
+            "q": "SoundCloud Albüm Kapağı İndirici nedir?",
+            "a": "SoundCloud parça, playlist ve albümlerinden yüksek çözünürlüklü albüm görsellerini anında indirmenizi sağlayan bir çevrimiçi araçtır."
+        },
+        {
+            "q": "SoundCloud'dan albüm sanat eserini nasıl indiririm?",
+            "a": "SoundCloud parça, albüm veya playlist URL'sini kopyalayın, indirme aracına yapıştırın ve görüntüyü kaydetmek için 'Sanat Eseri İndir' düğmesine tıklayın."
+        },
+        {
+            "q": "İndirilen albüm kapaklarının kalitesi nedir?",
+            "a": "Bu araç, müzik organizasyonu ve medya oynatıcıları için net ve keskin sanat eserleri sağlayarak yüksek çözünürlüklü görüntüler getirir."
+        },
+        {
+            "q": "SoundCloud eserini indirmek için bir yazılım yüklemem gerekiyor mu?",
+            "a": "Hayır, bu araç tamamen çevrimiçi çalışır, albüm kapaklarını doğrudan web tarayıcınızdan indirmenizi sağlar, herhangi bir kurulum gerektirmez."
+        },
+        {
+            "q": "Telefonumdan sanat eseri indirebilir miyim?",
+            "a": "Evet, SoundCloud Sanat Eseri İndirici, Android ve iOS da dahil olmak üzere mobil cihazlarla uyumludur, albüm kapaklarını hareket halindeyken kaydetmeyi kolaylaştırır."
+        }
+    ]
+}

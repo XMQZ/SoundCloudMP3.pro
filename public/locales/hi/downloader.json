@@ -1,0 +1,13 @@
+{
+    "placeholder": "यहाँ SoundCloud URL चिपकाएँ",
+    "paste": "पेस्ट करें",
+    "download": "डाउनलोड करें",
+    "selectfromplaylist": "प्लेलिस्ट से चुनें",
+    "downloads": {
+        "singlemp3": "सिंगल MP3 ऑडियो डाउनलोड करें",
+        "entireplaylist": "पूरी प्लेलिस्ट को ZIP के रूप में डाउनलोड करें",
+        "albumcover": "एलबम कवर डाउनलोड करें",
+        "dp": "प्रोफाइल चित्र डाउनलोड करें",
+        "more": "अधिक डाउनलोड करें"
+    }
+}

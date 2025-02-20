@@ -1,0 +1,74 @@
+{
+    "web-title": "SoundCloud Oynatma Listesi İndirici - Tüm Oynatma Listesi ve Albümü ZIP'e Dönüştür",
+    "web-description": "SoundCloud oynatma listelerinden MP3 parçaları kolayca indirin. Tüm oynatma listelerini bir ZIP dosyasına dönüştürün. SoundCloud oynatma listesi MP3 dosyalarını doğrudan iPhone, Android veya herhangi bir cihaza kaydedin",
+    "downloader-title": "SoundCloud Oynatma Listesi İndir",
+    "downloader-description": "Oynatma Listesini ZIP'e Dönüştür veya MP3 dosyası olarak Kaydet",
+    "featuresTitle": "Tüm Oynatma Listesi ZIP Dönüştürücü Özellikleri",
+    "features": [
+        {
+            "title": "MP3 Ses Kaydetme",
+            "description": "SoundCloud şarkılarını tek tıklama ile MP3 formatında indirin. Bu özellik, şarkıları yüksek kaliteli MP3 dosyaları olarak kaydetmenizi sağlar, herhangi bir cihazda çevrimdışı dinleme için mükemmeldir. Ekstra yazılıma gerek yok, yalnızca iz bağlantısını yapıştırın ve hemen indirin."
+        },
+        {
+            "title": "Oynatma Listesi ZIP Dönüştürücü",
+            "description": "Oynatma Listesi ZIP Dönüştürücü, birden fazla parçayı tek bir ZIP dosyası olarak sıkıştırarak tüm SoundCloud oynatma listelerini indirmenizi kolaylaştırır. Bu özellik, hızlı ve etkin depolama sağlar, müzik koleksiyonunuzu parçaları tek tek indirmek zorunda kalmadan transfer etmeyi ve yönetmeyi kolaylaştırır."
+        },
+        {
+            "title": "Albüm Kapağı İndirici",
+            "description": "İndirilen parçalarla birlikte SoundCloud'dan yüksek kaliteli albüm kapaklarını alın. Bu özellik, müzik koleksiyonunuzu geliştirir ve medya oynatıcılar ve yayın platformlarında şarkıları görsel olarak organize etmeyi daha kolay hale getirir, daha etkileyici bir dinleme deneyimi sunar."
+        },
+        {
+            "title": "Tüm Cihazlarla Uyumludur",
+            "description": "PC, Mac, Android veya iOS kullanıyor olsanız da, bu indirici tüm platformlarda sorunsuz ve kolay işlevsellik sağlar. Ekstra yazılım veya uygulama kurulumuna gerek yok; sadece herhangi bir web tarayıcısını açın ve favori SoundCloud parçalarınızı anında indirmeye başlayın."
+        },
+        {
+            "title": "Albüm İndirici",
+            "description": "Tüm SoundCloud albümlerini tek bir indirime alın, parçaları tek tek kaydetme ihtiyacını ortadan kaldırın. Bu özellik süreci basitleştirir, tam sanatçı derlemelerini yüksek kaliteli sesle hızlıca toplamanıza ve depolamanıza imkan tanır, kesintisiz çevrimdışı dinleme sağlar."
+        },
+        {
+            "title": "Yüksek Kaliteli Ses",
+            "description": "Yüksek bit oranlı ses indirmeleri ile üstün ses kalitesinin keyfini çıkarın, kristal netliğinde oynatma sunar. 128kbps, 192kbps veya 320kbps MP3 seçeneklerinden birini seçin. Bu özellik, her parçanın bütünlüğünü koruyarak üstün kaliteli sadakat sağlar. Ayrıca, en iyi dinleme deneyimi için MP3, FLAC ve WAV gibi çeşitli format desteği sunar."
+        }
+    ],
+    "howToConvertTitle": "SoundCloud MP3 Nasıl ZIP'e Dönüştürülür?",
+    "howToConvertSteps": [
+        {
+            "title": "SoundCloud Oynatma Listesi URL'sini Kopyalayın",
+            "description": "Tarayıcınızda veya uygulamanızda SoundCloud'u açın, indirmek istediğiniz oynatma listesini bulun ve adres çubuğundan veya paylaşım düğmesinden oynatma listesi URL'sini kopyalayın."
+        },
+        {
+            "title": "URL'yi Yapıştırın ve Dönüştürün",
+            "description": "SoundCloud'dan ZIP'e Dönüştürücü aracına gidin, kopyalanan URL'yi giriş kutusuna yapıştırın ve ZIP'e Dönüştür düğmesine tıklayın. Araç, tüm parçaları işleyerek indirmeye hazır hale getirecektir."
+        },
+        {
+            "title": "ZIP Dosyasını İndirin",
+            "description": "Dönüştürme tamamlandığında, sıkıştırılmış dosyayı tüm parçalarla birlikte indirmek için ZIP İndir düğmesine tıklayın. ZIP dosyasını cihazınızda açarak tüm MP3 parçalarına anında erişim sağlayın."
+        }
+    ],
+    "downloadSectionTitle": "Tüm SoundCloud Oynatma Listesini ZIP İndirici",
+    "downloadSectionText": "Tüm SoundCloud oynatma listelerini tek bir ZIP dosyası olarak indirerek zaman ve efordan tasarruf edin. Her parçayı ayrı ayrı indirmek yerine, bu araç birden fazla şarkıyı bir kerede almanızı sağlar. Tüm parçanızı veya oynatma listenizi tek bir ZIP dosyasına dönüştürün.",
+    "downloadSectionExtra": "Basit bir kopyala-yapıştır-indir süreci ile herhangi bir SoundCloud oynatma listesi birkaç saniye içinde ZIP dosyasına dönüştürebilirsiniz. Ekstra yazılım veya kayıt gerekmez.",
+    "faqTitle": "Sıkça Sorulan Sorular",
+    "faq": [
+        {
+            "q": "SoundCloud Oynatma Listesi ZIP İndirici nedir?",
+            "a": "Bu, tüm SoundCloud oynatma listelerini tek bir ZIP dosyası olarak indirmenizi sağlayan bir araçtır, böylece birden fazla parçayı bir seferde depolamak ve erişmek daha kolay hale gelir."
+        },
+        {
+            "q": "Bir tüm oynatma listesini ZIP dosyası olarak nasıl indiririm?",
+            "a": "Oynatma listesinin URL'sini kopyalayın, indiriciye yapıştırın, 'ZIP'e Dönüştür' butonuna tıklayın ve tüm parçaları içeren sıkıştırılmış dosyayı indirin."
+        },
+        {
+            "q": "Bu aracı kullanmak için herhangi bir yazılım yüklemem gerekiyor mu?",
+            "a": "Hayır, SoundCloud Oynatma Listesi ZIP İndirici çevrimiçi çalışır, bu yüzden herhangi bir yazılım veya uygulama kurmanıza gerek yoktur."
+        },
+        {
+            "q": "Bu aracı telefonumda kullanabilir miyim?",
+            "a": "Evet, indirici mobil cihazlarla uyumludur, Android ve iOS dahil olmak üzere ve herhangi bir web tarayıcısı üzerinden çalışır."
+        },
+        {
+            "q": "İndirilen parçaların ses formatı nedir?",
+            "a": "Parçalar genellikle çevrimdışı dinleme için yüksek kaliteli ses sağlayan MP3 formatında indirilir."
+        }
+    ]
+}

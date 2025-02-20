@@ -1,0 +1,13 @@
+{
+    "placeholder": "SoundCloud-URL hier einfügen",
+    "paste": "Einfügen",
+    "download": "Herunterladen",
+    "selectfromplaylist": "Aus der Playlist auswählen",
+    "downloads": {
+        "singlemp3": "Einzelne MP3-Audiodatei herunterladen",
+        "entireplaylist": "Gesamte Playlist als ZIP herunterladen",
+        "albumcover": "Albumcover herunterladen",
+        "dp": "Profilbild herunterladen",
+        "more": "Mehr herunterladen"
+    }
+}

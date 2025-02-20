@@ -1,0 +1,102 @@
+{
+    "web-title": "#1 SoundCloud Downloader – Badilisha Nyimbo na Nyimbozi za SoundCloud MP3, Orodha za Nyimbo & Albamu",
+    "web-description": "Pakua nyimbo, orodha za nyimbo, albamu, na kazi za sanaa za SoundCloud mtandaoni na SoundCloud Downloader bora. Badilisha kuwa MP3 kwa ubora wa juu (320kbps) bila malipo. Rahisi kutumia kwenye kifaa chochote.",
+    "downloader-title": "SoundCloud Downloader & MP3 Converter",
+    "downloader-description": "Pakua Nyimbo, Miziki, Orodha za Nyimbo, Albamu za SoundCloud & Badilisha kuwa MP3 Mara Moja – Haraka, Bila Malipo, na Rahisi!",
+    "featuresTitle": "Vipengele vya SoundCloud Downloader",
+    "features": [
+        {
+            "title": "MP3 Audio Downloader",
+            "description": "Pakua nyimbo za SoundCloud kwa urahisi katika muundo wa MP3 kwa bonyeza moja pekee. Kipengele hiki kinakuruhusu kuhifadhi nyimbo katika mafaili ya MP3 yenye ubora wa juu, ikifanya iwe rahisi kusikiliza nje ya mtandao kwenye kifaa chochote. Hakuna haja ya programu za ziada. Bandika kiungo cha wimbo na upate faili yako mara moja."
+        },
+        {
+            "title": "Playlist to ZIP Converter",
+            "description": "Okoa muda kwa kupakua orodha nzima ya nyimbo za SoundCloud mara moja. Kipengele hiki kinakamata nyimbo nyingi katika faili moja la ZIP, ikifanya iwe rahisi kuhifadhi na kuhamisha nyimbo nyingi bila kupakua moja moja. Inafaa kwa madj, wapenzi wa muziki, na kusikiliza nje ya mtandao."
+        },
+        {
+            "title": "ArtWork Downloader",
+            "description": "Pakua kazi za sanaa za albamu zenye azimio la juu kutoka SoundCloud pamoja na nyimbo zako. Kipengele hiki kinahakikisha maktaba yako ya muziki inaonekana kamili ikiwa na picha za jalada zinazoonekana sahihi, kusaidia kupanga nyimbo zako kwa kuona kwenye vifaa vya kusikiliza muziki na programu za kusambaza."
+        },
+        {
+            "title": "Inaoana na Vifaa Vyote",
+            "description": "Ikiwa unatumia PC, Mac, Android, au kifaa cha iOS, downloader hii inafanya kazi kikamilifu kwenye majukwaa yote. Hakuna programu maalum au usakinishaji wa programu zinazohitajika, tumia tu kivinjari chochote cha mtandao kufikia na kupakua nyimbo zako pendwa za SoundCloud."
+        },
+        {
+            "title": "Album Downloader",
+            "description": "Pakua albamu nzima za SoundCloud kwa mara moja bila kupakua nyimbo binafsi moja baada ya nyingine. Kipengele hiki kinakusaidia kuokoa makusanyo nzima ya wasanii wako pendwa haraka na kwa ufanisi katika muundo wa sauti wa ubora wa juu."
+        },
+        {
+            "title": "Sauti ya Ubora wa Juu",
+            "description": "Furahia uzoefu bora wa sauti na upakuaji wa sauti zenye biti nyingi. Chagua kutoka 128kbps, 192kbps, au 320kbps MP3 ubora. Kipengele hiki kinahakikisha unapata sauti ya kiwango cha juu zaidi, ikihifadhi uwazi na kina katika kila wimbo. Tunaunga mkono MP3, FLAC, WAV."
+        }
+    ],
+    "howToDownloadTitle": "Jinsi ya kupakua SoundCloud MP3?",
+    "howToDownloadSteps": [
+        {
+            "title": "Fungua programu ya SoundCloud",
+            "description": "Fungua <0>tovuti ya SoundCloud</0> kutoka kwa kivinjari chochote au <1>programu</1>."
+        },
+        {
+            "title": "Nakili URL ya Wimbo wa SoundCloud",
+            "description": "Tafuta wimbo, orodha ya nyimbo, au albamu unayotaka kupakua. Gonga kitufe cha Shiriki na nakili URL ya wimbo."
+        },
+        {
+            "title": "Bandika URL kwenye Downloader",
+            "description": "Nenda kwenye <2>chombo cha Kupakua MP3</2> katika kivinjari chako. Bandika URL ya SoundCloud uliyokopi kwenye uwanja wa maingizo."
+        },
+        {
+            "title": "Chagua Muundo & Bonyeza 'Pakua'",
+            "description": "Chagua muundo wa sauti unaopendelea (MP3, WAV, nk) na chagua ubora wa biti unaotaka (128kbps, 192kbps, 320kbps). Kisha, bonyeza kitufe cha Pakua."
+        },
+        {
+            "title": "Hifadhi & Furahia Nje ya Mtandao",
+            "description": "Baada ya kuchakata, bonyeza kiungo cha Pakua ili kuhifadhi wimbo kwenye kifaa chako. Sasa unaweza kufurahia muziki wako pendwa wa SoundCloud nje ya mtandao wakati wowote!"
+        }
+    ],
+    "downloadSectionTitle": "Pakua SoundCloud MP3, Orodha ya Nyimbo, Albamu, Kazi ya Sanaa mtandaoni",
+    "downloadSectionText": "Pakua kwa urahisi nyimbo za SoundCloud MP3, orodha za nyimbo, albamu, na kazi za sanaa mtandaoni kwa mibofyo michache pekee. Badilisha muziki wa SoundCloud kuwa MP3 za ubora wa juu (128kbps, 192kbps, 320kbps) na uokoe orodha nzima za nyimbo au albamu kwa mara moja. Pata kazi za sanaa za albamu zenye ubora wa juu pamoja na upakuaji wako. <0>Kibadilisha Orodha ya Nyimbo kuwa ZIP</0> kinawaruhusu watumiaji kupakua albamu nzima au orodha za nyimbo katika faili moja la ZIP.",
+    "downloadSectionExtra": "Hakuna usakinishaji wa programu unaohitajika. Bandika tu URL na furahia kupakua bila malipo kwenye kifaa chochote, ikijumuisha PC, Mac, iOS, na Android.",
+    "faqTitle": "Maswali ya Mara kwa Mara",
+    "faq": [
+        {
+            "q": "SoundCloud Downloader ni nini?",
+            "a": "SoundCloud Downloader ni chombo cha mtandaoni kinachokuruhusu kupakua na kubadilisha nyimbo, orodha za nyimbo, albamu, na kazi za sanaa za SoundCloud kuwa MP3 au muundo mwingine wa sauti kwa ajili ya kusikiliza nje ya mtandao."
+        },
+        {
+            "q": "Je, ni bure kutumia?",
+            "a": "Ndio, chombo hiki ni bure na hakihitaji usajili au malipo yoyote."
+        },
+        {
+            "q": "Ninawezaje kupakua wimbo wa SoundCloud?",
+            "a": "Nakili URL ya wimbo, bandika kwenye downloader, chagua muundo na ubora upendao, kisha bonyeza 'Pakua'."
+        },
+        {
+            "q": "Je, naweza kupakua orodha nzima ya nyimbo kutoka SoundCloud?",
+            "a": "Ndio, downloader hii inaruhusu watumiaji kupakua orodha nzima ya nyimbo kama faili la ZIP au mafaili ya MP3 binafsi."
+        },
+        {
+            "q": "Ni ubora gani wa sauti wa juu kabisa ninaoweza kupakua?",
+            "a": "Kwa kawaida unaweza kupakua mafaili ya MP3 kwa 320kbps, ambayo ni ubora wa sauti wa juu zaidi unaopatikana. Chaguo zingine ni pamoja na 128kbps na 192kbps."
+        },
+        {
+            "q": "Je, naweza kutumia SoundCloud Downloader kwenye simu yangu?",
+            "a": "Ndio, kigeuzi hiki kinafanya kazi kwenye vifaa vya Android na iOS kupitia kivinjari cha mtandao."
+        },
+        {
+            "q": "Kivinjari kipi kinafaa kwa tovuti hii?",
+            "a": "Inafanya kazi kwenye vivinjari vikuu vyote kama Google Chrome, Mozilla Firefox, Safari, Microsoft Edge, na Opera."
+        },
+        {
+            "q": "Je, naweza kupakua nyimbo za siri au zilizofichwa?",
+            "a": "Tunasaidia nyimbo za siri, lakini unahitaji kuwa na ufikiaji wa URL ya wimbo ili kuzipakua."
+        },
+        {
+            "q": "Kwa nini upakuaji wangu unashindwa au haujafanyika?",
+            "a": "Hii inaweza kuwa kutokana na matatizo ya mtandao, mipangilio ya kivinjari, au wimbo wa SoundCloud ambao umewekewa vikwazo au umeondolewa. Jaribu kusasisha ukurasa au kutumia downloader tofauti."
+        },
+        {
+            "q": "SoundCloud Downloader ni salama kutumia?",
+            "a": "Ndio, mradi utumie downloader iliyoaminika na isiyo na matangazo, ni salama. Epuka downloaders zinazohitaji ruhusa zisizo za lazima au upakuaji za ziada."
+        }
+    ]
+}

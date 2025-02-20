@@ -1,0 +1,41 @@
+{
+    "web-title": "SoundCloudMP3 - Download SoundCloud Songs & Playlists as MP3",
+    "web-description": "Download SoundCloud songs, albums, and playlists as high-quality MP3 with SoundCloudMP3. Fast, free, and easy-to-use SoundCloud to MP3 converter. No registration required.",
+
+    "aboutTitle": "About Us",
+    "aboutSubtitle": "The Ultimate SoundCloud Downloader for High-Quality MP3s",
+
+    "whoWeAreTitle": "Who We Are",
+    "whoWeAreText": "Welcome to <strong>SoundCloudMP3</strong>, your go-to solution for downloading SoundCloud tracks in high-quality MP3 format. We are passionate about providing music lovers, DJs, content creators, and casual listeners with a seamless way to save and enjoy their favorite tracks offline.",
+
+    "missionTitle": "Our Mission",
+    "missionText": "Our mission is to offer a <strong>simple, fast, and reliable</strong> tool that allows users to download SoundCloud music in the best possible quality. We support multiple audio formats and bitrates, including <strong>128kbps, 192kbps, and 320kbps MP3</strong>, as well as <strong>FLAC and WAV</strong> for lossless quality.",
+
+    "whyChooseTitle": "Why Choose SoundCloudMP3?",
+    "whyChooseFeatures": [
+        "<strong>Fast & Easy Downloads</strong> – Convert and download SoundCloud tracks with just a few clicks. No software installation required.",
+        "<strong>Supports Playlists & Albums</strong> – Save entire playlists or albums as ZIP files effortlessly.",
+        "<strong>High-Quality Audio</strong> – Choose from different bitrates for the best audio experience.",
+        "<strong>Album Cover & Artwork Downloader</strong> – Download high-resolution album covers alongside your tracks.",
+        "<strong>Compatible with All Devices</strong> – Works seamlessly on PC, Mac, Android, and iOS.",
+        "<strong>Completely Free</strong> – No hidden fees or premium accounts required."
+    ],
+
+    "howItWorksTitle": "How It Works",
+    "howItWorksSteps": [
+        "Copy the URL of the SoundCloud track, playlist, or album you want to download.",
+        "Paste it into our <strong>SoundCloudMP3 Downloader</strong> input box.",
+        "Choose your preferred audio format and quality.",
+        "Click the <strong>Download</strong> button and get your MP3 file instantly."
+    ],
+
+    "commitmentTitle": "Our Commitment to Users",
+    "commitmentText": "We prioritize <strong>user privacy and security</strong>. We do not store download history or personal data, ensuring a completely <strong>anonymous and secure</strong> experience. Our platform provides <strong>ad-free, hassle-free, and unlimited</strong> downloading.",
+
+    "joinUsersTitle": "Join Thousands of Users Worldwide",
+    "joinUsersText": "Millions of users trust <strong>SoundCloudMP3</strong> for their SoundCloud music downloads. Whether you need tracks for personal listening, DJ mixing, or creative projects, we’re here to help you access the music you love anytime, anywhere.",
+
+    "ctaTitle": "Start Downloading Now!",
+    "ctaText": "Get started today and experience the best <strong>SoundCloud to MP3 converter</strong> available online.",
+    "ctaButton": "Try SoundCloudMP3 Now 🚀"
+}

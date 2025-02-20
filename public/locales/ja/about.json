@@ -1,0 +1,33 @@
+{
+    "web-title": "SoundCloudMP3 - SoundCloudの曲とプレイリストをMP3としてダウンロード",
+    "web-description": "SoundCloudMP3でSoundCloudの曲、アルバム、プレイリストを高品質のMP3としてダウンロード。高速、無料、簡単に使えるSoundCloudからMP3への変換。登録不要。",
+    "aboutTitle": "私たちについて",
+    "aboutSubtitle": "高品質MP3のための究極のSoundCloudダウンローダー",
+    "whoWeAreTitle": "私たちは誰か",
+    "whoWeAreText": "高品質のMP3フォーマットでSoundCloudトラックをダウンロードするための解決策<strong>SoundCloudMP3</strong>へようこそ。私たちは音楽愛好家、DJ、コンテンツクリエイター、カジュアルなリスナーに、お気に入りのトラックをオフラインで保存して楽しむためのシームレスな方法を提供することに情熱を注いでいます。",
+    "missionTitle": "私たちの使命",
+    "missionText": "私たちの使命は、ユーザーが最高の品質でSoundCloudの音楽をダウンロードできる<strong>シンプル、迅速、信頼性のある</strong>ツールを提供することです。128kbps、192kbps、320kbpsの<strong>MP3</strong>、さらには無損失品質の<strong>FLACとWAV</strong>を含む、複数のオーディオフォーマットとビットレートをサポートしています。",
+    "whyChooseTitle": "SoundCloudMP3が選ばれる理由",
+    "whyChooseFeatures": [
+        "<strong>高速で簡単なダウンロード</strong> – 数回のクリックでSoundCloudトラックを変換してダウンロード。ソフトウェアのインストールは不要です。",
+        "<strong>プレイリストとアルバムをサポート</strong> – ZIPファイルとしてプレイリストやアルバム全体を楽に保存できます。",
+        "<strong>高品質オーディオ</strong> – 最高のオーディオ体験のために異なるビットレートから選択。",
+        "<strong>アルバムカバーとアートワークのダウンローダー</strong> – トラックと一緒に高解像度のアルバムカバーをダウンロード。",
+        "<strong>すべてのデバイスと互換性</strong> – PC、Mac、Android、iOSでシームレスに動作。",
+        "<strong>完全無料</strong> – 隠れた料金やプレミアムアカウントは不要です。"
+    ],
+    "howItWorksTitle": "使い方",
+    "howItWorksSteps": [
+        "ダウンロードしたいSoundCloudトラック、プレイリスト、アルバムのURLをコピーします。",
+        "私たちの<strong>SoundCloudMP3ダウンローダー</strong>の入力ボックスに貼り付けます。",
+        "希望のオーディオフォーマットと品質を選択します。",
+        "<strong>ダウンロード</strong>ボタンをクリックし、MP3ファイルを即座に入手します。"
+    ],
+    "commitmentTitle": "ユーザーへの約束",
+    "commitmentText": "私たちは<strong>ユーザープライバシーとセキュリティ</strong>を優先します。ダウンロード履歴や個人データを保存せず、完全に<strong>匿名で安全</strong>な体験を保証します。私たちのプラットフォームは、<strong>広告なし、煩わしさなし、無制限</strong>のダウンロードを提供します。",
+    "joinUsersTitle": "世界中の数千ものユーザーに参加",
+    "joinUsersText": "数百万人のユーザーがSoundCloudから音楽をダウンロードするために<strong>SoundCloudMP3</strong>を信頼しています。個人的なリスニング、DJミキシング、またはクリエイティブプロジェクトのためにトラックが必要な場合でも、いつでもどこでもあなたの好きな音楽にアクセスするお手伝いをします。",
+    "ctaTitle": "今すぐダウンロードを開始しよう！",
+    "ctaText": "今日から始めて、オンラインで利用可能な最高の<strong>SoundCloudからMP3へのコンバーター</strong>を体験してください。",
+    "ctaButton": "SoundCloudMP3を今すぐ試す 🚀"
+}
