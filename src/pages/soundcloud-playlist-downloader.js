@@ -36,11 +36,11 @@ export default function SoundCloudPlaylistDownloaderPage() {
         },
         {
             "hrefLang": "zh-CN",
-            "href": "https://soundcloudmp3.pro/zh-cn/soundcloud-playlist-downloader"
+            "href": "https://soundcloudmp3.pro/zh-CN/soundcloud-playlist-downloader"
         },
         {
             "hrefLang": "zh-TW",
-            "href": "https://soundcloudmp3.pro/zh-tw/soundcloud-playlist-downloader"
+            "href": "https://soundcloudmp3.pro/zh-TW/soundcloud-playlist-downloader"
         },
         {
             "hrefLang": "hi",

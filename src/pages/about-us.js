@@ -32,11 +32,11 @@ export default function AboutUSPage() {
                 },
                 {
                     "hrefLang": "zh-CN",
-                    "href": "https://soundcloudmp3.pro/zh-cn/about-us"
+                    "href": "https://soundcloudmp3.pro/zh-CN/about-us"
                 },
                 {
                     "hrefLang": "zh-TW",
-                    "href": "https://soundcloudmp3.pro/zh-tw/about-us"
+                    "href": "https://soundcloudmp3.pro/zh-TW/about-us"
                 },
                 {
                     "hrefLang": "hi",

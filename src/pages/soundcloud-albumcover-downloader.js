@@ -36,11 +36,11 @@ export default function SoundCloudAlbumCoverDownloaderPage() {
         },
         {
             "hrefLang": "zh-CN",
-            "href": "https://soundcloudmp3.pro/zh-cn/soundcloud-albumcover-downloader"
+            "href": "https://soundcloudmp3.pro/zh-CN/soundcloud-albumcover-downloader"
         },
         {
             "hrefLang": "zh-TW",
-            "href": "https://soundcloudmp3.pro/zh-tw/soundcloud-albumcover-downloader"
+            "href": "https://soundcloudmp3.pro/zh-TW/soundcloud-albumcover-downloader"
         },
         {
             "hrefLang": "hi",
