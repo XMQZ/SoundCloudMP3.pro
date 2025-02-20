@@ -19,7 +19,7 @@ function App({ Component, pageProps }) {
 
   useEffect(() => {
     const handleRouteChange = (url) => {
-      window.gtag('config', 'G-G5JQX6J2TF', {
+      window.gtag('config', 'G-TEST', {
         page_path: url,
       })
     }
@@ -39,7 +39,7 @@ function App({ Component, pageProps }) {
       openGraph={{
         images: [
           {
-            url: 'https://soundcloudaud.com/ogpreview.png?love=me'
+            url: 'https://soundcloudmp3.pro/ogpreview.png?love=me'
           }
         ]
       }}
@@ -78,14 +78,14 @@ function App({ Component, pageProps }) {
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        gtag('config', 'G-G5JQX6J2TF');
+        gtag('config', 'G-TEST');
         `
       }}
       />
       </Head>
       <Script
         strategy="afterInteractive"
-        src={`https://www.googletagmanager.com/gtag/js?id=G-G5JQX6J2TF`}
+        src={`https://www.googletagmanager.com/gtag/js?id=G-TEST`}
       />
     <Script
         src="https://www.google.com/recaptcha/api.js?render=6LcY4WApAAAAAIr_KoT9zLdiiKU0DSzLmUsj68HY"
