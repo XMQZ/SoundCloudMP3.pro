@@ -5,7 +5,9 @@ import { Trans, useTranslation } from "next-i18next";
 import { useRouter } from 'next/router';
 import { NextSeo } from "next-seo";
 import AdsenseAd from '@/components/adsenseAd';
-import Lottie from "react-lottie-player";
+import dynamic from "next/dynamic";
+
+const Lottie = dynamic(() => import("react-lottie-player"), { ssr: false });
 import lottieJson from "../../public/loxan.json";
 
 export default function SoundCloudAlbumCoverDownloaderPage() {

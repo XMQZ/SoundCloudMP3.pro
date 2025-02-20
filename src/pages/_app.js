@@ -14,7 +14,7 @@ function App({ Component, pageProps }) {
 
   useEffect(() => {
     const direction = ['ar', 'he', 'fa'].includes(i18n.language) ? 'rtl' : 'ltr';
-    // document.documentElement.dir = direction;
+    document.documentElement.dir = direction;
   }, [i18n.language]);
 
   useEffect(() => {
