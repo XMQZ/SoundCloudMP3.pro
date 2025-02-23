@@ -16,7 +16,7 @@ export default function AboutUSPage() {
             <NextSeo
             title={t('web-title')}
             description={t('web-description')}
-            canonical={`https://soundcloudmp3.pro/${router.locale !== 'en' ? router.locale : ''}/about-us`}
+            canonical={`https://soundcloudmp3.pro/${router.locale !== 'en' ? `${router.locale}/` : ''}about-us`}
             languageAlternates={[
                 {
                     "hrefLang": "x-default",
