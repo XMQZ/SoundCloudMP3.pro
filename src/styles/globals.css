@@ -29,3 +29,15 @@
   font-weight: 700;
   font-style: normal;
 }
+
+/* dark-mode.css */
+:root {
+  --rsbs-backdrop-bg: rgba(0, 0, 0, 0.6);
+  --rsbs-bg: rgb(24 24 27);
+  --rsbs-handle-bg: hsla(0, 0%, 100%, 0.14); /* Light handle for contrast */
+  --rsbs-max-w: auto;
+  --rsbs-ml: env(safe-area-inset-left);
+  --rsbs-mr: env(safe-area-inset-right);
+  --rsbs-overlay-rounded: 16px;
+  --rsbs-text-color: #fff; /* Add a text color variable */
+}
