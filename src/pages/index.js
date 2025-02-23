@@ -22,58 +22,90 @@ export default function Home() {
       description={t('web-description')}
       canonical={`https://soundcloudmp3.pro${router.locale !== 'en' ? `/${router.locale}` : ''}`}
       languageAlternates={[
-          {
-              "hrefLang": "x-default",
-              "href": "https://soundcloudmp3.pro"
-          },
-          {
-              "hrefLang": "en",
-              "href": "https://soundcloudmp3.pro"
-          },
-          {
-              "hrefLang": "zh-CN",
-              "href": "https://soundcloudmp3.pro/zh-CN"
-          },
-          {
-              "hrefLang": "es",
-              "href": "https://soundcloudmp3.pro/es"
-          },
-          {
-              "hrefLang": "ar",
-              "href": "https://soundcloudmp3.pro/ar"
-          },
-          {
-              "hrefLang": "hi",
-              "href": "https://soundcloudmp3.pro/hi"
-          },
-          {
-              "hrefLang": "fr",
-              "href": "https://soundcloudmp3.pro/fr"
-          },
-          {
-              "hrefLang": "ru",
-              "href": "https://soundcloudmp3.pro/ru"
-          },
-          {
-              "hrefLang": "pt",
-              "href": "https://soundcloudmp3.pro/pt"
-          },
-          {
-              "hrefLang": "de",
-              "href": "https://soundcloudmp3.pro/de"
-          },
-          {
-              "hrefLang": "ja",
-              "href": "https://soundcloudmp3.pro/ja"
-          },
-          {
-              "hrefLang": "ko",
-              "href": "https://soundcloudmp3.pro/ko"
-          },
-          {
-              "hrefLang": "vi",
-              "href": "https://soundcloudmp3.pro/vi"
-          }
+        {
+            "hrefLang": "x-default",
+            "href": "https://soundcloudmp3.pro"
+        },
+        {
+            "hrefLang": "en",
+            "href": "https://soundcloudmp3.pro"
+        },
+        {
+            "hrefLang": "es",
+            "href": "https://soundcloudmp3.pro/es"
+        },
+        {
+            "hrefLang": "zh-CN",
+            "href": "https://soundcloudmp3.pro/zh-CN"
+        },
+        {
+            "hrefLang": "zh-TW",
+            "href": "https://soundcloudmp3.pro/zh-TW"
+        },
+        {
+            "hrefLang": "hi",
+            "href": "https://soundcloudmp3.pro/hi"
+        },
+        {
+            "hrefLang": "ar",
+            "href": "https://soundcloudmp3.pro/ar"
+        },
+        {
+            "hrefLang": "fr",
+            "href": "https://soundcloudmp3.pro/fr"
+        },
+        {
+            "hrefLang": "pt",
+            "href": "https://soundcloudmp3.pro/pt"
+        },
+        {
+            "hrefLang": "bn",
+            "href": "https://soundcloudmp3.pro/bn"
+        },
+        {
+            "hrefLang": "ru",
+            "href": "https://soundcloudmp3.pro/ru"
+        },
+        {
+            "hrefLang": "de",
+            "href": "https://soundcloudmp3.pro/de"
+        },
+        {
+            "hrefLang": "ja",
+            "href": "https://soundcloudmp3.pro/ja"
+        },
+        {
+            "hrefLang": "ko",
+            "href": "https://soundcloudmp3.pro/ko"
+        },
+        {
+            "hrefLang": "it",
+            "href": "https://soundcloudmp3.pro/it"
+        },
+        {
+            "hrefLang": "tr",
+            "href": "https://soundcloudmp3.pro/tr"
+        },
+        {
+            "hrefLang": "ur",
+            "href": "https://soundcloudmp3.pro/ur"
+        },
+        {
+            "hrefLang": "th",
+            "href": "https://soundcloudmp3.pro/th"
+        },
+        {
+            "hrefLang": "sw",
+            "href": "https://soundcloudmp3.pro/sw"
+        },
+        {
+            "hrefLang": "fa",
+            "href": "https://soundcloudmp3.pro/fa"
+        },
+        {
+            "hrefLang": "vi",
+            "href": "https://soundcloudmp3.pro/vi"
+        }
         ]}
         />
       <section style={{ 'background': 'linear-gradient(to right, #f12711, #f5af19)', 'border-bottom-right-radius': '3rem', 'border-bottom-left-radius': '3rem' }}>
@@ -109,7 +141,7 @@ export default function Home() {
                       <div className={`font-sans mt-10 ${index % 2 === 0 ? 'md:ml-10' : 'md:mr-10'}`}>
                           <h3 className="text-3xl font-bold">{step.title}</h3>
                           <p className="mt-4 max-w-xl font-light text-lg md:text-2xl text-gray-700">
-                              <Trans i18nKey={`howToDownloadSteps.${index}.description`} components={ [<Link href="https://soundcloud.com" className="text-amber-400" key={0} />, <Link href="https://play.google.com/store/apps/details?id=com.soundcloud.android" className="text-amber-400" key={1} />, <Link href="/" className="text-amber-400" key={2} />] } />
+                              <Trans i18nKey={`howToDownloadSteps.${index}.description`} components={ [<Link href="https://soundcloud.com" className="text-amber-400" key={0} />, <Link href="https://play.google.com/store/apps/details?id=com.soundcloud.android" className="text-amber-400" key={1} />, <Link href="" className="text-amber-400" key={2} />] } />
                           </p>
                       </div>
                   </div>
