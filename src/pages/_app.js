@@ -50,7 +50,7 @@ function App({ Component, pageProps }) {
         },
         {
           rel: 'icon',
-          href: '/xm/favicon.ico?v=x',
+          href: '/xm/favicon.ico?v=32',
         },
         {
           rel: 'apple-touch-icon',
