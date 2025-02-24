@@ -368,7 +368,7 @@ export default function Downloader(props) {
                                 </select>
                                 <a onClick={()=>{
                                     let trackIndex = document.getElementById("tracklist").value;
-                                    DownloadAudio(DlData.playlist[trackIndex], 'soundcloudaud.com_' + DlData.playlist[trackIndex].title + '.mp3')
+                                    DownloadAudio(DlData.playlist[trackIndex], 'soundcloudmp3.pro_' + DlData.playlist[trackIndex].title + '.mp3')
                                 }}
                                     type="button" className="text-white cursor-pointer flex items-center justify-center w-full bg-gradient-to-r from-orange-500 to-red-600 font-bold rounded-lg text-sm px-5 py-2.5 text-center">
                                         {
@@ -386,7 +386,7 @@ export default function Downloader(props) {
                         {
                             DlData.sound && <div>
                             <a onClick={()=>{
-                                DownloadAudio(DlData.sound, `soundcloudaud.com_${DlData.metadata.title}.mp3`)
+                                DownloadAudio(DlData.sound, `soundcloudmp3.pro_${DlData.metadata.title}.mp3`)
                             }}
                             type="button" className="text-white cursor-pointer relative flex items-center justify-center w-full bg-gradient-to-r from-orange-500 to-red-600 font-bold rounded-lg text-sm px-5 py-2.5 text-center">
                                 {
